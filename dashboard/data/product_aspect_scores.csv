@@ -1,0 +1,1076 @@
+asin,aspect,mentions,pos,neg,net_score,product,brand
+B002UHS0UI,battery,16,0.0,0.6875,-0.688,Verizon Wireless Motorola RAZR V3m - Silver,Motorola
+B002UHS0UI,customer_service,20,0.25,0.35,-0.1,Verizon Wireless Motorola RAZR V3m - Silver,Motorola
+B002UHS0UI,network,25,0.16,0.56,-0.4,Verizon Wireless Motorola RAZR V3m - Silver,Motorola
+B002WTC1NG,battery,40,0.425,0.375,0.05,Motorola Barrage V860 Phone (Verizon Wireless),Motorola
+B002WTC1NG,build,12,0.3333333333333333,0.5,-0.167,Motorola Barrage V860 Phone (Verizon Wireless),Motorola
+B002WTC1NG,camera,11,0.2727272727272727,0.09090909090909091,0.182,Motorola Barrage V860 Phone (Verizon Wireless),Motorola
+B002WTC1NG,customer_service,15,0.13333333333333333,0.6666666666666666,-0.533,Motorola Barrage V860 Phone (Verizon Wireless),Motorola
+B002WTC1NG,delivery,12,0.4166666666666667,0.25,0.167,Motorola Barrage V860 Phone (Verizon Wireless),Motorola
+B002WTC1NG,network,31,0.25806451612903225,0.41935483870967744,-0.161,Motorola Barrage V860 Phone (Verizon Wireless),Motorola
+B002WTC1NG,price,11,0.45454545454545453,0.45454545454545453,0.0,Motorola Barrage V860 Phone (Verizon Wireless),Motorola
+B002WTC1NG,screen,16,0.0625,0.625,-0.562,Motorola Barrage V860 Phone (Verizon Wireless),Motorola
+B002WTC1NG,sound,13,0.46153846153846156,0.46153846153846156,0.0,Motorola Barrage V860 Phone (Verizon Wireless),Motorola
+B004GLQTG8,battery,19,0.5263157894736842,0.21052631578947367,0.316,Samsung R355C Net 10 Unlimited,Samsung
+B004GLQTG8,camera,17,0.23529411764705882,0.17647058823529413,0.059,Samsung R355C Net 10 Unlimited,Samsung
+B004GLQTG8,network,18,0.5,0.2777777777777778,0.222,Samsung R355C Net 10 Unlimited,Samsung
+B004GLQTG8,price,33,0.8181818181818182,0.09090909090909091,0.727,Samsung R355C Net 10 Unlimited,Samsung
+B004GLQTG8,sound,12,0.6666666666666666,0.16666666666666666,0.5,Samsung R355C Net 10 Unlimited,Samsung
+B004H23JXW,battery,23,0.17391304347826086,0.5652173913043478,-0.391,"Samsung Focus I917 Unlocked Phone with Windows 7 OS, 5 MP Camera, and Wi-Fi--No Warranty (Black)",Samsung
+B004H23JXW,build,11,0.5454545454545454,0.36363636363636365,0.182,"Samsung Focus I917 Unlocked Phone with Windows 7 OS, 5 MP Camera, and Wi-Fi--No Warranty (Black)",Samsung
+B004H23JXW,camera,37,0.43243243243243246,0.2972972972972973,0.135,"Samsung Focus I917 Unlocked Phone with Windows 7 OS, 5 MP Camera, and Wi-Fi--No Warranty (Black)",Samsung
+B004H23JXW,customer_service,12,0.08333333333333333,0.4166666666666667,-0.333,"Samsung Focus I917 Unlocked Phone with Windows 7 OS, 5 MP Camera, and Wi-Fi--No Warranty (Black)",Samsung
+B004H23JXW,delivery,18,0.5555555555555556,0.3333333333333333,0.222,"Samsung Focus I917 Unlocked Phone with Windows 7 OS, 5 MP Camera, and Wi-Fi--No Warranty (Black)",Samsung
+B004H23JXW,design,19,0.8947368421052632,0.05263157894736842,0.842,"Samsung Focus I917 Unlocked Phone with Windows 7 OS, 5 MP Camera, and Wi-Fi--No Warranty (Black)",Samsung
+B004H23JXW,network,39,0.28205128205128205,0.2564102564102564,0.026,"Samsung Focus I917 Unlocked Phone with Windows 7 OS, 5 MP Camera, and Wi-Fi--No Warranty (Black)",Samsung
+B004H23JXW,performance,17,0.7058823529411765,0.17647058823529413,0.529,"Samsung Focus I917 Unlocked Phone with Windows 7 OS, 5 MP Camera, and Wi-Fi--No Warranty (Black)",Samsung
+B004H23JXW,price,31,0.6451612903225806,0.1935483870967742,0.452,"Samsung Focus I917 Unlocked Phone with Windows 7 OS, 5 MP Camera, and Wi-Fi--No Warranty (Black)",Samsung
+B004H23JXW,screen,40,0.625,0.175,0.45,"Samsung Focus I917 Unlocked Phone with Windows 7 OS, 5 MP Camera, and Wi-Fi--No Warranty (Black)",Samsung
+B004H23JXW,software,44,0.22727272727272727,0.4772727272727273,-0.25,"Samsung Focus I917 Unlocked Phone with Windows 7 OS, 5 MP Camera, and Wi-Fi--No Warranty (Black)",Samsung
+B004H23JXW,usability,12,1.0,0.0,1.0,"Samsung Focus I917 Unlocked Phone with Windows 7 OS, 5 MP Camera, and Wi-Fi--No Warranty (Black)",Samsung
+B007X6FFLS,battery,20,0.25,0.45,-0.2,Samsung a157 GoPhone (AT&T),Samsung
+B007X6FFLS,network,33,0.24242424242424243,0.3939393939393939,-0.152,Samsung a157 GoPhone (AT&T),Samsung
+B007X6FFLS,price,25,0.64,0.24,0.4,Samsung a157 GoPhone (AT&T),Samsung
+B00836Y6B2,battery,62,0.14516129032258066,0.6451612903225806,-0.5,Nokia Lumia 900 Black Factory Unlocked,Nokia
+B00836Y6B2,camera,55,0.3090909090909091,0.45454545454545453,-0.145,Nokia Lumia 900 Black Factory Unlocked,Nokia
+B00836Y6B2,customer_service,57,0.14035087719298245,0.631578947368421,-0.491,Nokia Lumia 900 Black Factory Unlocked,Nokia
+B00836Y6B2,delivery,39,0.4358974358974359,0.46153846153846156,-0.026,Nokia Lumia 900 Black Factory Unlocked,Nokia
+B00836Y6B2,design,29,0.6551724137931034,0.2413793103448276,0.414,Nokia Lumia 900 Black Factory Unlocked,Nokia
+B00836Y6B2,network,42,0.21428571428571427,0.42857142857142855,-0.214,Nokia Lumia 900 Black Factory Unlocked,Nokia
+B00836Y6B2,performance,13,0.5384615384615384,0.46153846153846156,0.077,Nokia Lumia 900 Black Factory Unlocked,Nokia
+B00836Y6B2,price,39,0.5128205128205128,0.358974358974359,0.154,Nokia Lumia 900 Black Factory Unlocked,Nokia
+B00836Y6B2,screen,31,0.3548387096774194,0.5483870967741935,-0.194,Nokia Lumia 900 Black Factory Unlocked,Nokia
+B00836Y6B2,software,32,0.125,0.59375,-0.469,Nokia Lumia 900 Black Factory Unlocked,Nokia
+B00836Y6B2,sound,24,0.20833333333333334,0.6666666666666666,-0.458,Nokia Lumia 900 Black Factory Unlocked,Nokia
+B00836Y6B2,storage,14,0.14285714285714285,0.42857142857142855,-0.286,Nokia Lumia 900 Black Factory Unlocked,Nokia
+B00836Y6B2,usability,22,0.8181818181818182,0.13636363636363635,0.682,Nokia Lumia 900 Black Factory Unlocked,Nokia
+B0096QYH80,battery,84,0.3333333333333333,0.44047619047619047,-0.107,"Motorola Droid RAZR M XT907 Verizon Wireless, 8GB, White",Motorola
+B0096QYH80,build,11,0.5454545454545454,0.18181818181818182,0.364,"Motorola Droid RAZR M XT907 Verizon Wireless, 8GB, White",Motorola
+B0096QYH80,camera,33,0.3333333333333333,0.3333333333333333,0.0,"Motorola Droid RAZR M XT907 Verizon Wireless, 8GB, White",Motorola
+B0096QYH80,customer_service,23,0.17391304347826086,0.5217391304347826,-0.348,"Motorola Droid RAZR M XT907 Verizon Wireless, 8GB, White",Motorola
+B0096QYH80,delivery,15,0.5333333333333333,0.2,0.333,"Motorola Droid RAZR M XT907 Verizon Wireless, 8GB, White",Motorola
+B0096QYH80,design,44,0.7045454545454546,0.20454545454545456,0.5,"Motorola Droid RAZR M XT907 Verizon Wireless, 8GB, White",Motorola
+B0096QYH80,network,78,0.20512820512820512,0.5128205128205128,-0.308,"Motorola Droid RAZR M XT907 Verizon Wireless, 8GB, White",Motorola
+B0096QYH80,performance,31,0.5161290322580645,0.25806451612903225,0.258,"Motorola Droid RAZR M XT907 Verizon Wireless, 8GB, White",Motorola
+B0096QYH80,price,22,0.5,0.22727272727272727,0.273,"Motorola Droid RAZR M XT907 Verizon Wireless, 8GB, White",Motorola
+B0096QYH80,screen,72,0.4166666666666667,0.3611111111111111,0.056,"Motorola Droid RAZR M XT907 Verizon Wireless, 8GB, White",Motorola
+B0096QYH80,software,22,0.22727272727272727,0.36363636363636365,-0.136,"Motorola Droid RAZR M XT907 Verizon Wireless, 8GB, White",Motorola
+B0096QYH80,sound,25,0.44,0.4,0.04,"Motorola Droid RAZR M XT907 Verizon Wireless, 8GB, White",Motorola
+B0096QYH80,storage,26,0.15384615384615385,0.5,-0.346,"Motorola Droid RAZR M XT907 Verizon Wireless, 8GB, White",Motorola
+B0096QYH80,usability,10,0.8,0.0,0.8,"Motorola Droid RAZR M XT907 Verizon Wireless, 8GB, White",Motorola
+B00A2V7BA4,battery,133,0.39849624060150374,0.2857142857142857,0.113,"Nokia Lumia 920, Black 32GB (AT&T)",Nokia
+B00A2V7BA4,build,44,0.6363636363636364,0.3181818181818182,0.318,"Nokia Lumia 920, Black 32GB (AT&T)",Nokia
+B00A2V7BA4,camera,208,0.4375,0.11538461538461539,0.322,"Nokia Lumia 920, Black 32GB (AT&T)",Nokia
+B00A2V7BA4,customer_service,20,0.15,0.5,-0.35,"Nokia Lumia 920, Black 32GB (AT&T)",Nokia
+B00A2V7BA4,delivery,11,0.45454545454545453,0.36363636363636365,0.091,"Nokia Lumia 920, Black 32GB (AT&T)",Nokia
+B00A2V7BA4,design,89,0.7640449438202247,0.11235955056179775,0.652,"Nokia Lumia 920, Black 32GB (AT&T)",Nokia
+B00A2V7BA4,network,54,0.2962962962962963,0.25925925925925924,0.037,"Nokia Lumia 920, Black 32GB (AT&T)",Nokia
+B00A2V7BA4,performance,37,0.8378378378378378,0.16216216216216217,0.676,"Nokia Lumia 920, Black 32GB (AT&T)",Nokia
+B00A2V7BA4,price,36,0.6944444444444444,0.2222222222222222,0.472,"Nokia Lumia 920, Black 32GB (AT&T)",Nokia
+B00A2V7BA4,screen,127,0.5669291338582677,0.2440944881889764,0.323,"Nokia Lumia 920, Black 32GB (AT&T)",Nokia
+B00A2V7BA4,software,116,0.33620689655172414,0.22413793103448276,0.112,"Nokia Lumia 920, Black 32GB (AT&T)",Nokia
+B00A2V7BA4,sound,40,0.575,0.225,0.35,"Nokia Lumia 920, Black 32GB (AT&T)",Nokia
+B00A2V7BA4,storage,12,0.4166666666666667,0.3333333333333333,0.083,"Nokia Lumia 920, Black 32GB (AT&T)",Nokia
+B00A2V7BA4,usability,49,0.8163265306122449,0.12244897959183673,0.694,"Nokia Lumia 920, Black 32GB (AT&T)",Nokia
+B00A7F57EM,battery,21,0.23809523809523808,0.2857142857142857,-0.048,Nokia Lumia 822 16GB Windows Phone Black - Verizon,Nokia
+B00A7F57EM,camera,16,0.375,0.1875,0.188,Nokia Lumia 822 16GB Windows Phone Black - Verizon,Nokia
+B00A7F57EM,network,18,0.1111111111111111,0.6111111111111112,-0.5,Nokia Lumia 822 16GB Windows Phone Black - Verizon,Nokia
+B00A7F57EM,screen,20,0.75,0.05,0.7,Nokia Lumia 822 16GB Windows Phone Black - Verizon,Nokia
+B00A7F57EM,software,11,0.18181818181818182,0.45454545454545453,-0.273,Nokia Lumia 822 16GB Windows Phone Black - Verizon,Nokia
+B00A7F5M9W,battery,13,0.46153846153846156,0.0,0.462,"Nokia Lumia 822, White 16GB (Verizon Wireless)",Nokia
+B00A7F5M9W,camera,22,0.13636363636363635,0.2727272727272727,-0.136,"Nokia Lumia 822, White 16GB (Verizon Wireless)",Nokia
+B00A7F5M9W,design,13,0.5384615384615384,0.3076923076923077,0.231,"Nokia Lumia 822, White 16GB (Verizon Wireless)",Nokia
+B00A7F5M9W,screen,15,0.3333333333333333,0.4666666666666667,-0.133,"Nokia Lumia 822, White 16GB (Verizon Wireless)",Nokia
+B00CEKXJ3Y,battery,70,0.32857142857142857,0.38571428571428573,-0.057,"Samsung Galaxy S4, Black Mist 16GB (Sprint)",Samsung
+B00CEKXJ3Y,build,14,0.5714285714285714,0.21428571428571427,0.357,"Samsung Galaxy S4, Black Mist 16GB (Sprint)",Samsung
+B00CEKXJ3Y,camera,33,0.5454545454545454,0.12121212121212122,0.424,"Samsung Galaxy S4, Black Mist 16GB (Sprint)",Samsung
+B00CEKXJ3Y,customer_service,23,0.08695652173913043,0.43478260869565216,-0.348,"Samsung Galaxy S4, Black Mist 16GB (Sprint)",Samsung
+B00CEKXJ3Y,delivery,23,0.6956521739130435,0.13043478260869565,0.565,"Samsung Galaxy S4, Black Mist 16GB (Sprint)",Samsung
+B00CEKXJ3Y,design,20,0.75,0.0,0.75,"Samsung Galaxy S4, Black Mist 16GB (Sprint)",Samsung
+B00CEKXJ3Y,network,50,0.08,0.6,-0.52,"Samsung Galaxy S4, Black Mist 16GB (Sprint)",Samsung
+B00CEKXJ3Y,performance,13,0.6923076923076923,0.3076923076923077,0.385,"Samsung Galaxy S4, Black Mist 16GB (Sprint)",Samsung
+B00CEKXJ3Y,price,18,0.6666666666666666,0.2222222222222222,0.444,"Samsung Galaxy S4, Black Mist 16GB (Sprint)",Samsung
+B00CEKXJ3Y,screen,43,0.5813953488372093,0.23255813953488372,0.349,"Samsung Galaxy S4, Black Mist 16GB (Sprint)",Samsung
+B00CEKXJ3Y,software,18,0.2222222222222222,0.3888888888888889,-0.167,"Samsung Galaxy S4, Black Mist 16GB (Sprint)",Samsung
+B00CEKXJ3Y,sound,10,0.3,0.2,0.1,"Samsung Galaxy S4, Black Mist 16GB (Sprint)",Samsung
+B00CEKXJ3Y,storage,10,0.0,0.4,-0.4,"Samsung Galaxy S4, Black Mist 16GB (Sprint)",Samsung
+B00CEKXJ3Y,usability,12,0.8333333333333334,0.16666666666666666,0.667,"Samsung Galaxy S4, Black Mist 16GB (Sprint)",Samsung
+B00CEKXZA6,battery,32,0.21875,0.53125,-0.312,"Samsung Galaxy S4, White Frost 16GB (Sprint)",Samsung
+B00CEKXZA6,camera,17,0.5294117647058824,0.11764705882352941,0.412,"Samsung Galaxy S4, White Frost 16GB (Sprint)",Samsung
+B00CEKXZA6,delivery,10,0.6,0.0,0.6,"Samsung Galaxy S4, White Frost 16GB (Sprint)",Samsung
+B00CEKXZA6,design,23,0.9565217391304348,0.043478260869565216,0.913,"Samsung Galaxy S4, White Frost 16GB (Sprint)",Samsung
+B00CEKXZA6,network,17,0.17647058823529413,0.47058823529411764,-0.294,"Samsung Galaxy S4, White Frost 16GB (Sprint)",Samsung
+B00CEKXZA6,performance,15,0.8,0.06666666666666667,0.733,"Samsung Galaxy S4, White Frost 16GB (Sprint)",Samsung
+B00CEKXZA6,price,13,0.7692307692307693,0.23076923076923078,0.538,"Samsung Galaxy S4, White Frost 16GB (Sprint)",Samsung
+B00CEKXZA6,screen,24,0.7083333333333334,0.125,0.583,"Samsung Galaxy S4, White Frost 16GB (Sprint)",Samsung
+B00CEKXZA6,software,10,0.1,0.4,-0.3,"Samsung Galaxy S4, White Frost 16GB (Sprint)",Samsung
+B00CGIULGC,battery,21,0.19047619047619047,0.6190476190476191,-0.429,Samsung Galaxy Rugby Pro 4G LTE I547 Unlocked Android Ruggedized Smart Phone,Samsung
+B00CGIULGC,build,14,0.6428571428571429,0.2857142857142857,0.357,Samsung Galaxy Rugby Pro 4G LTE I547 Unlocked Android Ruggedized Smart Phone,Samsung
+B00CGIULGC,camera,12,0.25,0.16666666666666666,0.083,Samsung Galaxy Rugby Pro 4G LTE I547 Unlocked Android Ruggedized Smart Phone,Samsung
+B00CGIULGC,performance,10,0.4,0.6,-0.2,Samsung Galaxy Rugby Pro 4G LTE I547 Unlocked Android Ruggedized Smart Phone,Samsung
+B00CGIULGC,price,12,0.5833333333333334,0.4166666666666667,0.167,Samsung Galaxy Rugby Pro 4G LTE I547 Unlocked Android Ruggedized Smart Phone,Samsung
+B00CGIULGC,screen,23,0.30434782608695654,0.5652173913043478,-0.261,Samsung Galaxy Rugby Pro 4G LTE I547 Unlocked Android Ruggedized Smart Phone,Samsung
+B00CQAODG4,battery,54,0.3888888888888889,0.25925925925925924,0.13,"Nokia Lumia 928, White 32GB (Verizon Wireless)",Nokia
+B00CQAODG4,camera,92,0.5652173913043478,0.11956521739130435,0.446,"Nokia Lumia 928, White 32GB (Verizon Wireless)",Nokia
+B00CQAODG4,customer_service,16,0.3125,0.4375,-0.125,"Nokia Lumia 928, White 32GB (Verizon Wireless)",Nokia
+B00CQAODG4,design,38,0.7368421052631579,0.15789473684210525,0.579,"Nokia Lumia 928, White 32GB (Verizon Wireless)",Nokia
+B00CQAODG4,network,45,0.2,0.3333333333333333,-0.133,"Nokia Lumia 928, White 32GB (Verizon Wireless)",Nokia
+B00CQAODG4,performance,23,0.6521739130434783,0.2608695652173913,0.391,"Nokia Lumia 928, White 32GB (Verizon Wireless)",Nokia
+B00CQAODG4,price,20,0.55,0.3,0.25,"Nokia Lumia 928, White 32GB (Verizon Wireless)",Nokia
+B00CQAODG4,screen,51,0.5294117647058824,0.3333333333333333,0.196,"Nokia Lumia 928, White 32GB (Verizon Wireless)",Nokia
+B00CQAODG4,software,58,0.3275862068965517,0.20689655172413793,0.121,"Nokia Lumia 928, White 32GB (Verizon Wireless)",Nokia
+B00CQAODG4,sound,30,0.5,0.4,0.1,"Nokia Lumia 928, White 32GB (Verizon Wireless)",Nokia
+B00CQAODG4,storage,10,0.2,0.3,-0.1,"Nokia Lumia 928, White 32GB (Verizon Wireless)",Nokia
+B00CQAODG4,usability,33,0.7272727272727273,0.18181818181818182,0.545,"Nokia Lumia 928, White 32GB (Verizon Wireless)",Nokia
+B00E6FGSHY,battery,55,0.2,0.4727272727272727,-0.273,"Samsung Galaxy S4, White Frost 16GB (AT&T)",Samsung
+B00E6FGSHY,camera,23,0.43478260869565216,0.391304347826087,0.043,"Samsung Galaxy S4, White Frost 16GB (AT&T)",Samsung
+B00E6FGSHY,customer_service,33,0.12121212121212122,0.5757575757575758,-0.455,"Samsung Galaxy S4, White Frost 16GB (AT&T)",Samsung
+B00E6FGSHY,delivery,26,0.6153846153846154,0.19230769230769232,0.423,"Samsung Galaxy S4, White Frost 16GB (AT&T)",Samsung
+B00E6FGSHY,design,22,0.7727272727272727,0.09090909090909091,0.682,"Samsung Galaxy S4, White Frost 16GB (AT&T)",Samsung
+B00E6FGSHY,network,36,0.16666666666666666,0.6111111111111112,-0.444,"Samsung Galaxy S4, White Frost 16GB (AT&T)",Samsung
+B00E6FGSHY,performance,13,0.38461538461538464,0.46153846153846156,-0.077,"Samsung Galaxy S4, White Frost 16GB (AT&T)",Samsung
+B00E6FGSHY,price,23,0.43478260869565216,0.5217391304347826,-0.087,"Samsung Galaxy S4, White Frost 16GB (AT&T)",Samsung
+B00E6FGSHY,screen,31,0.5483870967741935,0.25806451612903225,0.29,"Samsung Galaxy S4, White Frost 16GB (AT&T)",Samsung
+B00E6FGSHY,software,32,0.15625,0.59375,-0.438,"Samsung Galaxy S4, White Frost 16GB (AT&T)",Samsung
+B00E6FGSHY,storage,10,0.5,0.2,0.3,"Samsung Galaxy S4, White Frost 16GB (AT&T)",Samsung
+B00E6FGSHY,usability,10,0.6,0.4,0.2,"Samsung Galaxy S4, White Frost 16GB (AT&T)",Samsung
+B00EP2BN00,battery,20,0.25,0.55,-0.3,"Samsung Convoy 3, Gray (Verizon Wireless)",Samsung
+B00EP2BN00,build,11,0.8181818181818182,0.09090909090909091,0.727,"Samsung Convoy 3, Gray (Verizon Wireless)",Samsung
+B00EP2BN00,design,13,0.3076923076923077,0.46153846153846156,-0.154,"Samsung Convoy 3, Gray (Verizon Wireless)",Samsung
+B00EP2BN00,network,27,0.037037037037037035,0.6296296296296297,-0.593,"Samsung Convoy 3, Gray (Verizon Wireless)",Samsung
+B00EP2BN00,price,16,0.8125,0.1875,0.625,"Samsung Convoy 3, Gray (Verizon Wireless)",Samsung
+B00EP2BN00,screen,18,0.2222222222222222,0.6666666666666666,-0.444,"Samsung Convoy 3, Gray (Verizon Wireless)",Samsung
+B00EP2BN00,sound,21,0.23809523809523808,0.7142857142857143,-0.476,"Samsung Convoy 3, Gray (Verizon Wireless)",Samsung
+B00F2SKPIM,battery,113,0.4247787610619469,0.25663716814159293,0.168,"Samsung Galaxy Note 3, Black 32GB (Verizon Wireless)",Samsung
+B00F2SKPIM,build,14,0.5714285714285714,0.35714285714285715,0.214,"Samsung Galaxy Note 3, Black 32GB (Verizon Wireless)",Samsung
+B00F2SKPIM,camera,64,0.484375,0.1875,0.297,"Samsung Galaxy Note 3, Black 32GB (Verizon Wireless)",Samsung
+B00F2SKPIM,customer_service,26,0.3076923076923077,0.38461538461538464,-0.077,"Samsung Galaxy Note 3, Black 32GB (Verizon Wireless)",Samsung
+B00F2SKPIM,delivery,39,0.5897435897435898,0.10256410256410256,0.487,"Samsung Galaxy Note 3, Black 32GB (Verizon Wireless)",Samsung
+B00F2SKPIM,design,80,0.7625,0.1875,0.575,"Samsung Galaxy Note 3, Black 32GB (Verizon Wireless)",Samsung
+B00F2SKPIM,network,124,0.20161290322580644,0.3225806451612903,-0.121,"Samsung Galaxy Note 3, Black 32GB (Verizon Wireless)",Samsung
+B00F2SKPIM,performance,36,0.6666666666666666,0.3055555555555556,0.361,"Samsung Galaxy Note 3, Black 32GB (Verizon Wireless)",Samsung
+B00F2SKPIM,price,49,0.5102040816326531,0.42857142857142855,0.082,"Samsung Galaxy Note 3, Black 32GB (Verizon Wireless)",Samsung
+B00F2SKPIM,screen,137,0.6496350364963503,0.1678832116788321,0.482,"Samsung Galaxy Note 3, Black 32GB (Verizon Wireless)",Samsung
+B00F2SKPIM,software,52,0.23076923076923078,0.36538461538461536,-0.135,"Samsung Galaxy Note 3, Black 32GB (Verizon Wireless)",Samsung
+B00F2SKPIM,sound,31,0.3225806451612903,0.4838709677419355,-0.161,"Samsung Galaxy Note 3, Black 32GB (Verizon Wireless)",Samsung
+B00F2SKPIM,storage,26,0.5384615384615384,0.15384615384615385,0.385,"Samsung Galaxy Note 3, Black 32GB (Verizon Wireless)",Samsung
+B00F2SKPIM,usability,18,0.8888888888888888,0.05555555555555555,0.833,"Samsung Galaxy Note 3, Black 32GB (Verizon Wireless)",Samsung
+B00F9RRVUG,battery,25,0.48,0.2,0.28,Samsung a157V (AT&T Go Phone) No Annual Contract,Samsung
+B00F9RRVUG,network,24,0.25,0.25,0.0,Samsung a157V (AT&T Go Phone) No Annual Contract,Samsung
+B00F9RRVUG,price,20,0.85,0.1,0.75,Samsung a157V (AT&T Go Phone) No Annual Contract,Samsung
+B00F9RRVUG,usability,11,0.6363636363636364,0.36363636363636365,0.273,Samsung a157V (AT&T Go Phone) No Annual Contract,Samsung
+B00HPP3QD6,battery,38,0.2631578947368421,0.5,-0.237,Moto G - Verizon Prepaid Phone (Verizon Prepaid Only),Motorola
+B00HPP3QD6,camera,43,0.5116279069767442,0.18604651162790697,0.326,Moto G - Verizon Prepaid Phone (Verizon Prepaid Only),Motorola
+B00HPP3QD6,customer_service,20,0.25,0.6,-0.35,Moto G - Verizon Prepaid Phone (Verizon Prepaid Only),Motorola
+B00HPP3QD6,delivery,24,0.5833333333333334,0.25,0.333,Moto G - Verizon Prepaid Phone (Verizon Prepaid Only),Motorola
+B00HPP3QD6,design,15,0.7333333333333333,0.13333333333333333,0.6,Moto G - Verizon Prepaid Phone (Verizon Prepaid Only),Motorola
+B00HPP3QD6,network,66,0.3181818181818182,0.3939393939393939,-0.076,Moto G - Verizon Prepaid Phone (Verizon Prepaid Only),Motorola
+B00HPP3QD6,performance,19,0.7368421052631579,0.2631578947368421,0.474,Moto G - Verizon Prepaid Phone (Verizon Prepaid Only),Motorola
+B00HPP3QD6,price,74,0.8378378378378378,0.12162162162162163,0.716,Moto G - Verizon Prepaid Phone (Verizon Prepaid Only),Motorola
+B00HPP3QD6,screen,38,0.5263157894736842,0.3684210526315789,0.158,Moto G - Verizon Prepaid Phone (Verizon Prepaid Only),Motorola
+B00HPP3QD6,software,10,0.1,0.5,-0.4,Moto G - Verizon Prepaid Phone (Verizon Prepaid Only),Motorola
+B00HPP3QD6,sound,18,0.6111111111111112,0.3888888888888889,0.222,Moto G - Verizon Prepaid Phone (Verizon Prepaid Only),Motorola
+B00HPP3QD6,storage,32,0.0625,0.75,-0.688,Moto G - Verizon Prepaid Phone (Verizon Prepaid Only),Motorola
+B00HWEMZ1E,camera,31,0.6129032258064516,0.1935483870967742,0.419,"Nokia Lumia Icon, Black 32GB (Verizon Wireless)",Nokia
+B00HWEMZ1E,design,13,0.6923076923076923,0.23076923076923078,0.462,"Nokia Lumia Icon, Black 32GB (Verizon Wireless)",Nokia
+B00HWEMZ1E,network,15,0.13333333333333333,0.6666666666666666,-0.533,"Nokia Lumia Icon, Black 32GB (Verizon Wireless)",Nokia
+B00HWEMZ1E,performance,10,0.9,0.1,0.8,"Nokia Lumia Icon, Black 32GB (Verizon Wireless)",Nokia
+B00HWEMZ1E,screen,24,0.5833333333333334,0.25,0.333,"Nokia Lumia Icon, Black 32GB (Verizon Wireless)",Nokia
+B00HWEMZ1E,software,31,0.0967741935483871,0.41935483870967744,-0.323,"Nokia Lumia Icon, Black 32GB (Verizon Wireless)",Nokia
+B00JS73V2U,battery,35,0.4857142857142857,0.34285714285714286,0.143,"Motorola DROID MAXX, Black 16GB (Verizon Wireless)",Motorola
+B00JS73V2U,delivery,10,0.7,0.1,0.6,"Motorola DROID MAXX, Black 16GB (Verizon Wireless)",Motorola
+B00JS73V2U,network,11,0.18181818181818182,0.36363636363636365,-0.182,"Motorola DROID MAXX, Black 16GB (Verizon Wireless)",Motorola
+B00JS73V2U,screen,16,0.3125,0.625,-0.312,"Motorola DROID MAXX, Black 16GB (Verizon Wireless)",Motorola
+B00KM10ITK,battery,22,0.36363636363636365,0.36363636363636365,0.0,Nokia Lumia 635 8GB Unlocked GSM 4G LTE Windows 8.1 Quad-Core Phone - Black,Nokia
+B00KM10ITK,camera,24,0.3333333333333333,0.4166666666666667,-0.083,Nokia Lumia 635 8GB Unlocked GSM 4G LTE Windows 8.1 Quad-Core Phone - Black,Nokia
+B00KM10ITK,customer_service,19,0.3157894736842105,0.47368421052631576,-0.158,Nokia Lumia 635 8GB Unlocked GSM 4G LTE Windows 8.1 Quad-Core Phone - Black,Nokia
+B00KM10ITK,delivery,15,0.4666666666666667,0.3333333333333333,0.133,Nokia Lumia 635 8GB Unlocked GSM 4G LTE Windows 8.1 Quad-Core Phone - Black,Nokia
+B00KM10ITK,network,39,0.15384615384615385,0.46153846153846156,-0.308,Nokia Lumia 635 8GB Unlocked GSM 4G LTE Windows 8.1 Quad-Core Phone - Black,Nokia
+B00KM10ITK,price,40,0.75,0.15,0.6,Nokia Lumia 635 8GB Unlocked GSM 4G LTE Windows 8.1 Quad-Core Phone - Black,Nokia
+B00KM10ITK,screen,16,0.25,0.5,-0.25,Nokia Lumia 635 8GB Unlocked GSM 4G LTE Windows 8.1 Quad-Core Phone - Black,Nokia
+B00KM10ITK,usability,12,0.9166666666666666,0.08333333333333333,0.833,Nokia Lumia 635 8GB Unlocked GSM 4G LTE Windows 8.1 Quad-Core Phone - Black,Nokia
+B00LAEA84S,battery,70,0.04285714285714286,0.45714285714285713,-0.414,Samsung Galaxy S5 G900V Verizon 4G LTE Smartphone w/ 16MP Camera - Black - Verizon,Samsung
+B00LAEA84S,camera,21,0.38095238095238093,0.47619047619047616,-0.095,Samsung Galaxy S5 G900V Verizon 4G LTE Smartphone w/ 16MP Camera - Black - Verizon,Samsung
+B00LAEA84S,customer_service,38,0.2631578947368421,0.4473684210526316,-0.184,Samsung Galaxy S5 G900V Verizon 4G LTE Smartphone w/ 16MP Camera - Black - Verizon,Samsung
+B00LAEA84S,delivery,18,0.6111111111111112,0.2777777777777778,0.333,Samsung Galaxy S5 G900V Verizon 4G LTE Smartphone w/ 16MP Camera - Black - Verizon,Samsung
+B00LAEA84S,design,10,0.9,0.1,0.8,Samsung Galaxy S5 G900V Verizon 4G LTE Smartphone w/ 16MP Camera - Black - Verizon,Samsung
+B00LAEA84S,network,78,0.15384615384615385,0.5641025641025641,-0.41,Samsung Galaxy S5 G900V Verizon 4G LTE Smartphone w/ 16MP Camera - Black - Verizon,Samsung
+B00LAEA84S,price,18,0.6111111111111112,0.3333333333333333,0.278,Samsung Galaxy S5 G900V Verizon 4G LTE Smartphone w/ 16MP Camera - Black - Verizon,Samsung
+B00LAEA84S,screen,42,0.21428571428571427,0.6904761904761905,-0.476,Samsung Galaxy S5 G900V Verizon 4G LTE Smartphone w/ 16MP Camera - Black - Verizon,Samsung
+B00LAEA84S,software,19,0.15789473684210525,0.2631578947368421,-0.105,Samsung Galaxy S5 G900V Verizon 4G LTE Smartphone w/ 16MP Camera - Black - Verizon,Samsung
+B00MWI4KKE,battery,33,0.3333333333333333,0.42424242424242425,-0.091,"Motorola Moto X (2nd generation) XT1097 GSM Unlocked Cellphone, 16GB, Black Soft Touch",Motorola
+B00MWI4KKE,camera,29,0.4482758620689655,0.3448275862068966,0.103,"Motorola Moto X (2nd generation) XT1097 GSM Unlocked Cellphone, 16GB, Black Soft Touch",Motorola
+B00MWI4KKE,customer_service,17,0.17647058823529413,0.5882352941176471,-0.412,"Motorola Moto X (2nd generation) XT1097 GSM Unlocked Cellphone, 16GB, Black Soft Touch",Motorola
+B00MWI4KKE,delivery,13,0.46153846153846156,0.3076923076923077,0.154,"Motorola Moto X (2nd generation) XT1097 GSM Unlocked Cellphone, 16GB, Black Soft Touch",Motorola
+B00MWI4KKE,design,21,0.9047619047619048,0.09523809523809523,0.81,"Motorola Moto X (2nd generation) XT1097 GSM Unlocked Cellphone, 16GB, Black Soft Touch",Motorola
+B00MWI4KKE,network,10,0.4,0.4,0.0,"Motorola Moto X (2nd generation) XT1097 GSM Unlocked Cellphone, 16GB, Black Soft Touch",Motorola
+B00MWI4KKE,performance,15,0.7333333333333333,0.2,0.533,"Motorola Moto X (2nd generation) XT1097 GSM Unlocked Cellphone, 16GB, Black Soft Touch",Motorola
+B00MWI4KKE,price,20,0.8,0.15,0.65,"Motorola Moto X (2nd generation) XT1097 GSM Unlocked Cellphone, 16GB, Black Soft Touch",Motorola
+B00MWI4KKE,screen,41,0.34146341463414637,0.5121951219512195,-0.171,"Motorola Moto X (2nd generation) XT1097 GSM Unlocked Cellphone, 16GB, Black Soft Touch",Motorola
+B00MWI4KKE,software,15,0.3333333333333333,0.2,0.133,"Motorola Moto X (2nd generation) XT1097 GSM Unlocked Cellphone, 16GB, Black Soft Touch",Motorola
+B00MWI4KKE,storage,10,0.0,0.8,-0.8,"Motorola Moto X (2nd generation) XT1097 GSM Unlocked Cellphone, 16GB, Black Soft Touch",Motorola
+B00N532A34,battery,25,0.2,0.6,-0.4,"Samsung Galaxy Alpha, Frosted Gold 32GB (AT&T)",Samsung
+B00N532A34,design,10,0.7,0.1,0.6,"Samsung Galaxy Alpha, Frosted Gold 32GB (AT&T)",Samsung
+B00N532A34,network,13,0.07692307692307693,0.15384615384615385,-0.077,"Samsung Galaxy Alpha, Frosted Gold 32GB (AT&T)",Samsung
+B00N532A34,storage,13,0.15384615384615385,0.5384615384615384,-0.385,"Samsung Galaxy Alpha, Frosted Gold 32GB (AT&T)",Samsung
+B00NO2WXM4,battery,19,0.21052631578947367,0.5263157894736842,-0.316,"Motorola Moto X - 2nd Generation, Black Resin 16GB (Verizon Wireless)",Motorola
+B00NO2WXM4,camera,20,0.2,0.6,-0.4,"Motorola Moto X - 2nd Generation, Black Resin 16GB (Verizon Wireless)",Motorola
+B00NO2WXM4,design,15,0.8,0.06666666666666667,0.733,"Motorola Moto X - 2nd Generation, Black Resin 16GB (Verizon Wireless)",Motorola
+B00NO2WXM4,network,16,0.25,0.3125,-0.062,"Motorola Moto X - 2nd Generation, Black Resin 16GB (Verizon Wireless)",Motorola
+B00NO2WXM4,screen,29,0.4482758620689655,0.3448275862068966,0.103,"Motorola Moto X - 2nd Generation, Black Resin 16GB (Verizon Wireless)",Motorola
+B00NO2WXM4,software,13,0.3076923076923077,0.5384615384615384,-0.231,"Motorola Moto X - 2nd Generation, Black Resin 16GB (Verizon Wireless)",Motorola
+B00NO2WXM4,sound,14,0.7857142857142857,0.07142857142857142,0.714,"Motorola Moto X - 2nd Generation, Black Resin 16GB (Verizon Wireless)",Motorola
+B00NO2WXM4,storage,13,0.07692307692307693,0.3076923076923077,-0.231,"Motorola Moto X - 2nd Generation, Black Resin 16GB (Verizon Wireless)",Motorola
+B00O15MWOM,build,11,0.5454545454545454,0.2727272727272727,0.273,Nokia Lumia 530 White - No Contract (T-Mobile),Nokia
+B00O15MWOM,camera,33,0.18181818181818182,0.5757575757575758,-0.394,Nokia Lumia 530 White - No Contract (T-Mobile),Nokia
+B00O15MWOM,design,10,0.5,0.5,0.0,Nokia Lumia 530 White - No Contract (T-Mobile),Nokia
+B00O15MWOM,network,16,0.1875,0.4375,-0.25,Nokia Lumia 530 White - No Contract (T-Mobile),Nokia
+B00O15MWOM,performance,15,0.5333333333333333,0.4666666666666667,0.067,Nokia Lumia 530 White - No Contract (T-Mobile),Nokia
+B00O15MWOM,price,39,0.7692307692307693,0.07692307692307693,0.692,Nokia Lumia 530 White - No Contract (T-Mobile),Nokia
+B00O15MWOM,screen,19,0.21052631578947367,0.631578947368421,-0.421,Nokia Lumia 530 White - No Contract (T-Mobile),Nokia
+B00O15MWOM,software,19,0.47368421052631576,0.21052631578947367,0.263,Nokia Lumia 530 White - No Contract (T-Mobile),Nokia
+B00OEK6TWU,battery,19,0.15789473684210525,0.3157894736842105,-0.158,Samsung Galaxy Note 3 N900A 32GB Unlocked GSM Octa-Core Smartphone w/ 13MP Camera - Black,Samsung
+B00OEK6TWU,customer_service,14,0.21428571428571427,0.42857142857142855,-0.214,Samsung Galaxy Note 3 N900A 32GB Unlocked GSM Octa-Core Smartphone w/ 13MP Camera - Black,Samsung
+B00OEK6TWU,network,20,0.25,0.35,-0.1,Samsung Galaxy Note 3 N900A 32GB Unlocked GSM Octa-Core Smartphone w/ 13MP Camera - Black,Samsung
+B00OEK6TWU,price,11,0.7272727272727273,0.18181818181818182,0.545,Samsung Galaxy Note 3 N900A 32GB Unlocked GSM Octa-Core Smartphone w/ 13MP Camera - Black,Samsung
+B00OEK6TWU,screen,13,0.6923076923076923,0.23076923076923078,0.462,Samsung Galaxy Note 3 N900A 32GB Unlocked GSM Octa-Core Smartphone w/ 13MP Camera - Black,Samsung
+B00OZTSY6Y,battery,140,0.5214285714285715,0.32142857142857145,0.2,"Motorola DROID Turbo XT1254, Black Ballistic Nylon 32GB (Verizon Wireless)",Motorola
+B00OZTSY6Y,build,23,0.4782608695652174,0.34782608695652173,0.13,"Motorola DROID Turbo XT1254, Black Ballistic Nylon 32GB (Verizon Wireless)",Motorola
+B00OZTSY6Y,camera,52,0.40384615384615385,0.36538461538461536,0.038,"Motorola DROID Turbo XT1254, Black Ballistic Nylon 32GB (Verizon Wireless)",Motorola
+B00OZTSY6Y,customer_service,31,0.3225806451612903,0.5161290322580645,-0.194,"Motorola DROID Turbo XT1254, Black Ballistic Nylon 32GB (Verizon Wireless)",Motorola
+B00OZTSY6Y,delivery,13,0.7692307692307693,0.23076923076923078,0.538,"Motorola DROID Turbo XT1254, Black Ballistic Nylon 32GB (Verizon Wireless)",Motorola
+B00OZTSY6Y,design,17,0.6470588235294118,0.17647058823529413,0.471,"Motorola DROID Turbo XT1254, Black Ballistic Nylon 32GB (Verizon Wireless)",Motorola
+B00OZTSY6Y,network,56,0.19642857142857142,0.35714285714285715,-0.161,"Motorola DROID Turbo XT1254, Black Ballistic Nylon 32GB (Verizon Wireless)",Motorola
+B00OZTSY6Y,performance,10,0.5,0.3,0.2,"Motorola DROID Turbo XT1254, Black Ballistic Nylon 32GB (Verizon Wireless)",Motorola
+B00OZTSY6Y,price,12,0.75,0.25,0.5,"Motorola DROID Turbo XT1254, Black Ballistic Nylon 32GB (Verizon Wireless)",Motorola
+B00OZTSY6Y,screen,46,0.391304347826087,0.391304347826087,0.0,"Motorola DROID Turbo XT1254, Black Ballistic Nylon 32GB (Verizon Wireless)",Motorola
+B00OZTSY6Y,software,31,0.25806451612903225,0.5483870967741935,-0.29,"Motorola DROID Turbo XT1254, Black Ballistic Nylon 32GB (Verizon Wireless)",Motorola
+B00OZTSY6Y,sound,28,0.25,0.5357142857142857,-0.286,"Motorola DROID Turbo XT1254, Black Ballistic Nylon 32GB (Verizon Wireless)",Motorola
+B00V7FY44A,battery,83,0.20481927710843373,0.5060240963855421,-0.301,"Samsung Galaxy S6 Edge, White Pearl 32GB (Verizon Wireless)",Samsung
+B00V7FY44A,build,12,0.4166666666666667,0.5,-0.083,"Samsung Galaxy S6 Edge, White Pearl 32GB (Verizon Wireless)",Samsung
+B00V7FY44A,camera,48,0.3958333333333333,0.3125,0.083,"Samsung Galaxy S6 Edge, White Pearl 32GB (Verizon Wireless)",Samsung
+B00V7FY44A,customer_service,27,0.1111111111111111,0.7037037037037037,-0.593,"Samsung Galaxy S6 Edge, White Pearl 32GB (Verizon Wireless)",Samsung
+B00V7FY44A,delivery,11,0.7272727272727273,0.0,0.727,"Samsung Galaxy S6 Edge, White Pearl 32GB (Verizon Wireless)",Samsung
+B00V7FY44A,design,44,0.8636363636363636,0.09090909090909091,0.773,"Samsung Galaxy S6 Edge, White Pearl 32GB (Verizon Wireless)",Samsung
+B00V7FY44A,network,25,0.16,0.52,-0.36,"Samsung Galaxy S6 Edge, White Pearl 32GB (Verizon Wireless)",Samsung
+B00V7FY44A,performance,24,0.625,0.2916666666666667,0.333,"Samsung Galaxy S6 Edge, White Pearl 32GB (Verizon Wireless)",Samsung
+B00V7FY44A,price,21,0.6666666666666666,0.2857142857142857,0.381,"Samsung Galaxy S6 Edge, White Pearl 32GB (Verizon Wireless)",Samsung
+B00V7FY44A,screen,44,0.36363636363636365,0.45454545454545453,-0.091,"Samsung Galaxy S6 Edge, White Pearl 32GB (Verizon Wireless)",Samsung
+B00V7FY44A,software,37,0.1891891891891892,0.40540540540540543,-0.216,"Samsung Galaxy S6 Edge, White Pearl 32GB (Verizon Wireless)",Samsung
+B00V7FY44A,storage,13,0.38461538461538464,0.23076923076923078,0.154,"Samsung Galaxy S6 Edge, White Pearl 32GB (Verizon Wireless)",Samsung
+B00V7FY44A,usability,11,0.6363636363636364,0.36363636363636365,0.273,"Samsung Galaxy S6 Edge, White Pearl 32GB (Verizon Wireless)",Samsung
+B00WHE2WCG,battery,35,0.02857142857142857,0.7142857142857143,-0.686,Samsung Galaxy S6 G920A 32GB Unlocked GSM 4G LTE Octa-Core Android Smartphone with 16MP Camera - Black Sapphire,Samsung
+B00WHE2WCG,camera,10,0.6,0.1,0.5,Samsung Galaxy S6 G920A 32GB Unlocked GSM 4G LTE Octa-Core Android Smartphone with 16MP Camera - Black Sapphire,Samsung
+B00WHE2WCG,customer_service,23,0.13043478260869565,0.5217391304347826,-0.391,Samsung Galaxy S6 G920A 32GB Unlocked GSM 4G LTE Octa-Core Android Smartphone with 16MP Camera - Black Sapphire,Samsung
+B00WHE2WCG,delivery,14,0.7142857142857143,0.14285714285714285,0.571,Samsung Galaxy S6 G920A 32GB Unlocked GSM 4G LTE Octa-Core Android Smartphone with 16MP Camera - Black Sapphire,Samsung
+B00WHE2WCG,network,15,0.06666666666666667,0.6,-0.533,Samsung Galaxy S6 G920A 32GB Unlocked GSM 4G LTE Octa-Core Android Smartphone with 16MP Camera - Black Sapphire,Samsung
+B00WHE2WCG,screen,10,0.3,0.6,-0.3,Samsung Galaxy S6 G920A 32GB Unlocked GSM 4G LTE Octa-Core Android Smartphone with 16MP Camera - Black Sapphire,Samsung
+B00ZE8HRYK,battery,47,0.46808510638297873,0.3191489361702128,0.149,"Samsung Galaxy S6 Active, 32 GB , Grey (AT&T)",Samsung
+B00ZE8HRYK,build,14,0.5714285714285714,0.2857142857142857,0.286,"Samsung Galaxy S6 Active, 32 GB , Grey (AT&T)",Samsung
+B00ZE8HRYK,camera,29,0.27586206896551724,0.3103448275862069,-0.034,"Samsung Galaxy S6 Active, 32 GB , Grey (AT&T)",Samsung
+B00ZE8HRYK,customer_service,25,0.08,0.72,-0.64,"Samsung Galaxy S6 Active, 32 GB , Grey (AT&T)",Samsung
+B00ZE8HRYK,delivery,10,0.7,0.3,0.4,"Samsung Galaxy S6 Active, 32 GB , Grey (AT&T)",Samsung
+B00ZE8HRYK,network,12,0.08333333333333333,0.4166666666666667,-0.333,"Samsung Galaxy S6 Active, 32 GB , Grey (AT&T)",Samsung
+B00ZE8HRYK,price,13,0.6153846153846154,0.38461538461538464,0.231,"Samsung Galaxy S6 Active, 32 GB , Grey (AT&T)",Samsung
+B00ZE8HRYK,screen,34,0.17647058823529413,0.7352941176470589,-0.559,"Samsung Galaxy S6 Active, 32 GB , Grey (AT&T)",Samsung
+B00ZE8HRYK,software,17,0.29411764705882354,0.4117647058823529,-0.118,"Samsung Galaxy S6 Active, 32 GB , Grey (AT&T)",Samsung
+B00ZE8HRYK,sound,11,0.18181818181818182,0.5454545454545454,-0.364,"Samsung Galaxy S6 Active, 32 GB , Grey (AT&T)",Samsung
+B00ZE8HRYK,storage,10,0.1,0.3,-0.2,"Samsung Galaxy S6 Active, 32 GB , Grey (AT&T)",Samsung
+B013XAPUW6,battery,87,0.3218390804597701,0.4367816091954023,-0.115,"Samsung Galaxy Note 5, Black  64GB (Verizon Wireless)",Samsung
+B013XAPUW6,build,20,0.2,0.55,-0.35,"Samsung Galaxy Note 5, Black  64GB (Verizon Wireless)",Samsung
+B013XAPUW6,camera,47,0.5957446808510638,0.0851063829787234,0.511,"Samsung Galaxy Note 5, Black  64GB (Verizon Wireless)",Samsung
+B013XAPUW6,customer_service,43,0.20930232558139536,0.5581395348837209,-0.349,"Samsung Galaxy Note 5, Black  64GB (Verizon Wireless)",Samsung
+B013XAPUW6,delivery,28,0.6785714285714286,0.25,0.429,"Samsung Galaxy Note 5, Black  64GB (Verizon Wireless)",Samsung
+B013XAPUW6,design,52,0.6923076923076923,0.25,0.442,"Samsung Galaxy Note 5, Black  64GB (Verizon Wireless)",Samsung
+B013XAPUW6,network,55,0.18181818181818182,0.5272727272727272,-0.345,"Samsung Galaxy Note 5, Black  64GB (Verizon Wireless)",Samsung
+B013XAPUW6,performance,24,0.6666666666666666,0.25,0.417,"Samsung Galaxy Note 5, Black  64GB (Verizon Wireless)",Samsung
+B013XAPUW6,price,29,0.6206896551724138,0.3103448275862069,0.31,"Samsung Galaxy Note 5, Black  64GB (Verizon Wireless)",Samsung
+B013XAPUW6,screen,69,0.391304347826087,0.37681159420289856,0.014,"Samsung Galaxy Note 5, Black  64GB (Verizon Wireless)",Samsung
+B013XAPUW6,software,29,0.3103448275862069,0.3448275862068966,-0.034,"Samsung Galaxy Note 5, Black  64GB (Verizon Wireless)",Samsung
+B013XAPUW6,storage,22,0.36363636363636365,0.22727272727272727,0.136,"Samsung Galaxy Note 5, Black  64GB (Verizon Wireless)",Samsung
+B013XAPUW6,usability,14,0.5714285714285714,0.42857142857142855,0.143,"Samsung Galaxy Note 5, Black  64GB (Verizon Wireless)",Samsung
+B014GCG150,battery,14,0.14285714285714285,0.42857142857142855,-0.286,"Samsung Galaxy J5 SM-J500H/DS GSM Factory Unlocked Smartphone, International Version (Gold)",Samsung
+B014GCG150,camera,22,0.5909090909090909,0.18181818181818182,0.409,"Samsung Galaxy J5 SM-J500H/DS GSM Factory Unlocked Smartphone, International Version (Gold)",Samsung
+B014GCG150,customer_service,13,0.15384615384615385,0.6153846153846154,-0.462,"Samsung Galaxy J5 SM-J500H/DS GSM Factory Unlocked Smartphone, International Version (Gold)",Samsung
+B014GCG150,delivery,15,0.6666666666666666,0.3333333333333333,0.333,"Samsung Galaxy J5 SM-J500H/DS GSM Factory Unlocked Smartphone, International Version (Gold)",Samsung
+B014GCG150,network,31,0.2903225806451613,0.25806451612903225,0.032,"Samsung Galaxy J5 SM-J500H/DS GSM Factory Unlocked Smartphone, International Version (Gold)",Samsung
+B014GCG150,price,12,0.9166666666666666,0.08333333333333333,0.833,"Samsung Galaxy J5 SM-J500H/DS GSM Factory Unlocked Smartphone, International Version (Gold)",Samsung
+B014GCG150,storage,45,0.06666666666666667,0.6666666666666666,-0.6,"Samsung Galaxy J5 SM-J500H/DS GSM Factory Unlocked Smartphone, International Version (Gold)",Samsung
+B018OMP8ES,battery,87,0.21839080459770116,0.4827586206896552,-0.264,Samsung Galaxy Note 5 SM-N920V Gold 32GB (Verizon Wireless),Samsung
+B018OMP8ES,build,18,0.2777777777777778,0.3888888888888889,-0.111,Samsung Galaxy Note 5 SM-N920V Gold 32GB (Verizon Wireless),Samsung
+B018OMP8ES,camera,50,0.52,0.16,0.36,Samsung Galaxy Note 5 SM-N920V Gold 32GB (Verizon Wireless),Samsung
+B018OMP8ES,customer_service,51,0.23529411764705882,0.5098039215686274,-0.275,Samsung Galaxy Note 5 SM-N920V Gold 32GB (Verizon Wireless),Samsung
+B018OMP8ES,delivery,27,0.7777777777777778,0.18518518518518517,0.593,Samsung Galaxy Note 5 SM-N920V Gold 32GB (Verizon Wireless),Samsung
+B018OMP8ES,design,35,0.6285714285714286,0.17142857142857143,0.457,Samsung Galaxy Note 5 SM-N920V Gold 32GB (Verizon Wireless),Samsung
+B018OMP8ES,network,62,0.1935483870967742,0.5,-0.306,Samsung Galaxy Note 5 SM-N920V Gold 32GB (Verizon Wireless),Samsung
+B018OMP8ES,performance,21,0.7619047619047619,0.14285714285714285,0.619,Samsung Galaxy Note 5 SM-N920V Gold 32GB (Verizon Wireless),Samsung
+B018OMP8ES,price,25,0.4,0.44,-0.04,Samsung Galaxy Note 5 SM-N920V Gold 32GB (Verizon Wireless),Samsung
+B018OMP8ES,screen,74,0.43243243243243246,0.33783783783783783,0.095,Samsung Galaxy Note 5 SM-N920V Gold 32GB (Verizon Wireless),Samsung
+B018OMP8ES,software,29,0.2413793103448276,0.4827586206896552,-0.241,Samsung Galaxy Note 5 SM-N920V Gold 32GB (Verizon Wireless),Samsung
+B018OMP8ES,storage,27,0.2222222222222222,0.4074074074074074,-0.185,Samsung Galaxy Note 5 SM-N920V Gold 32GB (Verizon Wireless),Samsung
+B018OMP8ES,usability,12,0.6666666666666666,0.16666666666666666,0.5,Samsung Galaxy Note 5 SM-N920V Gold 32GB (Verizon Wireless),Samsung
+B0192XJ0P6,battery,71,0.19718309859154928,0.6197183098591549,-0.423,"Motorola XT1585 Turbo 2, (32GB) 5.4'' (White, Verizon)",Motorola
+B0192XJ0P6,camera,15,0.4,0.26666666666666666,0.133,"Motorola XT1585 Turbo 2, (32GB) 5.4'' (White, Verizon)",Motorola
+B0192XJ0P6,customer_service,21,0.19047619047619047,0.7142857142857143,-0.524,"Motorola XT1585 Turbo 2, (32GB) 5.4'' (White, Verizon)",Motorola
+B0192XJ0P6,network,26,0.11538461538461539,0.5,-0.385,"Motorola XT1585 Turbo 2, (32GB) 5.4'' (White, Verizon)",Motorola
+B0192XJ0P6,performance,10,0.4,0.6,-0.2,"Motorola XT1585 Turbo 2, (32GB) 5.4'' (White, Verizon)",Motorola
+B0192XJ0P6,price,13,0.3076923076923077,0.6153846153846154,-0.308,"Motorola XT1585 Turbo 2, (32GB) 5.4'' (White, Verizon)",Motorola
+B0192XJ0P6,screen,36,0.4166666666666667,0.4722222222222222,-0.056,"Motorola XT1585 Turbo 2, (32GB) 5.4'' (White, Verizon)",Motorola
+B0192XJ0P6,software,12,0.0,0.8333333333333334,-0.833,"Motorola XT1585 Turbo 2, (32GB) 5.4'' (White, Verizon)",Motorola
+B0192XJ0P6,sound,10,0.3,0.7,-0.4,"Motorola XT1585 Turbo 2, (32GB) 5.4'' (White, Verizon)",Motorola
+B01CJ3SCJ6,battery,29,0.20689655172413793,0.4482758620689655,-0.241,Samsung Galaxy S7 32GB Unlocked (Verizon Wireless) - Gold,Samsung
+B01CJ3SCJ6,camera,11,0.2727272727272727,0.09090909090909091,0.182,Samsung Galaxy S7 32GB Unlocked (Verizon Wireless) - Gold,Samsung
+B01CJ3SCJ6,customer_service,26,0.19230769230769232,0.5,-0.308,Samsung Galaxy S7 32GB Unlocked (Verizon Wireless) - Gold,Samsung
+B01CJ3SCJ6,delivery,13,0.6153846153846154,0.3076923076923077,0.308,Samsung Galaxy S7 32GB Unlocked (Verizon Wireless) - Gold,Samsung
+B01CJ3SCJ6,network,17,0.11764705882352941,0.5294117647058824,-0.412,Samsung Galaxy S7 32GB Unlocked (Verizon Wireless) - Gold,Samsung
+B01CJ3SCJ6,price,18,0.6111111111111112,0.3888888888888889,0.222,Samsung Galaxy S7 32GB Unlocked (Verizon Wireless) - Gold,Samsung
+B01CJ3SCJ6,screen,22,0.36363636363636365,0.5454545454545454,-0.182,Samsung Galaxy S7 32GB Unlocked (Verizon Wireless) - Gold,Samsung
+B01CJ3SCJ6,software,14,0.35714285714285715,0.5,-0.143,Samsung Galaxy S7 32GB Unlocked (Verizon Wireless) - Gold,Samsung
+B01CJ3SCN2,battery,20,0.15,0.55,-0.4,"Samsung Galaxy S7, Black 32GB (Verizon Wireless)",Samsung
+B01CJ3SCN2,camera,20,0.45,0.3,0.15,"Samsung Galaxy S7, Black 32GB (Verizon Wireless)",Samsung
+B01CJ3SCN2,customer_service,15,0.13333333333333333,0.6666666666666666,-0.533,"Samsung Galaxy S7, Black 32GB (Verizon Wireless)",Samsung
+B01CJ3SCN2,delivery,15,0.4666666666666667,0.3333333333333333,0.133,"Samsung Galaxy S7, Black 32GB (Verizon Wireless)",Samsung
+B01CJ3SCN2,design,16,0.625,0.3125,0.312,"Samsung Galaxy S7, Black 32GB (Verizon Wireless)",Samsung
+B01CJ3SCN2,network,22,0.045454545454545456,0.6363636363636364,-0.591,"Samsung Galaxy S7, Black 32GB (Verizon Wireless)",Samsung
+B01CJ3SCN2,price,12,0.6666666666666666,0.3333333333333333,0.333,"Samsung Galaxy S7, Black 32GB (Verizon Wireless)",Samsung
+B01CJ3SCN2,screen,22,0.22727272727272727,0.5,-0.273,"Samsung Galaxy S7, Black 32GB (Verizon Wireless)",Samsung
+B01CYYYRNK,battery,40,0.2,0.7,-0.5,"Samsung Galaxy S7 SM-G930A AT&T Unlocked Smartphone, (Black Onyx)",Samsung
+B01CYYYRNK,camera,14,0.42857142857142855,0.35714285714285715,0.071,"Samsung Galaxy S7 SM-G930A AT&T Unlocked Smartphone, (Black Onyx)",Samsung
+B01CYYYRNK,customer_service,26,0.2692307692307692,0.4230769230769231,-0.154,"Samsung Galaxy S7 SM-G930A AT&T Unlocked Smartphone, (Black Onyx)",Samsung
+B01CYYYRNK,delivery,20,0.4,0.2,0.2,"Samsung Galaxy S7 SM-G930A AT&T Unlocked Smartphone, (Black Onyx)",Samsung
+B01CYYYRNK,network,32,0.09375,0.65625,-0.562,"Samsung Galaxy S7 SM-G930A AT&T Unlocked Smartphone, (Black Onyx)",Samsung
+B01CYYYRNK,price,13,0.9230769230769231,0.07692307692307693,0.846,"Samsung Galaxy S7 SM-G930A AT&T Unlocked Smartphone, (Black Onyx)",Samsung
+B01CYYYRNK,screen,13,0.3076923076923077,0.6923076923076923,-0.385,"Samsung Galaxy S7 SM-G930A AT&T Unlocked Smartphone, (Black Onyx)",Samsung
+B01CYYYRNK,software,11,0.0,1.0,-1.0,"Samsung Galaxy S7 SM-G930A AT&T Unlocked Smartphone, (Black Onyx)",Samsung
+B01D1J9BGU,battery,40,0.4,0.35,0.05,Samsung Galaxy S7 Edge G935FD 32GB Unlocked GSM 4G LTE,Samsung
+B01D1J9BGU,build,17,0.17647058823529413,0.7647058823529411,-0.588,Samsung Galaxy S7 Edge G935FD 32GB Unlocked GSM 4G LTE,Samsung
+B01D1J9BGU,camera,60,0.4666666666666667,0.18333333333333332,0.283,Samsung Galaxy S7 Edge G935FD 32GB Unlocked GSM 4G LTE,Samsung
+B01D1J9BGU,customer_service,53,0.11320754716981132,0.6037735849056604,-0.491,Samsung Galaxy S7 Edge G935FD 32GB Unlocked GSM 4G LTE,Samsung
+B01D1J9BGU,delivery,17,0.47058823529411764,0.47058823529411764,0.0,Samsung Galaxy S7 Edge G935FD 32GB Unlocked GSM 4G LTE,Samsung
+B01D1J9BGU,design,27,0.6666666666666666,0.3333333333333333,0.333,Samsung Galaxy S7 Edge G935FD 32GB Unlocked GSM 4G LTE,Samsung
+B01D1J9BGU,network,41,0.24390243902439024,0.34146341463414637,-0.098,Samsung Galaxy S7 Edge G935FD 32GB Unlocked GSM 4G LTE,Samsung
+B01D1J9BGU,performance,18,0.5555555555555556,0.3888888888888889,0.167,Samsung Galaxy S7 Edge G935FD 32GB Unlocked GSM 4G LTE,Samsung
+B01D1J9BGU,price,15,0.4,0.5333333333333333,-0.133,Samsung Galaxy S7 Edge G935FD 32GB Unlocked GSM 4G LTE,Samsung
+B01D1J9BGU,screen,58,0.22413793103448276,0.6551724137931034,-0.431,Samsung Galaxy S7 Edge G935FD 32GB Unlocked GSM 4G LTE,Samsung
+B01D1J9BGU,software,18,0.16666666666666666,0.5,-0.333,Samsung Galaxy S7 Edge G935FD 32GB Unlocked GSM 4G LTE,Samsung
+B01D1J9BGU,storage,12,0.16666666666666666,0.4166666666666667,-0.25,Samsung Galaxy S7 Edge G935FD 32GB Unlocked GSM 4G LTE,Samsung
+B01DZ2CS4U,battery,30,0.13333333333333333,0.6333333333333333,-0.5,Samsung Galaxy S7 32GB G930V Unlocked - Black,Samsung
+B01DZ2CS4U,camera,11,0.18181818181818182,0.2727272727272727,-0.091,Samsung Galaxy S7 32GB G930V Unlocked - Black,Samsung
+B01DZ2CS4U,customer_service,16,0.1875,0.5625,-0.375,Samsung Galaxy S7 32GB G930V Unlocked - Black,Samsung
+B01DZ2CS4U,delivery,12,0.3333333333333333,0.5,-0.167,Samsung Galaxy S7 32GB G930V Unlocked - Black,Samsung
+B01DZ2CS4U,network,26,0.15384615384615385,0.5384615384615384,-0.385,Samsung Galaxy S7 32GB G930V Unlocked - Black,Samsung
+B01DZ2CS4U,price,13,0.6153846153846154,0.38461538461538464,0.231,Samsung Galaxy S7 32GB G930V Unlocked - Black,Samsung
+B01DZ2CS4U,screen,19,0.47368421052631576,0.42105263157894735,0.053,Samsung Galaxy S7 32GB G930V Unlocked - Black,Samsung
+B01DZ2CS4U,software,10,0.4,0.5,-0.1,Samsung Galaxy S7 32GB G930V Unlocked - Black,Samsung
+B01FJT7E3M,battery,59,0.22033898305084745,0.6271186440677966,-0.407,"Sony Xperia XA Ultra (F3213) 4G LTE Unlocked GSM Phone w/ 6” Borderless Display, 21.5MP+16MP Cameras, Octa-Core CPU - White",Sony
+B01FJT7E3M,camera,69,0.4927536231884058,0.2463768115942029,0.246,"Sony Xperia XA Ultra (F3213) 4G LTE Unlocked GSM Phone w/ 6” Borderless Display, 21.5MP+16MP Cameras, Octa-Core CPU - White",Sony
+B01FJT7E3M,customer_service,30,0.06666666666666667,0.7,-0.633,"Sony Xperia XA Ultra (F3213) 4G LTE Unlocked GSM Phone w/ 6” Borderless Display, 21.5MP+16MP Cameras, Octa-Core CPU - White",Sony
+B01FJT7E3M,design,30,0.6,0.3333333333333333,0.267,"Sony Xperia XA Ultra (F3213) 4G LTE Unlocked GSM Phone w/ 6” Borderless Display, 21.5MP+16MP Cameras, Octa-Core CPU - White",Sony
+B01FJT7E3M,network,23,0.34782608695652173,0.5217391304347826,-0.174,"Sony Xperia XA Ultra (F3213) 4G LTE Unlocked GSM Phone w/ 6” Borderless Display, 21.5MP+16MP Cameras, Octa-Core CPU - White",Sony
+B01FJT7E3M,performance,12,0.4166666666666667,0.4166666666666667,0.0,"Sony Xperia XA Ultra (F3213) 4G LTE Unlocked GSM Phone w/ 6” Borderless Display, 21.5MP+16MP Cameras, Octa-Core CPU - White",Sony
+B01FJT7E3M,price,31,0.5806451612903226,0.3548387096774194,0.226,"Sony Xperia XA Ultra (F3213) 4G LTE Unlocked GSM Phone w/ 6” Borderless Display, 21.5MP+16MP Cameras, Octa-Core CPU - White",Sony
+B01FJT7E3M,screen,81,0.345679012345679,0.49382716049382713,-0.148,"Sony Xperia XA Ultra (F3213) 4G LTE Unlocked GSM Phone w/ 6” Borderless Display, 21.5MP+16MP Cameras, Octa-Core CPU - White",Sony
+B01FJT7E3M,software,37,0.10810810810810811,0.4864864864864865,-0.378,"Sony Xperia XA Ultra (F3213) 4G LTE Unlocked GSM Phone w/ 6” Borderless Display, 21.5MP+16MP Cameras, Octa-Core CPU - White",Sony
+B01FJT7E3M,sound,29,0.27586206896551724,0.5517241379310345,-0.276,"Sony Xperia XA Ultra (F3213) 4G LTE Unlocked GSM Phone w/ 6” Borderless Display, 21.5MP+16MP Cameras, Octa-Core CPU - White",Sony
+B01FJT7E3M,storage,41,0.1951219512195122,0.6585365853658537,-0.463,"Sony Xperia XA Ultra (F3213) 4G LTE Unlocked GSM Phone w/ 6” Borderless Display, 21.5MP+16MP Cameras, Octa-Core CPU - White",Sony
+B01FJT7N4W,battery,33,0.3939393939393939,0.24242424242424243,0.152,Sony Xperia X F5121 32GB GSM 23MP Camera Phone - Graphite Black,Sony
+B01FJT7N4W,camera,49,0.5102040816326531,0.2857142857142857,0.224,Sony Xperia X F5121 32GB GSM 23MP Camera Phone - Graphite Black,Sony
+B01FJT7N4W,design,17,0.7058823529411765,0.17647058823529413,0.529,Sony Xperia X F5121 32GB GSM 23MP Camera Phone - Graphite Black,Sony
+B01FJT7N4W,performance,20,0.7,0.2,0.5,Sony Xperia X F5121 32GB GSM 23MP Camera Phone - Graphite Black,Sony
+B01FJT7N4W,price,18,0.6666666666666666,0.3333333333333333,0.333,Sony Xperia X F5121 32GB GSM 23MP Camera Phone - Graphite Black,Sony
+B01FJT7N4W,screen,15,0.4,0.3333333333333333,0.067,Sony Xperia X F5121 32GB GSM 23MP Camera Phone - Graphite Black,Sony
+B01FJT7N4W,software,19,0.2631578947368421,0.3684210526315789,-0.105,Sony Xperia X F5121 32GB GSM 23MP Camera Phone - Graphite Black,Sony
+B01FJT7N4W,sound,17,0.29411764705882354,0.5882352941176471,-0.294,Sony Xperia X F5121 32GB GSM 23MP Camera Phone - Graphite Black,Sony
+B01LEL8ABY,battery,95,0.23157894736842105,0.42105263157894735,-0.189,"Moto Z GSM Unlocked Smartphone, 5.5"" Quad HD screen, 64GB storage, 5.2mm thin - Black",Motorola
+B01LEL8ABY,camera,27,0.4074074074074074,0.37037037037037035,0.037,"Moto Z GSM Unlocked Smartphone, 5.5"" Quad HD screen, 64GB storage, 5.2mm thin - Black",Motorola
+B01LEL8ABY,customer_service,23,0.13043478260869565,0.5652173913043478,-0.435,"Moto Z GSM Unlocked Smartphone, 5.5"" Quad HD screen, 64GB storage, 5.2mm thin - Black",Motorola
+B01LEL8ABY,design,21,0.7619047619047619,0.14285714285714285,0.619,"Moto Z GSM Unlocked Smartphone, 5.5"" Quad HD screen, 64GB storage, 5.2mm thin - Black",Motorola
+B01LEL8ABY,network,26,0.11538461538461539,0.5384615384615384,-0.423,"Moto Z GSM Unlocked Smartphone, 5.5"" Quad HD screen, 64GB storage, 5.2mm thin - Black",Motorola
+B01LEL8ABY,performance,12,0.5833333333333334,0.3333333333333333,0.25,"Moto Z GSM Unlocked Smartphone, 5.5"" Quad HD screen, 64GB storage, 5.2mm thin - Black",Motorola
+B01LEL8ABY,price,14,0.35714285714285715,0.5,-0.143,"Moto Z GSM Unlocked Smartphone, 5.5"" Quad HD screen, 64GB storage, 5.2mm thin - Black",Motorola
+B01LEL8ABY,screen,16,0.3125,0.5,-0.188,"Moto Z GSM Unlocked Smartphone, 5.5"" Quad HD screen, 64GB storage, 5.2mm thin - Black",Motorola
+B01LEL8ABY,software,38,0.15789473684210525,0.39473684210526316,-0.237,"Moto Z GSM Unlocked Smartphone, 5.5"" Quad HD screen, 64GB storage, 5.2mm thin - Black",Motorola
+B01LEL8ABY,sound,20,0.45,0.25,0.2,"Moto Z GSM Unlocked Smartphone, 5.5"" Quad HD screen, 64GB storage, 5.2mm thin - Black",Motorola
+B01LEL8ABY,usability,10,0.7,0.1,0.6,"Moto Z GSM Unlocked Smartphone, 5.5"" Quad HD screen, 64GB storage, 5.2mm thin - Black",Motorola
+B01LXF0WML,battery,22,0.09090909090909091,0.6818181818181818,-0.591,"Sony Xperia XZ F8332 64GB Forest Blue, 5.2"", Dual Sim, GSM Unlocked International Model, No Warranty",Sony
+B01LXF0WML,camera,36,0.5555555555555556,0.3888888888888889,0.167,"Sony Xperia XZ F8332 64GB Forest Blue, 5.2"", Dual Sim, GSM Unlocked International Model, No Warranty",Sony
+B01LXF0WML,design,19,0.7894736842105263,0.10526315789473684,0.684,"Sony Xperia XZ F8332 64GB Forest Blue, 5.2"", Dual Sim, GSM Unlocked International Model, No Warranty",Sony
+B01LXF0WML,network,22,0.18181818181818182,0.4090909090909091,-0.227,"Sony Xperia XZ F8332 64GB Forest Blue, 5.2"", Dual Sim, GSM Unlocked International Model, No Warranty",Sony
+B01LXF0WML,performance,10,0.7,0.3,0.4,"Sony Xperia XZ F8332 64GB Forest Blue, 5.2"", Dual Sim, GSM Unlocked International Model, No Warranty",Sony
+B01LXF0WML,screen,19,0.42105263157894735,0.42105263157894735,0.0,"Sony Xperia XZ F8332 64GB Forest Blue, 5.2"", Dual Sim, GSM Unlocked International Model, No Warranty",Sony
+B01LXF0WML,sound,11,0.2727272727272727,0.6363636363636364,-0.364,"Sony Xperia XZ F8332 64GB Forest Blue, 5.2"", Dual Sim, GSM Unlocked International Model, No Warranty",Sony
+B01LXF0WML,usability,18,0.5555555555555556,0.2777777777777778,0.278,"Sony Xperia XZ F8332 64GB Forest Blue, 5.2"", Dual Sim, GSM Unlocked International Model, No Warranty",Sony
+B01LY3OB8D,battery,70,0.2857142857142857,0.4142857142857143,-0.129,Google Pixel XL Phone 32GB - 5.5 inch display ( Factory Unlocked US Version ) (Very Silver),Google
+B01LY3OB8D,build,11,0.5454545454545454,0.36363636363636365,0.182,Google Pixel XL Phone 32GB - 5.5 inch display ( Factory Unlocked US Version ) (Very Silver),Google
+B01LY3OB8D,camera,53,0.5283018867924528,0.20754716981132076,0.321,Google Pixel XL Phone 32GB - 5.5 inch display ( Factory Unlocked US Version ) (Very Silver),Google
+B01LY3OB8D,customer_service,34,0.17647058823529413,0.6176470588235294,-0.441,Google Pixel XL Phone 32GB - 5.5 inch display ( Factory Unlocked US Version ) (Very Silver),Google
+B01LY3OB8D,delivery,17,0.5882352941176471,0.17647058823529413,0.412,Google Pixel XL Phone 32GB - 5.5 inch display ( Factory Unlocked US Version ) (Very Silver),Google
+B01LY3OB8D,design,15,0.7333333333333333,0.2,0.533,Google Pixel XL Phone 32GB - 5.5 inch display ( Factory Unlocked US Version ) (Very Silver),Google
+B01LY3OB8D,network,29,0.2413793103448276,0.3103448275862069,-0.069,Google Pixel XL Phone 32GB - 5.5 inch display ( Factory Unlocked US Version ) (Very Silver),Google
+B01LY3OB8D,performance,17,0.7058823529411765,0.17647058823529413,0.529,Google Pixel XL Phone 32GB - 5.5 inch display ( Factory Unlocked US Version ) (Very Silver),Google
+B01LY3OB8D,price,26,0.5,0.34615384615384615,0.154,Google Pixel XL Phone 32GB - 5.5 inch display ( Factory Unlocked US Version ) (Very Silver),Google
+B01LY3OB8D,screen,24,0.25,0.5,-0.25,Google Pixel XL Phone 32GB - 5.5 inch display ( Factory Unlocked US Version ) (Very Silver),Google
+B01LY3OB8D,software,25,0.36,0.12,0.24,Google Pixel XL Phone 32GB - 5.5 inch display ( Factory Unlocked US Version ) (Very Silver),Google
+B01LY3OB8D,storage,13,0.46153846153846156,0.23076923076923078,0.231,Google Pixel XL Phone 32GB - 5.5 inch display ( Factory Unlocked US Version ) (Very Silver),Google
+B01M01YX15,battery,35,0.08571428571428572,0.6285714285714286,-0.543,"Google Pixel Phone - 5 inch display (Factory Unlocked US Version) (32GB, Quite Black)",Google
+B01M01YX15,camera,21,0.5714285714285714,0.23809523809523808,0.333,"Google Pixel Phone - 5 inch display (Factory Unlocked US Version) (32GB, Quite Black)",Google
+B01M01YX15,customer_service,35,0.22857142857142856,0.45714285714285713,-0.229,"Google Pixel Phone - 5 inch display (Factory Unlocked US Version) (32GB, Quite Black)",Google
+B01M01YX15,delivery,22,0.4090909090909091,0.5,-0.091,"Google Pixel Phone - 5 inch display (Factory Unlocked US Version) (32GB, Quite Black)",Google
+B01M01YX15,design,10,0.5,0.5,0.0,"Google Pixel Phone - 5 inch display (Factory Unlocked US Version) (32GB, Quite Black)",Google
+B01M01YX15,network,20,0.15,0.45,-0.3,"Google Pixel Phone - 5 inch display (Factory Unlocked US Version) (32GB, Quite Black)",Google
+B01M01YX15,price,16,0.5,0.4375,0.062,"Google Pixel Phone - 5 inch display (Factory Unlocked US Version) (32GB, Quite Black)",Google
+B01M01YX15,screen,15,0.26666666666666666,0.4,-0.133,"Google Pixel Phone - 5 inch display (Factory Unlocked US Version) (32GB, Quite Black)",Google
+B01M01YX15,software,11,0.18181818181818182,0.5454545454545454,-0.364,"Google Pixel Phone - 5 inch display (Factory Unlocked US Version) (32GB, Quite Black)",Google
+B01M01YX15,sound,11,0.2727272727272727,0.7272727272727273,-0.455,"Google Pixel Phone - 5 inch display (Factory Unlocked US Version) (32GB, Quite Black)",Google
+B01M0PADR4,battery,63,0.25396825396825395,0.5555555555555556,-0.302,"Google Pixel XL G2PW210032GBBK Factory Unlocked Smartphone, 32GB, 5.5-Inch Display - U.S. Version (Quite Black)",Google
+B01M0PADR4,camera,39,0.48717948717948717,0.20512820512820512,0.282,"Google Pixel XL G2PW210032GBBK Factory Unlocked Smartphone, 32GB, 5.5-Inch Display - U.S. Version (Quite Black)",Google
+B01M0PADR4,customer_service,41,0.0975609756097561,0.6585365853658537,-0.561,"Google Pixel XL G2PW210032GBBK Factory Unlocked Smartphone, 32GB, 5.5-Inch Display - U.S. Version (Quite Black)",Google
+B01M0PADR4,delivery,20,0.45,0.4,0.05,"Google Pixel XL G2PW210032GBBK Factory Unlocked Smartphone, 32GB, 5.5-Inch Display - U.S. Version (Quite Black)",Google
+B01M0PADR4,design,16,0.5625,0.375,0.188,"Google Pixel XL G2PW210032GBBK Factory Unlocked Smartphone, 32GB, 5.5-Inch Display - U.S. Version (Quite Black)",Google
+B01M0PADR4,network,23,0.2608695652173913,0.2608695652173913,0.0,"Google Pixel XL G2PW210032GBBK Factory Unlocked Smartphone, 32GB, 5.5-Inch Display - U.S. Version (Quite Black)",Google
+B01M0PADR4,price,24,0.375,0.5,-0.125,"Google Pixel XL G2PW210032GBBK Factory Unlocked Smartphone, 32GB, 5.5-Inch Display - U.S. Version (Quite Black)",Google
+B01M0PADR4,screen,25,0.24,0.64,-0.4,"Google Pixel XL G2PW210032GBBK Factory Unlocked Smartphone, 32GB, 5.5-Inch Display - U.S. Version (Quite Black)",Google
+B01M0PADR4,software,17,0.29411764705882354,0.29411764705882354,0.0,"Google Pixel XL G2PW210032GBBK Factory Unlocked Smartphone, 32GB, 5.5-Inch Display - U.S. Version (Quite Black)",Google
+B01M0PADR4,sound,22,0.13636363636363635,0.7727272727272727,-0.636,"Google Pixel XL G2PW210032GBBK Factory Unlocked Smartphone, 32GB, 5.5-Inch Display - U.S. Version (Quite Black)",Google
+B01M0PADR4,usability,11,0.45454545454545453,0.2727272727272727,0.182,"Google Pixel XL G2PW210032GBBK Factory Unlocked Smartphone, 32GB, 5.5-Inch Display - U.S. Version (Quite Black)",Google
+B01M1HY1E3,battery,25,0.36,0.32,0.04,Sony Xperia XZ F8331 32GB Unlocked GSM 4G LTE Phone w/ 23MP Camera - Mineral Black,Sony
+B01M1HY1E3,camera,43,0.3953488372093023,0.32558139534883723,0.07,Sony Xperia XZ F8331 32GB Unlocked GSM 4G LTE Phone w/ 23MP Camera - Mineral Black,Sony
+B01M1HY1E3,customer_service,15,0.13333333333333333,0.8666666666666667,-0.733,Sony Xperia XZ F8331 32GB Unlocked GSM 4G LTE Phone w/ 23MP Camera - Mineral Black,Sony
+B01M1HY1E3,delivery,11,0.18181818181818182,0.7272727272727273,-0.545,Sony Xperia XZ F8331 32GB Unlocked GSM 4G LTE Phone w/ 23MP Camera - Mineral Black,Sony
+B01M1HY1E3,design,27,0.7037037037037037,0.18518518518518517,0.519,Sony Xperia XZ F8331 32GB Unlocked GSM 4G LTE Phone w/ 23MP Camera - Mineral Black,Sony
+B01M1HY1E3,network,31,0.0967741935483871,0.6451612903225806,-0.548,Sony Xperia XZ F8331 32GB Unlocked GSM 4G LTE Phone w/ 23MP Camera - Mineral Black,Sony
+B01M1HY1E3,performance,13,0.6153846153846154,0.3076923076923077,0.308,Sony Xperia XZ F8331 32GB Unlocked GSM 4G LTE Phone w/ 23MP Camera - Mineral Black,Sony
+B01M1HY1E3,price,23,0.30434782608695654,0.6086956521739131,-0.304,Sony Xperia XZ F8331 32GB Unlocked GSM 4G LTE Phone w/ 23MP Camera - Mineral Black,Sony
+B01M1HY1E3,screen,30,0.4,0.43333333333333335,-0.033,Sony Xperia XZ F8331 32GB Unlocked GSM 4G LTE Phone w/ 23MP Camera - Mineral Black,Sony
+B01M1HY1E3,software,19,0.5263157894736842,0.3684210526315789,0.158,Sony Xperia XZ F8331 32GB Unlocked GSM 4G LTE Phone w/ 23MP Camera - Mineral Black,Sony
+B01M1HY1E3,sound,25,0.56,0.28,0.28,Sony Xperia XZ F8331 32GB Unlocked GSM 4G LTE Phone w/ 23MP Camera - Mineral Black,Sony
+B01M1HY1E3,storage,17,0.35294117647058826,0.4117647058823529,-0.059,Sony Xperia XZ F8331 32GB Unlocked GSM 4G LTE Phone w/ 23MP Camera - Mineral Black,Sony
+B01M1HY1E3,usability,10,0.5,0.5,0.0,Sony Xperia XZ F8331 32GB Unlocked GSM 4G LTE Phone w/ 23MP Camera - Mineral Black,Sony
+B01M59QP6C,battery,29,0.06896551724137931,0.7241379310344828,-0.655,Samsung Galaxy Note 5 SM-N920V 32GB White Smartphone for Verizon (Renewed),Samsung
+B01M59QP6C,customer_service,15,0.06666666666666667,0.7333333333333333,-0.667,Samsung Galaxy Note 5 SM-N920V 32GB White Smartphone for Verizon (Renewed),Samsung
+B01M59QP6C,network,10,0.3,0.6,-0.3,Samsung Galaxy Note 5 SM-N920V 32GB White Smartphone for Verizon (Renewed),Samsung
+B01M59QP6C,screen,15,0.13333333333333333,0.8,-0.667,Samsung Galaxy Note 5 SM-N920V 32GB White Smartphone for Verizon (Renewed),Samsung
+B01N4E0RF1,battery,62,0.16129032258064516,0.6612903225806451,-0.5,Samsung Galaxy S7 - Black - 32GB - Verizon (Renewed),Samsung
+B01N4E0RF1,customer_service,25,0.2,0.4,-0.2,Samsung Galaxy S7 - Black - 32GB - Verizon (Renewed),Samsung
+B01N4E0RF1,delivery,22,0.6363636363636364,0.18181818181818182,0.455,Samsung Galaxy S7 - Black - 32GB - Verizon (Renewed),Samsung
+B01N4E0RF1,design,22,0.6363636363636364,0.3181818181818182,0.318,Samsung Galaxy S7 - Black - 32GB - Verizon (Renewed),Samsung
+B01N4E0RF1,network,29,0.20689655172413793,0.3793103448275862,-0.172,Samsung Galaxy S7 - Black - 32GB - Verizon (Renewed),Samsung
+B01N4E0RF1,price,17,0.7058823529411765,0.29411764705882354,0.412,Samsung Galaxy S7 - Black - 32GB - Verizon (Renewed),Samsung
+B01N4E0RF1,screen,30,0.13333333333333333,0.7666666666666667,-0.633,Samsung Galaxy S7 - Black - 32GB - Verizon (Renewed),Samsung
+B01N9TM7KG,battery,20,0.55,0.25,0.3,"Samsung Galaxy S7 Edge, 5.5"" 32GB (Verizon Wireless) - Blue",Samsung
+B01N9TM7KG,camera,15,0.4,0.06666666666666667,0.333,"Samsung Galaxy S7 Edge, 5.5"" 32GB (Verizon Wireless) - Blue",Samsung
+B01N9TM7KG,customer_service,10,0.4,0.4,0.0,"Samsung Galaxy S7 Edge, 5.5"" 32GB (Verizon Wireless) - Blue",Samsung
+B01N9TM7KG,network,24,0.16666666666666666,0.5416666666666666,-0.375,"Samsung Galaxy S7 Edge, 5.5"" 32GB (Verizon Wireless) - Blue",Samsung
+B01N9TM7KG,screen,19,0.5263157894736842,0.21052631578947367,0.316,"Samsung Galaxy S7 Edge, 5.5"" 32GB (Verizon Wireless) - Blue",Samsung
+B01N9XOXCK,battery,55,0.14545454545454545,0.5636363636363636,-0.418,Samsung Galaxy S7 Edge G935V 32GB Gold - Verizon (Renewed),Samsung
+B01N9XOXCK,camera,12,0.5,0.3333333333333333,0.167,Samsung Galaxy S7 Edge G935V 32GB Gold - Verizon (Renewed),Samsung
+B01N9XOXCK,customer_service,28,0.35714285714285715,0.32142857142857145,0.036,Samsung Galaxy S7 Edge G935V 32GB Gold - Verizon (Renewed),Samsung
+B01N9XOXCK,delivery,26,0.5,0.34615384615384615,0.154,Samsung Galaxy S7 Edge G935V 32GB Gold - Verizon (Renewed),Samsung
+B01N9XOXCK,design,16,0.625,0.3125,0.312,Samsung Galaxy S7 Edge G935V 32GB Gold - Verizon (Renewed),Samsung
+B01N9XOXCK,network,71,0.2112676056338028,0.4647887323943662,-0.254,Samsung Galaxy S7 Edge G935V 32GB Gold - Verizon (Renewed),Samsung
+B01N9XOXCK,performance,10,0.4,0.6,-0.2,Samsung Galaxy S7 Edge G935V 32GB Gold - Verizon (Renewed),Samsung
+B01N9XOXCK,price,21,0.6190476190476191,0.2857142857142857,0.333,Samsung Galaxy S7 Edge G935V 32GB Gold - Verizon (Renewed),Samsung
+B01N9XOXCK,screen,41,0.21951219512195122,0.7073170731707317,-0.488,Samsung Galaxy S7 Edge G935V 32GB Gold - Verizon (Renewed),Samsung
+B01N9XOXCK,software,17,0.4117647058823529,0.29411764705882354,0.118,Samsung Galaxy S7 Edge G935V 32GB Gold - Verizon (Renewed),Samsung
+B01NB1KG8U,battery,25,0.08,0.56,-0.48,Samsung Galaxy S7 Edge G935A 32GB Gold - Unlocked GSM (Renewed),Samsung
+B01NB1KG8U,customer_service,13,0.38461538461538464,0.3076923076923077,0.077,Samsung Galaxy S7 Edge G935A 32GB Gold - Unlocked GSM (Renewed),Samsung
+B01NB1KG8U,design,11,0.7272727272727273,0.18181818181818182,0.545,Samsung Galaxy S7 Edge G935A 32GB Gold - Unlocked GSM (Renewed),Samsung
+B01NB1KG8U,network,12,0.25,0.25,0.0,Samsung Galaxy S7 Edge G935A 32GB Gold - Unlocked GSM (Renewed),Samsung
+B01NC2MEJP,battery,25,0.16,0.72,-0.56,Samsung Galaxy Note 5 32GB GSM Unlocked - Black (Renewed) (D132),Samsung
+B01NC2MEJP,customer_service,11,0.09090909090909091,0.7272727272727273,-0.636,Samsung Galaxy Note 5 32GB GSM Unlocked - Black (Renewed) (D132),Samsung
+B01NC2MEJP,network,18,0.1111111111111111,0.7222222222222222,-0.611,Samsung Galaxy Note 5 32GB GSM Unlocked - Black (Renewed) (D132),Samsung
+B01NC2MEJP,screen,10,0.2,0.8,-0.6,Samsung Galaxy Note 5 32GB GSM Unlocked - Black (Renewed) (D132),Samsung
+B06X9HVVC5,battery,12,0.4166666666666667,0.25,0.167,Sony Xperia XA1 G3123 32GB Unlocked GSM LTE Octa-Core Phone w/ 23MP Camera - White,Sony
+B06X9HVVC5,camera,34,0.5294117647058824,0.29411764705882354,0.235,Sony Xperia XA1 G3123 32GB Unlocked GSM LTE Octa-Core Phone w/ 23MP Camera - White,Sony
+B06X9HVVC5,customer_service,22,0.0,0.8181818181818182,-0.818,Sony Xperia XA1 G3123 32GB Unlocked GSM LTE Octa-Core Phone w/ 23MP Camera - White,Sony
+B06X9HVVC5,design,11,0.9090909090909091,0.0,0.909,Sony Xperia XA1 G3123 32GB Unlocked GSM LTE Octa-Core Phone w/ 23MP Camera - White,Sony
+B06X9HVVC5,network,11,0.45454545454545453,0.2727272727272727,0.182,Sony Xperia XA1 G3123 32GB Unlocked GSM LTE Octa-Core Phone w/ 23MP Camera - White,Sony
+B06X9HVVC5,price,12,0.6666666666666666,0.16666666666666666,0.5,Sony Xperia XA1 G3123 32GB Unlocked GSM LTE Octa-Core Phone w/ 23MP Camera - White,Sony
+B06X9HVVC5,screen,34,0.14705882352941177,0.8235294117647058,-0.676,Sony Xperia XA1 G3123 32GB Unlocked GSM LTE Octa-Core Phone w/ 23MP Camera - White,Sony
+B06X9HVVC5,software,12,0.4166666666666667,0.3333333333333333,0.083,Sony Xperia XA1 G3123 32GB Unlocked GSM LTE Octa-Core Phone w/ 23MP Camera - White,Sony
+B06XR8G1TX,battery,53,0.22641509433962265,0.660377358490566,-0.434,"Apple iPhone 6S, 64GB, Space Gray - Fully Unlocked (Renewed)",Apple
+B06XR8G1TX,customer_service,16,0.1875,0.375,-0.188,"Apple iPhone 6S, 64GB, Space Gray - Fully Unlocked (Renewed)",Apple
+B06XR8G1TX,price,12,0.6666666666666666,0.3333333333333333,0.333,"Apple iPhone 6S, 64GB, Space Gray - Fully Unlocked (Renewed)",Apple
+B06XR8G1TX,screen,10,0.3,0.6,-0.3,"Apple iPhone 6S, 64GB, Space Gray - Fully Unlocked (Renewed)",Apple
+B06XRG6S73,battery,43,0.13953488372093023,0.7674418604651163,-0.628,"Apple iPhone 6S, 16GB, Rose Gold - For AT&T / T-Mobile (Renewed)",Apple
+B06XRG6S73,customer_service,19,0.2631578947368421,0.5263157894736842,-0.263,"Apple iPhone 6S, 16GB, Rose Gold - For AT&T / T-Mobile (Renewed)",Apple
+B06XRG6S73,network,17,0.29411764705882354,0.17647058823529413,0.118,"Apple iPhone 6S, 16GB, Rose Gold - For AT&T / T-Mobile (Renewed)",Apple
+B06XRJQX91,battery,56,0.16071428571428573,0.5892857142857143,-0.429,"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",Apple
+B06XRJQX91,customer_service,32,0.125,0.3125,-0.188,"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",Apple
+B06XRJQX91,delivery,14,0.7857142857142857,0.14285714285714285,0.643,"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",Apple
+B06XRJQX91,design,13,0.6923076923076923,0.3076923076923077,0.385,"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",Apple
+B06XRJQX91,network,18,0.3333333333333333,0.3888888888888889,-0.056,"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",Apple
+B06XRJQX91,price,15,0.5333333333333333,0.2,0.333,"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",Apple
+B06XRJQX91,screen,13,0.23076923076923078,0.6153846153846154,-0.385,"Apple iPhone 6S, 64GB, Rose Gold - For AT&T / T-Mobile (Renewed)",Apple
+B06XS2GWFC,battery,29,0.6551724137931034,0.27586206896551724,0.379,Samsung Galaxy J7 - Verizon Carrier Locked No Contract Prepaid Smartphone,Samsung
+B06XS2GWFC,camera,23,0.21739130434782608,0.5217391304347826,-0.304,Samsung Galaxy J7 - Verizon Carrier Locked No Contract Prepaid Smartphone,Samsung
+B06XS2GWFC,network,14,0.2857142857142857,0.5,-0.214,Samsung Galaxy J7 - Verizon Carrier Locked No Contract Prepaid Smartphone,Samsung
+B06XS2GWFC,performance,19,0.2631578947368421,0.7368421052631579,-0.474,Samsung Galaxy J7 - Verizon Carrier Locked No Contract Prepaid Smartphone,Samsung
+B06XS2GWFC,price,25,0.64,0.36,0.28,Samsung Galaxy J7 - Verizon Carrier Locked No Contract Prepaid Smartphone,Samsung
+B06XS2GWFC,screen,21,0.23809523809523808,0.6190476190476191,-0.381,Samsung Galaxy J7 - Verizon Carrier Locked No Contract Prepaid Smartphone,Samsung
+B06XS2GWFC,storage,13,0.3076923076923077,0.5384615384615384,-0.231,Samsung Galaxy J7 - Verizon Carrier Locked No Contract Prepaid Smartphone,Samsung
+B06XSF5C42,battery,18,0.05555555555555555,0.8333333333333334,-0.778,Samsung Galaxy S7 Edge 32GB G935A GSM Unlocked (Renewed) (Black),Samsung
+B06XSF5C42,customer_service,12,0.16666666666666666,0.5833333333333334,-0.417,Samsung Galaxy S7 Edge 32GB G935A GSM Unlocked (Renewed) (Black),Samsung
+B06XSF5C42,network,25,0.2,0.48,-0.28,Samsung Galaxy S7 Edge 32GB G935A GSM Unlocked (Renewed) (Black),Samsung
+B06XSF5C42,screen,10,0.2,0.8,-0.6,Samsung Galaxy S7 Edge 32GB G935A GSM Unlocked (Renewed) (Black),Samsung
+B06Y16RL4W,battery,37,0.43243243243243246,0.3783783783783784,0.054,"Samsung Galaxy S8+ 64GB Factory Unlocked Smartphone - 6.2"" Screen - US Version (Midnight Black) - US Warranty [SM-G955UZKAXAA]",Samsung
+B06Y16RL4W,build,20,0.25,0.55,-0.3,"Samsung Galaxy S8+ 64GB Factory Unlocked Smartphone - 6.2"" Screen - US Version (Midnight Black) - US Warranty [SM-G955UZKAXAA]",Samsung
+B06Y16RL4W,camera,46,0.34782608695652173,0.32608695652173914,0.022,"Samsung Galaxy S8+ 64GB Factory Unlocked Smartphone - 6.2"" Screen - US Version (Midnight Black) - US Warranty [SM-G955UZKAXAA]",Samsung
+B06Y16RL4W,customer_service,56,0.23214285714285715,0.4642857142857143,-0.232,"Samsung Galaxy S8+ 64GB Factory Unlocked Smartphone - 6.2"" Screen - US Version (Midnight Black) - US Warranty [SM-G955UZKAXAA]",Samsung
+B06Y16RL4W,delivery,29,0.5862068965517241,0.20689655172413793,0.379,"Samsung Galaxy S8+ 64GB Factory Unlocked Smartphone - 6.2"" Screen - US Version (Midnight Black) - US Warranty [SM-G955UZKAXAA]",Samsung
+B06Y16RL4W,design,17,0.6470588235294118,0.29411764705882354,0.353,"Samsung Galaxy S8+ 64GB Factory Unlocked Smartphone - 6.2"" Screen - US Version (Midnight Black) - US Warranty [SM-G955UZKAXAA]",Samsung
+B06Y16RL4W,network,73,0.1917808219178082,0.3835616438356164,-0.192,"Samsung Galaxy S8+ 64GB Factory Unlocked Smartphone - 6.2"" Screen - US Version (Midnight Black) - US Warranty [SM-G955UZKAXAA]",Samsung
+B06Y16RL4W,performance,11,0.7272727272727273,0.2727272727272727,0.455,"Samsung Galaxy S8+ 64GB Factory Unlocked Smartphone - 6.2"" Screen - US Version (Midnight Black) - US Warranty [SM-G955UZKAXAA]",Samsung
+B06Y16RL4W,price,30,0.4,0.5,-0.1,"Samsung Galaxy S8+ 64GB Factory Unlocked Smartphone - 6.2"" Screen - US Version (Midnight Black) - US Warranty [SM-G955UZKAXAA]",Samsung
+B06Y16RL4W,screen,63,0.4126984126984127,0.47619047619047616,-0.063,"Samsung Galaxy S8+ 64GB Factory Unlocked Smartphone - 6.2"" Screen - US Version (Midnight Black) - US Warranty [SM-G955UZKAXAA]",Samsung
+B06Y16RL4W,software,30,0.2,0.4666666666666667,-0.267,"Samsung Galaxy S8+ 64GB Factory Unlocked Smartphone - 6.2"" Screen - US Version (Midnight Black) - US Warranty [SM-G955UZKAXAA]",Samsung
+B06Y16RL4W,usability,10,0.4,0.4,0.0,"Samsung Galaxy S8+ 64GB Factory Unlocked Smartphone - 6.2"" Screen - US Version (Midnight Black) - US Warranty [SM-G955UZKAXAA]",Samsung
+B06Y2GX8K8,battery,25,0.4,0.36,0.04,"Sony Xperia XZ Premium - Unlocked Smartphone - 5.5"", 64GB - Dual SIM - Pink (US Warranty)",Sony
+B06Y2GX8K8,camera,35,0.5714285714285714,0.14285714285714285,0.429,"Sony Xperia XZ Premium - Unlocked Smartphone - 5.5"", 64GB - Dual SIM - Pink (US Warranty)",Sony
+B06Y2GX8K8,design,17,0.7647058823529411,0.058823529411764705,0.706,"Sony Xperia XZ Premium - Unlocked Smartphone - 5.5"", 64GB - Dual SIM - Pink (US Warranty)",Sony
+B06Y2GX8K8,network,26,0.2692307692307692,0.46153846153846156,-0.192,"Sony Xperia XZ Premium - Unlocked Smartphone - 5.5"", 64GB - Dual SIM - Pink (US Warranty)",Sony
+B06Y2GX8K8,performance,14,0.5714285714285714,0.35714285714285715,0.214,"Sony Xperia XZ Premium - Unlocked Smartphone - 5.5"", 64GB - Dual SIM - Pink (US Warranty)",Sony
+B06Y2GX8K8,screen,24,0.5416666666666666,0.16666666666666666,0.375,"Sony Xperia XZ Premium - Unlocked Smartphone - 5.5"", 64GB - Dual SIM - Pink (US Warranty)",Sony
+B06Y2GX8K8,software,16,0.25,0.375,-0.125,"Sony Xperia XZ Premium - Unlocked Smartphone - 5.5"", 64GB - Dual SIM - Pink (US Warranty)",Sony
+B06Y2GX8K8,sound,16,0.5625,0.1875,0.375,"Sony Xperia XZ Premium - Unlocked Smartphone - 5.5"", 64GB - Dual SIM - Pink (US Warranty)",Sony
+B06Y2GX8K8,usability,12,0.3333333333333333,0.6666666666666666,-0.333,"Sony Xperia XZ Premium - Unlocked Smartphone - 5.5"", 64GB - Dual SIM - Pink (US Warranty)",Sony
+B071H9KKKF,battery,25,0.48,0.2,0.28,Samsung Galaxy S8 Plus (S8+) (SM-G955FD) 4GB RAM / 64GB ROM 6.2-Inch 12MP 4G LTE Dual SIM FACTORY UNLOCKED - International Stock No Warranty (MIDNIGHT BLACK),Samsung
+B071H9KKKF,build,13,0.15384615384615385,0.6923076923076923,-0.538,Samsung Galaxy S8 Plus (S8+) (SM-G955FD) 4GB RAM / 64GB ROM 6.2-Inch 12MP 4G LTE Dual SIM FACTORY UNLOCKED - International Stock No Warranty (MIDNIGHT BLACK),Samsung
+B071H9KKKF,camera,10,0.5,0.2,0.3,Samsung Galaxy S8 Plus (S8+) (SM-G955FD) 4GB RAM / 64GB ROM 6.2-Inch 12MP 4G LTE Dual SIM FACTORY UNLOCKED - International Stock No Warranty (MIDNIGHT BLACK),Samsung
+B071H9KKKF,customer_service,15,0.4,0.13333333333333333,0.267,Samsung Galaxy S8 Plus (S8+) (SM-G955FD) 4GB RAM / 64GB ROM 6.2-Inch 12MP 4G LTE Dual SIM FACTORY UNLOCKED - International Stock No Warranty (MIDNIGHT BLACK),Samsung
+B071H9KKKF,delivery,16,0.5625,0.25,0.312,Samsung Galaxy S8 Plus (S8+) (SM-G955FD) 4GB RAM / 64GB ROM 6.2-Inch 12MP 4G LTE Dual SIM FACTORY UNLOCKED - International Stock No Warranty (MIDNIGHT BLACK),Samsung
+B071H9KKKF,network,28,0.17857142857142858,0.39285714285714285,-0.214,Samsung Galaxy S8 Plus (S8+) (SM-G955FD) 4GB RAM / 64GB ROM 6.2-Inch 12MP 4G LTE Dual SIM FACTORY UNLOCKED - International Stock No Warranty (MIDNIGHT BLACK),Samsung
+B071H9KKKF,price,15,0.4666666666666667,0.4666666666666667,0.0,Samsung Galaxy S8 Plus (S8+) (SM-G955FD) 4GB RAM / 64GB ROM 6.2-Inch 12MP 4G LTE Dual SIM FACTORY UNLOCKED - International Stock No Warranty (MIDNIGHT BLACK),Samsung
+B071H9KKKF,screen,33,0.2727272727272727,0.6666666666666666,-0.394,Samsung Galaxy S8 Plus (S8+) (SM-G955FD) 4GB RAM / 64GB ROM 6.2-Inch 12MP 4G LTE Dual SIM FACTORY UNLOCKED - International Stock No Warranty (MIDNIGHT BLACK),Samsung
+B071H9KKKF,software,19,0.10526315789473684,0.47368421052631576,-0.368,Samsung Galaxy S8 Plus (S8+) (SM-G955FD) 4GB RAM / 64GB ROM 6.2-Inch 12MP 4G LTE Dual SIM FACTORY UNLOCKED - International Stock No Warranty (MIDNIGHT BLACK),Samsung
+B071JP8XDJ,battery,36,0.16666666666666666,0.6388888888888888,-0.472,Sony Xperia XA1 Ultra G3223 32GB Unlocked GSM LTE Octa-Core Phone w/ 23MP - Gold,Sony
+B071JP8XDJ,camera,66,0.48484848484848486,0.2878787878787879,0.197,Sony Xperia XA1 Ultra G3223 32GB Unlocked GSM LTE Octa-Core Phone w/ 23MP - Gold,Sony
+B071JP8XDJ,design,18,0.7777777777777778,0.0,0.778,Sony Xperia XA1 Ultra G3223 32GB Unlocked GSM LTE Octa-Core Phone w/ 23MP - Gold,Sony
+B071JP8XDJ,network,15,0.2,0.6,-0.4,Sony Xperia XA1 Ultra G3223 32GB Unlocked GSM LTE Octa-Core Phone w/ 23MP - Gold,Sony
+B071JP8XDJ,performance,10,0.9,0.0,0.9,Sony Xperia XA1 Ultra G3223 32GB Unlocked GSM LTE Octa-Core Phone w/ 23MP - Gold,Sony
+B071JP8XDJ,price,13,0.9230769230769231,0.0,0.923,Sony Xperia XA1 Ultra G3223 32GB Unlocked GSM LTE Octa-Core Phone w/ 23MP - Gold,Sony
+B071JP8XDJ,screen,34,0.6176470588235294,0.38235294117647056,0.235,Sony Xperia XA1 Ultra G3223 32GB Unlocked GSM LTE Octa-Core Phone w/ 23MP - Gold,Sony
+B071JP8XDJ,sound,17,0.47058823529411764,0.4117647058823529,0.059,Sony Xperia XA1 Ultra G3223 32GB Unlocked GSM LTE Octa-Core Phone w/ 23MP - Gold,Sony
+B071ZDQ6MV,battery,46,0.41304347826086957,0.3695652173913043,0.043,Nokia 6 - 32 GB - Dual Sim Unlocked Smartphone (AT&T/T-Mobile/Metropcs/Cricket/Mint) - Update To Android 9.0 PIE - 5.FHD Screen - Blue - U.S. Warranty,Nokia
+B071ZDQ6MV,build,16,0.8125,0.125,0.688,Nokia 6 - 32 GB - Dual Sim Unlocked Smartphone (AT&T/T-Mobile/Metropcs/Cricket/Mint) - Update To Android 9.0 PIE - 5.FHD Screen - Blue - U.S. Warranty,Nokia
+B071ZDQ6MV,camera,56,0.32142857142857145,0.4642857142857143,-0.143,Nokia 6 - 32 GB - Dual Sim Unlocked Smartphone (AT&T/T-Mobile/Metropcs/Cricket/Mint) - Update To Android 9.0 PIE - 5.FHD Screen - Blue - U.S. Warranty,Nokia
+B071ZDQ6MV,customer_service,32,0.125,0.5625,-0.438,Nokia 6 - 32 GB - Dual Sim Unlocked Smartphone (AT&T/T-Mobile/Metropcs/Cricket/Mint) - Update To Android 9.0 PIE - 5.FHD Screen - Blue - U.S. Warranty,Nokia
+B071ZDQ6MV,design,29,0.7241379310344828,0.2413793103448276,0.483,Nokia 6 - 32 GB - Dual Sim Unlocked Smartphone (AT&T/T-Mobile/Metropcs/Cricket/Mint) - Update To Android 9.0 PIE - 5.FHD Screen - Blue - U.S. Warranty,Nokia
+B071ZDQ6MV,network,57,0.24561403508771928,0.49122807017543857,-0.246,Nokia 6 - 32 GB - Dual Sim Unlocked Smartphone (AT&T/T-Mobile/Metropcs/Cricket/Mint) - Update To Android 9.0 PIE - 5.FHD Screen - Blue - U.S. Warranty,Nokia
+B071ZDQ6MV,performance,34,0.4411764705882353,0.38235294117647056,0.059,Nokia 6 - 32 GB - Dual Sim Unlocked Smartphone (AT&T/T-Mobile/Metropcs/Cricket/Mint) - Update To Android 9.0 PIE - 5.FHD Screen - Blue - U.S. Warranty,Nokia
+B071ZDQ6MV,price,51,0.6470588235294118,0.13725490196078433,0.51,Nokia 6 - 32 GB - Dual Sim Unlocked Smartphone (AT&T/T-Mobile/Metropcs/Cricket/Mint) - Update To Android 9.0 PIE - 5.FHD Screen - Blue - U.S. Warranty,Nokia
+B071ZDQ6MV,screen,36,0.4166666666666667,0.4444444444444444,-0.028,Nokia 6 - 32 GB - Dual Sim Unlocked Smartphone (AT&T/T-Mobile/Metropcs/Cricket/Mint) - Update To Android 9.0 PIE - 5.FHD Screen - Blue - U.S. Warranty,Nokia
+B071ZDQ6MV,software,51,0.29411764705882354,0.27450980392156865,0.02,Nokia 6 - 32 GB - Dual Sim Unlocked Smartphone (AT&T/T-Mobile/Metropcs/Cricket/Mint) - Update To Android 9.0 PIE - 5.FHD Screen - Blue - U.S. Warranty,Nokia
+B071ZDQ6MV,sound,43,0.20930232558139536,0.6744186046511628,-0.465,Nokia 6 - 32 GB - Dual Sim Unlocked Smartphone (AT&T/T-Mobile/Metropcs/Cricket/Mint) - Update To Android 9.0 PIE - 5.FHD Screen - Blue - U.S. Warranty,Nokia
+B071ZDQ6MV,storage,11,0.45454545454545453,0.0,0.455,Nokia 6 - 32 GB - Dual Sim Unlocked Smartphone (AT&T/T-Mobile/Metropcs/Cricket/Mint) - Update To Android 9.0 PIE - 5.FHD Screen - Blue - U.S. Warranty,Nokia
+B072N3GKSM,battery,57,0.15789473684210525,0.6491228070175439,-0.491,"Google Pixel GSM Unlocked (Renewed) (32GB, Gray)",Google
+B072N3GKSM,camera,19,0.631578947368421,0.15789473684210525,0.474,"Google Pixel GSM Unlocked (Renewed) (32GB, Gray)",Google
+B072N3GKSM,customer_service,54,0.14814814814814814,0.5370370370370371,-0.389,"Google Pixel GSM Unlocked (Renewed) (32GB, Gray)",Google
+B072N3GKSM,delivery,19,0.42105263157894735,0.47368421052631576,-0.053,"Google Pixel GSM Unlocked (Renewed) (32GB, Gray)",Google
+B072N3GKSM,network,15,0.2,0.5333333333333333,-0.333,"Google Pixel GSM Unlocked (Renewed) (32GB, Gray)",Google
+B072N3GKSM,price,14,0.6428571428571429,0.2857142857142857,0.357,"Google Pixel GSM Unlocked (Renewed) (32GB, Gray)",Google
+B072N3GKSM,screen,22,0.3181818181818182,0.5454545454545454,-0.227,"Google Pixel GSM Unlocked (Renewed) (32GB, Gray)",Google
+B072N3GKSM,software,15,0.2,0.5333333333333333,-0.333,"Google Pixel GSM Unlocked (Renewed) (32GB, Gray)",Google
+B072N3GKSM,sound,15,0.06666666666666667,0.9333333333333333,-0.867,"Google Pixel GSM Unlocked (Renewed) (32GB, Gray)",Google
+B072ZWCKP5,battery,100,0.77,0.09,0.68,Motorola XT1775 Moto E Plus (4th Gen.) 32GB Unlocked Fine Gold Smartphone,Motorola
+B072ZWCKP5,camera,43,0.3023255813953488,0.4418604651162791,-0.14,Motorola XT1775 Moto E Plus (4th Gen.) 32GB Unlocked Fine Gold Smartphone,Motorola
+B072ZWCKP5,customer_service,19,0.15789473684210525,0.7894736842105263,-0.632,Motorola XT1775 Moto E Plus (4th Gen.) 32GB Unlocked Fine Gold Smartphone,Motorola
+B072ZWCKP5,design,12,0.6666666666666666,0.16666666666666666,0.5,Motorola XT1775 Moto E Plus (4th Gen.) 32GB Unlocked Fine Gold Smartphone,Motorola
+B072ZWCKP5,network,43,0.23255813953488372,0.37209302325581395,-0.14,Motorola XT1775 Moto E Plus (4th Gen.) 32GB Unlocked Fine Gold Smartphone,Motorola
+B072ZWCKP5,performance,27,0.4074074074074074,0.4444444444444444,-0.037,Motorola XT1775 Moto E Plus (4th Gen.) 32GB Unlocked Fine Gold Smartphone,Motorola
+B072ZWCKP5,price,35,0.7142857142857143,0.11428571428571428,0.6,Motorola XT1775 Moto E Plus (4th Gen.) 32GB Unlocked Fine Gold Smartphone,Motorola
+B072ZWCKP5,screen,30,0.6,0.2,0.4,Motorola XT1775 Moto E Plus (4th Gen.) 32GB Unlocked Fine Gold Smartphone,Motorola
+B072ZWCKP5,software,18,0.3888888888888889,0.3888888888888889,0.0,Motorola XT1775 Moto E Plus (4th Gen.) 32GB Unlocked Fine Gold Smartphone,Motorola
+B072ZWCKP5,sound,12,0.08333333333333333,0.6666666666666666,-0.583,Motorola XT1775 Moto E Plus (4th Gen.) 32GB Unlocked Fine Gold Smartphone,Motorola
+B072ZWCKP5,storage,11,0.09090909090909091,0.18181818181818182,-0.091,Motorola XT1775 Moto E Plus (4th Gen.) 32GB Unlocked Fine Gold Smartphone,Motorola
+B072ZWCKP5,usability,21,0.6666666666666666,0.2857142857142857,0.381,Motorola XT1775 Moto E Plus (4th Gen.) 32GB Unlocked Fine Gold Smartphone,Motorola
+B0731HBTZ7,battery,26,0.34615384615384615,0.46153846153846156,-0.115,"Apple iPhone 7 32GB, Rose Gold (Renewed)",Apple
+B0731HBTZ7,customer_service,19,0.2631578947368421,0.47368421052631576,-0.211,"Apple iPhone 7 32GB, Rose Gold (Renewed)",Apple
+B0731HBTZ7,delivery,18,0.6666666666666666,0.2777777777777778,0.389,"Apple iPhone 7 32GB, Rose Gold (Renewed)",Apple
+B0731HBTZ7,network,34,0.17647058823529413,0.47058823529411764,-0.294,"Apple iPhone 7 32GB, Rose Gold (Renewed)",Apple
+B074P62MW8,battery,11,0.45454545454545453,0.45454545454545453,0.0,"Sony Xperia XZ1 Factory Unlocked Phone - 5.2"" Full HD HDR Display - 64GB - Venus Pink (U.S. Warranty)",Sony
+B074P62MW8,camera,19,0.47368421052631576,0.3684210526315789,0.105,"Sony Xperia XZ1 Factory Unlocked Phone - 5.2"" Full HD HDR Display - 64GB - Venus Pink (U.S. Warranty)",Sony
+B074P62MW8,design,19,0.7894736842105263,0.10526315789473684,0.684,"Sony Xperia XZ1 Factory Unlocked Phone - 5.2"" Full HD HDR Display - 64GB - Venus Pink (U.S. Warranty)",Sony
+B074P62MW8,network,15,0.13333333333333333,0.5333333333333333,-0.4,"Sony Xperia XZ1 Factory Unlocked Phone - 5.2"" Full HD HDR Display - 64GB - Venus Pink (U.S. Warranty)",Sony
+B074P62MW8,screen,13,0.23076923076923078,0.5384615384615384,-0.308,"Sony Xperia XZ1 Factory Unlocked Phone - 5.2"" Full HD HDR Display - 64GB - Venus Pink (U.S. Warranty)",Sony
+B074P62MW8,software,18,0.16666666666666666,0.6666666666666666,-0.5,"Sony Xperia XZ1 Factory Unlocked Phone - 5.2"" Full HD HDR Display - 64GB - Venus Pink (U.S. Warranty)",Sony
+B074P62MW8,sound,13,0.6153846153846154,0.23076923076923078,0.385,"Sony Xperia XZ1 Factory Unlocked Phone - 5.2"" Full HD HDR Display - 64GB - Venus Pink (U.S. Warranty)",Sony
+B074VFRKZG,battery,30,0.4666666666666667,0.2,0.267,"Motorola Moto X4 Factory Unlocked Phone - 32GB - 5.2"" - Super Black - PA8S0006US",Motorola
+B074VFRKZG,camera,20,0.45,0.4,0.05,"Motorola Moto X4 Factory Unlocked Phone - 32GB - 5.2"" - Super Black - PA8S0006US",Motorola
+B074VFRKZG,design,11,0.8181818181818182,0.18181818181818182,0.636,"Motorola Moto X4 Factory Unlocked Phone - 32GB - 5.2"" - Super Black - PA8S0006US",Motorola
+B074VFRKZG,network,10,0.4,0.1,0.3,"Motorola Moto X4 Factory Unlocked Phone - 32GB - 5.2"" - Super Black - PA8S0006US",Motorola
+B074VFRKZG,price,24,0.75,0.125,0.625,"Motorola Moto X4 Factory Unlocked Phone - 32GB - 5.2"" - Super Black - PA8S0006US",Motorola
+B074VFRKZG,screen,11,0.5454545454545454,0.36363636363636365,0.182,"Motorola Moto X4 Factory Unlocked Phone - 32GB - 5.2"" - Super Black - PA8S0006US",Motorola
+B074VFRKZG,software,17,0.4117647058823529,0.23529411764705882,0.176,"Motorola Moto X4 Factory Unlocked Phone - 32GB - 5.2"" - Super Black - PA8S0006US",Motorola
+B074VFRKZG,usability,13,0.8461538461538461,0.15384615384615385,0.692,"Motorola Moto X4 Factory Unlocked Phone - 32GB - 5.2"" - Super Black - PA8S0006US",Motorola
+B07536MYBQ,battery,83,0.3132530120481928,0.46987951807228917,-0.157,Samsung Galaxy Note8 N950U 64GB Unlocked GSM LTE Android Phone w/ Dual 12 Megapixel Camera - Midnight Black,Samsung
+B07536MYBQ,build,15,0.4666666666666667,0.3333333333333333,0.133,Samsung Galaxy Note8 N950U 64GB Unlocked GSM LTE Android Phone w/ Dual 12 Megapixel Camera - Midnight Black,Samsung
+B07536MYBQ,camera,76,0.5,0.13157894736842105,0.368,Samsung Galaxy Note8 N950U 64GB Unlocked GSM LTE Android Phone w/ Dual 12 Megapixel Camera - Midnight Black,Samsung
+B07536MYBQ,customer_service,38,0.21052631578947367,0.5789473684210527,-0.368,Samsung Galaxy Note8 N950U 64GB Unlocked GSM LTE Android Phone w/ Dual 12 Megapixel Camera - Midnight Black,Samsung
+B07536MYBQ,delivery,16,0.375,0.375,0.0,Samsung Galaxy Note8 N950U 64GB Unlocked GSM LTE Android Phone w/ Dual 12 Megapixel Camera - Midnight Black,Samsung
+B07536MYBQ,design,31,0.6129032258064516,0.25806451612903225,0.355,Samsung Galaxy Note8 N950U 64GB Unlocked GSM LTE Android Phone w/ Dual 12 Megapixel Camera - Midnight Black,Samsung
+B07536MYBQ,network,52,0.23076923076923078,0.4807692307692308,-0.25,Samsung Galaxy Note8 N950U 64GB Unlocked GSM LTE Android Phone w/ Dual 12 Megapixel Camera - Midnight Black,Samsung
+B07536MYBQ,performance,33,0.7575757575757576,0.12121212121212122,0.636,Samsung Galaxy Note8 N950U 64GB Unlocked GSM LTE Android Phone w/ Dual 12 Megapixel Camera - Midnight Black,Samsung
+B07536MYBQ,price,32,0.40625,0.4375,-0.031,Samsung Galaxy Note8 N950U 64GB Unlocked GSM LTE Android Phone w/ Dual 12 Megapixel Camera - Midnight Black,Samsung
+B07536MYBQ,screen,83,0.4578313253012048,0.43373493975903615,0.024,Samsung Galaxy Note8 N950U 64GB Unlocked GSM LTE Android Phone w/ Dual 12 Megapixel Camera - Midnight Black,Samsung
+B07536MYBQ,software,23,0.30434782608695654,0.34782608695652173,-0.043,Samsung Galaxy Note8 N950U 64GB Unlocked GSM LTE Android Phone w/ Dual 12 Megapixel Camera - Midnight Black,Samsung
+B07536MYBQ,sound,19,0.21052631578947367,0.47368421052631576,-0.263,Samsung Galaxy Note8 N950U 64GB Unlocked GSM LTE Android Phone w/ Dual 12 Megapixel Camera - Midnight Black,Samsung
+B07536MYBQ,storage,16,0.125,0.25,-0.125,Samsung Galaxy Note8 N950U 64GB Unlocked GSM LTE Android Phone w/ Dual 12 Megapixel Camera - Midnight Black,Samsung
+B07536MYBQ,usability,18,0.5555555555555556,0.3333333333333333,0.222,Samsung Galaxy Note8 N950U 64GB Unlocked GSM LTE Android Phone w/ Dual 12 Megapixel Camera - Midnight Black,Samsung
+B075FL4H89,battery,39,0.7435897435897436,0.15384615384615385,0.59,Nokia 3310 3G - Unlocked Single SIM Feature Phone (AT&T/T-Mobile/MetroPCS/Cricket/Mint) - 2.4 Inch Screen - Charcoal,Nokia
+B075FL4H89,camera,13,0.15384615384615385,0.46153846153846156,-0.308,Nokia 3310 3G - Unlocked Single SIM Feature Phone (AT&T/T-Mobile/MetroPCS/Cricket/Mint) - 2.4 Inch Screen - Charcoal,Nokia
+B075FL4H89,customer_service,18,0.0,0.8888888888888888,-0.889,Nokia 3310 3G - Unlocked Single SIM Feature Phone (AT&T/T-Mobile/MetroPCS/Cricket/Mint) - 2.4 Inch Screen - Charcoal,Nokia
+B075FL4H89,design,18,0.5,0.2777777777777778,0.222,Nokia 3310 3G - Unlocked Single SIM Feature Phone (AT&T/T-Mobile/MetroPCS/Cricket/Mint) - 2.4 Inch Screen - Charcoal,Nokia
+B075FL4H89,network,74,0.0945945945945946,0.5135135135135135,-0.419,Nokia 3310 3G - Unlocked Single SIM Feature Phone (AT&T/T-Mobile/MetroPCS/Cricket/Mint) - 2.4 Inch Screen - Charcoal,Nokia
+B075FL4H89,price,12,0.5,0.5,0.0,Nokia 3310 3G - Unlocked Single SIM Feature Phone (AT&T/T-Mobile/MetroPCS/Cricket/Mint) - 2.4 Inch Screen - Charcoal,Nokia
+B075FL4H89,screen,13,0.0,0.8461538461538461,-0.846,Nokia 3310 3G - Unlocked Single SIM Feature Phone (AT&T/T-Mobile/MetroPCS/Cricket/Mint) - 2.4 Inch Screen - Charcoal,Nokia
+B075FL4H89,software,13,0.38461538461538464,0.5384615384615384,-0.154,Nokia 3310 3G - Unlocked Single SIM Feature Phone (AT&T/T-Mobile/MetroPCS/Cricket/Mint) - 2.4 Inch Screen - Charcoal,Nokia
+B075FL4H89,sound,14,0.2857142857142857,0.5,-0.214,Nokia 3310 3G - Unlocked Single SIM Feature Phone (AT&T/T-Mobile/MetroPCS/Cricket/Mint) - 2.4 Inch Screen - Charcoal,Nokia
+B075FL4H89,usability,12,0.3333333333333333,0.5,-0.167,Nokia 3310 3G - Unlocked Single SIM Feature Phone (AT&T/T-Mobile/MetroPCS/Cricket/Mint) - 2.4 Inch Screen - Charcoal,Nokia
+B075FLG6MV,battery,26,0.6923076923076923,0.19230769230769232,0.5,"Nokia 2 - Android - 8GB - Dual SIM Unlocked Smartphone (AT&T/T-Mobile/MetroPCS/Cricket/H2O) - 5"" Screen - Black - U.S. Warranty",Nokia
+B075FLG6MV,camera,33,0.18181818181818182,0.5151515151515151,-0.333,"Nokia 2 - Android - 8GB - Dual SIM Unlocked Smartphone (AT&T/T-Mobile/MetroPCS/Cricket/H2O) - 5"" Screen - Black - U.S. Warranty",Nokia
+B075FLG6MV,design,15,0.6666666666666666,0.2,0.467,"Nokia 2 - Android - 8GB - Dual SIM Unlocked Smartphone (AT&T/T-Mobile/MetroPCS/Cricket/H2O) - 5"" Screen - Black - U.S. Warranty",Nokia
+B075FLG6MV,network,13,0.23076923076923078,0.46153846153846156,-0.231,"Nokia 2 - Android - 8GB - Dual SIM Unlocked Smartphone (AT&T/T-Mobile/MetroPCS/Cricket/H2O) - 5"" Screen - Black - U.S. Warranty",Nokia
+B075FLG6MV,performance,29,0.27586206896551724,0.6551724137931034,-0.379,"Nokia 2 - Android - 8GB - Dual SIM Unlocked Smartphone (AT&T/T-Mobile/MetroPCS/Cricket/H2O) - 5"" Screen - Black - U.S. Warranty",Nokia
+B075FLG6MV,price,32,0.6875,0.21875,0.469,"Nokia 2 - Android - 8GB - Dual SIM Unlocked Smartphone (AT&T/T-Mobile/MetroPCS/Cricket/H2O) - 5"" Screen - Black - U.S. Warranty",Nokia
+B075FLG6MV,screen,16,0.3125,0.625,-0.312,"Nokia 2 - Android - 8GB - Dual SIM Unlocked Smartphone (AT&T/T-Mobile/MetroPCS/Cricket/H2O) - 5"" Screen - Black - U.S. Warranty",Nokia
+B075FLG6MV,software,11,0.2727272727272727,0.6363636363636364,-0.364,"Nokia 2 - Android - 8GB - Dual SIM Unlocked Smartphone (AT&T/T-Mobile/MetroPCS/Cricket/H2O) - 5"" Screen - Black - U.S. Warranty",Nokia
+B075FLG6MV,storage,15,0.13333333333333333,0.6666666666666666,-0.533,"Nokia 2 - Android - 8GB - Dual SIM Unlocked Smartphone (AT&T/T-Mobile/MetroPCS/Cricket/H2O) - 5"" Screen - Black - U.S. Warranty",Nokia
+B0766HPGYP,battery,28,0.42857142857142855,0.21428571428571427,0.214,Google Pixel 2 128GB Unlocked GSM/CDMA 4G LTE Octa-Core Phone w/ 12.2MP Camera - Just Black,Google
+B0766HPGYP,camera,46,0.34782608695652173,0.32608695652173914,0.022,Google Pixel 2 128GB Unlocked GSM/CDMA 4G LTE Octa-Core Phone w/ 12.2MP Camera - Just Black,Google
+B0766HPGYP,customer_service,30,0.2,0.7,-0.5,Google Pixel 2 128GB Unlocked GSM/CDMA 4G LTE Octa-Core Phone w/ 12.2MP Camera - Just Black,Google
+B0766HPGYP,design,12,0.5833333333333334,0.16666666666666666,0.417,Google Pixel 2 128GB Unlocked GSM/CDMA 4G LTE Octa-Core Phone w/ 12.2MP Camera - Just Black,Google
+B0766HPGYP,network,10,0.1,0.6,-0.5,Google Pixel 2 128GB Unlocked GSM/CDMA 4G LTE Octa-Core Phone w/ 12.2MP Camera - Just Black,Google
+B0766HPGYP,screen,21,0.19047619047619047,0.38095238095238093,-0.19,Google Pixel 2 128GB Unlocked GSM/CDMA 4G LTE Octa-Core Phone w/ 12.2MP Camera - Just Black,Google
+B0766HPGYP,software,12,0.3333333333333333,0.3333333333333333,0.0,Google Pixel 2 128GB Unlocked GSM/CDMA 4G LTE Octa-Core Phone w/ 12.2MP Camera - Just Black,Google
+B0766HPGYP,sound,19,0.3684210526315789,0.3157894736842105,0.053,Google Pixel 2 128GB Unlocked GSM/CDMA 4G LTE Octa-Core Phone w/ 12.2MP Camera - Just Black,Google
+B0766NJPBN,battery,23,0.30434782608695654,0.2608695652173913,0.043,"Google Pixel 2 GSM/CDMA Google Unlocked (Clearly White, 64GB, US warranty)",Google
+B0766NJPBN,camera,22,0.36363636363636365,0.2727272727272727,0.091,"Google Pixel 2 GSM/CDMA Google Unlocked (Clearly White, 64GB, US warranty)",Google
+B0766NJPBN,customer_service,18,0.05555555555555555,0.6666666666666666,-0.611,"Google Pixel 2 GSM/CDMA Google Unlocked (Clearly White, 64GB, US warranty)",Google
+B0766NJPBN,network,12,0.16666666666666666,0.5833333333333334,-0.417,"Google Pixel 2 GSM/CDMA Google Unlocked (Clearly White, 64GB, US warranty)",Google
+B0766NJPBN,screen,16,0.125,0.5625,-0.438,"Google Pixel 2 GSM/CDMA Google Unlocked (Clearly White, 64GB, US warranty)",Google
+B0766NJPBN,sound,12,0.25,0.4166666666666667,-0.167,"Google Pixel 2 GSM/CDMA Google Unlocked (Clearly White, 64GB, US warranty)",Google
+B0766TPHSH,battery,18,0.7777777777777778,0.1111111111111111,0.667,Google Pixel 2 XL 64GB Unlocked GSM/CDMA 4G LTE Octa-Core Phone w/ 12.2MP Camera - Just Black,Google
+B0766TPHSH,camera,17,0.7058823529411765,0.17647058823529413,0.529,Google Pixel 2 XL 64GB Unlocked GSM/CDMA 4G LTE Octa-Core Phone w/ 12.2MP Camera - Just Black,Google
+B0766TPHSH,design,10,0.6,0.3,0.3,Google Pixel 2 XL 64GB Unlocked GSM/CDMA 4G LTE Octa-Core Phone w/ 12.2MP Camera - Just Black,Google
+B0766TPHSH,screen,28,0.21428571428571427,0.7142857142857143,-0.5,Google Pixel 2 XL 64GB Unlocked GSM/CDMA 4G LTE Octa-Core Phone w/ 12.2MP Camera - Just Black,Google
+B0766TPHSH,sound,10,0.3,0.3,0.0,Google Pixel 2 XL 64GB Unlocked GSM/CDMA 4G LTE Octa-Core Phone w/ 12.2MP Camera - Just Black,Google
+B076XLLCQC,battery,68,0.2647058823529412,0.4411764705882353,-0.176,Samsung Galaxy Note 8 N950 Factory Unlocked Phone 64GB Midnight Black (Renewed),Samsung
+B076XLLCQC,camera,15,0.4,0.13333333333333333,0.267,Samsung Galaxy Note 8 N950 Factory Unlocked Phone 64GB Midnight Black (Renewed),Samsung
+B076XLLCQC,customer_service,35,0.17142857142857143,0.45714285714285713,-0.286,Samsung Galaxy Note 8 N950 Factory Unlocked Phone 64GB Midnight Black (Renewed),Samsung
+B076XLLCQC,delivery,36,0.5555555555555556,0.3888888888888889,0.167,Samsung Galaxy Note 8 N950 Factory Unlocked Phone 64GB Midnight Black (Renewed),Samsung
+B076XLLCQC,design,23,0.9130434782608695,0.043478260869565216,0.87,Samsung Galaxy Note 8 N950 Factory Unlocked Phone 64GB Midnight Black (Renewed),Samsung
+B076XLLCQC,network,60,0.25,0.4166666666666667,-0.167,Samsung Galaxy Note 8 N950 Factory Unlocked Phone 64GB Midnight Black (Renewed),Samsung
+B076XLLCQC,price,27,0.7037037037037037,0.2962962962962963,0.407,Samsung Galaxy Note 8 N950 Factory Unlocked Phone 64GB Midnight Black (Renewed),Samsung
+B076XLLCQC,screen,30,0.26666666666666666,0.5,-0.233,Samsung Galaxy Note 8 N950 Factory Unlocked Phone 64GB Midnight Black (Renewed),Samsung
+B076XLLCQC,software,15,0.2,0.4,-0.2,Samsung Galaxy Note 8 N950 Factory Unlocked Phone 64GB Midnight Black (Renewed),Samsung
+B0775451TT,battery,24,0.5,0.2916666666666667,0.208,"Apple iPhone X, 256GB, Silver - For AT&T / T-Mobile (Renewed)",Apple
+B0775451TT,camera,13,0.15384615384615385,0.6153846153846154,-0.462,"Apple iPhone X, 256GB, Silver - For AT&T / T-Mobile (Renewed)",Apple
+B0775451TT,customer_service,14,0.14285714285714285,0.5,-0.357,"Apple iPhone X, 256GB, Silver - For AT&T / T-Mobile (Renewed)",Apple
+B0775451TT,delivery,12,0.5833333333333334,0.3333333333333333,0.25,"Apple iPhone X, 256GB, Silver - For AT&T / T-Mobile (Renewed)",Apple
+B0775451TT,network,10,0.1,0.4,-0.3,"Apple iPhone X, 256GB, Silver - For AT&T / T-Mobile (Renewed)",Apple
+B0775451TT,price,11,0.5454545454545454,0.18181818181818182,0.364,"Apple iPhone X, 256GB, Silver - For AT&T / T-Mobile (Renewed)",Apple
+B0775451TT,screen,14,0.21428571428571427,0.5,-0.286,"Apple iPhone X, 256GB, Silver - For AT&T / T-Mobile (Renewed)",Apple
+B077578W38,battery,33,0.45454545454545453,0.2727272727272727,0.182,"Apple iPhone X, Unlocked 5.8"", 64GB - Space Gray (Renewed)",Apple
+B077578W38,customer_service,22,0.13636363636363635,0.45454545454545453,-0.318,"Apple iPhone X, Unlocked 5.8"", 64GB - Space Gray (Renewed)",Apple
+B077578W38,delivery,22,0.36363636363636365,0.5454545454545454,-0.182,"Apple iPhone X, Unlocked 5.8"", 64GB - Space Gray (Renewed)",Apple
+B077578W38,design,14,0.9285714285714286,0.07142857142857142,0.857,"Apple iPhone X, Unlocked 5.8"", 64GB - Space Gray (Renewed)",Apple
+B077578W38,network,15,0.4,0.26666666666666666,0.133,"Apple iPhone X, Unlocked 5.8"", 64GB - Space Gray (Renewed)",Apple
+B077578W38,screen,20,0.2,0.6,-0.4,"Apple iPhone X, Unlocked 5.8"", 64GB - Space Gray (Renewed)",Apple
+B077YTCMH9,battery,50,0.18,0.66,-0.48,"Samsung Galaxy S7 EDGE G935V 32GB, Verizon/GSM Unlocked, (Renewed) (Black)",Samsung
+B077YTCMH9,customer_service,32,0.25,0.53125,-0.281,"Samsung Galaxy S7 EDGE G935V 32GB, Verizon/GSM Unlocked, (Renewed) (Black)",Samsung
+B077YTCMH9,delivery,20,0.55,0.25,0.3,"Samsung Galaxy S7 EDGE G935V 32GB, Verizon/GSM Unlocked, (Renewed) (Black)",Samsung
+B077YTCMH9,design,20,0.85,0.15,0.7,"Samsung Galaxy S7 EDGE G935V 32GB, Verizon/GSM Unlocked, (Renewed) (Black)",Samsung
+B077YTCMH9,network,56,0.19642857142857142,0.5178571428571429,-0.321,"Samsung Galaxy S7 EDGE G935V 32GB, Verizon/GSM Unlocked, (Renewed) (Black)",Samsung
+B077YTCMH9,price,19,0.8947368421052632,0.05263157894736842,0.842,"Samsung Galaxy S7 EDGE G935V 32GB, Verizon/GSM Unlocked, (Renewed) (Black)",Samsung
+B077YTCMH9,screen,26,0.19230769230769232,0.7692307692307693,-0.577,"Samsung Galaxy S7 EDGE G935V 32GB, Verizon/GSM Unlocked, (Renewed) (Black)",Samsung
+B077YTCMH9,software,12,0.16666666666666666,0.75,-0.583,"Samsung Galaxy S7 EDGE G935V 32GB, Verizon/GSM Unlocked, (Renewed) (Black)",Samsung
+B077ZKKDWK,battery,34,0.5588235294117647,0.2647058823529412,0.294,"Sony Xperia XA2 Ultra Factory Unlocked Phone - 6"" Screen - 32GB - Silver (U.S. Warranty)",Sony
+B077ZKKDWK,camera,53,0.37735849056603776,0.4339622641509434,-0.057,"Sony Xperia XA2 Ultra Factory Unlocked Phone - 6"" Screen - 32GB - Silver (U.S. Warranty)",Sony
+B077ZKKDWK,customer_service,19,0.21052631578947367,0.5263157894736842,-0.316,"Sony Xperia XA2 Ultra Factory Unlocked Phone - 6"" Screen - 32GB - Silver (U.S. Warranty)",Sony
+B077ZKKDWK,design,21,0.5714285714285714,0.2857142857142857,0.286,"Sony Xperia XA2 Ultra Factory Unlocked Phone - 6"" Screen - 32GB - Silver (U.S. Warranty)",Sony
+B077ZKKDWK,network,31,0.3225806451612903,0.41935483870967744,-0.097,"Sony Xperia XA2 Ultra Factory Unlocked Phone - 6"" Screen - 32GB - Silver (U.S. Warranty)",Sony
+B077ZKKDWK,performance,14,0.5,0.42857142857142855,0.071,"Sony Xperia XA2 Ultra Factory Unlocked Phone - 6"" Screen - 32GB - Silver (U.S. Warranty)",Sony
+B077ZKKDWK,price,23,0.782608695652174,0.08695652173913043,0.696,"Sony Xperia XA2 Ultra Factory Unlocked Phone - 6"" Screen - 32GB - Silver (U.S. Warranty)",Sony
+B077ZKKDWK,screen,62,0.43548387096774194,0.41935483870967744,0.016,"Sony Xperia XA2 Ultra Factory Unlocked Phone - 6"" Screen - 32GB - Silver (U.S. Warranty)",Sony
+B077ZKKDWK,software,19,0.21052631578947367,0.42105263157894735,-0.211,"Sony Xperia XA2 Ultra Factory Unlocked Phone - 6"" Screen - 32GB - Silver (U.S. Warranty)",Sony
+B077ZKKDWK,sound,25,0.44,0.52,-0.08,"Sony Xperia XA2 Ultra Factory Unlocked Phone - 6"" Screen - 32GB - Silver (U.S. Warranty)",Sony
+B077ZKKDWK,usability,11,0.45454545454545453,0.36363636363636365,0.091,"Sony Xperia XA2 Ultra Factory Unlocked Phone - 6"" Screen - 32GB - Silver (U.S. Warranty)",Sony
+B077ZMWX1W,battery,26,0.23076923076923078,0.4230769230769231,-0.192,"Sony Xperia L2, Unlocked, 32GB - Black (U.S. Warranty)",Sony
+B077ZMWX1W,camera,40,0.3,0.2,0.1,"Sony Xperia L2, Unlocked, 32GB - Black (U.S. Warranty)",Sony
+B077ZMWX1W,design,13,0.6153846153846154,0.38461538461538464,0.231,"Sony Xperia L2, Unlocked, 32GB - Black (U.S. Warranty)",Sony
+B077ZMWX1W,network,20,0.15,0.05,0.1,"Sony Xperia L2, Unlocked, 32GB - Black (U.S. Warranty)",Sony
+B077ZMWX1W,price,13,0.7692307692307693,0.07692307692307693,0.692,"Sony Xperia L2, Unlocked, 32GB - Black (U.S. Warranty)",Sony
+B077ZMWX1W,screen,40,0.4,0.425,-0.025,"Sony Xperia L2, Unlocked, 32GB - Black (U.S. Warranty)",Sony
+B077ZMWX1W,sound,18,0.6666666666666666,0.2777777777777778,0.389,"Sony Xperia L2, Unlocked, 32GB - Black (U.S. Warranty)",Sony
+B077ZMWX1W,usability,18,0.3333333333333333,0.3888888888888889,-0.056,"Sony Xperia L2, Unlocked, 32GB - Black (U.S. Warranty)",Sony
+B0787V183F,battery,44,0.25,0.5227272727272727,-0.273,"Google Pixel 2 64 GB, Black Factory Unlocked (Renewed)",Google
+B0787V183F,camera,39,0.5128205128205128,0.28205128205128205,0.231,"Google Pixel 2 64 GB, Black Factory Unlocked (Renewed)",Google
+B0787V183F,customer_service,29,0.13793103448275862,0.4482758620689655,-0.31,"Google Pixel 2 64 GB, Black Factory Unlocked (Renewed)",Google
+B0787V183F,delivery,13,0.5384615384615384,0.23076923076923078,0.308,"Google Pixel 2 64 GB, Black Factory Unlocked (Renewed)",Google
+B0787V183F,design,16,0.8125,0.1875,0.625,"Google Pixel 2 64 GB, Black Factory Unlocked (Renewed)",Google
+B0787V183F,network,12,0.08333333333333333,0.5,-0.417,"Google Pixel 2 64 GB, Black Factory Unlocked (Renewed)",Google
+B0787V183F,price,12,0.3333333333333333,0.6666666666666666,-0.333,"Google Pixel 2 64 GB, Black Factory Unlocked (Renewed)",Google
+B0787V183F,screen,12,0.16666666666666666,0.75,-0.583,"Google Pixel 2 64 GB, Black Factory Unlocked (Renewed)",Google
+B0787V183F,sound,10,0.2,0.6,-0.4,"Google Pixel 2 64 GB, Black Factory Unlocked (Renewed)",Google
+B079142R7Y,battery,21,0.47619047619047616,0.3333333333333333,0.143,ASUS ZenFone Max Plus ZB570TL-MT67-3G32G-BL - 5.7” 1920x1080-3GB RAM - 32GB storage - LTE Unlocked Dual SIM Cell Phone - US Warranty - Silver,ASUS
+B079142R7Y,camera,18,0.3888888888888889,0.3888888888888889,0.0,ASUS ZenFone Max Plus ZB570TL-MT67-3G32G-BL - 5.7” 1920x1080-3GB RAM - 32GB storage - LTE Unlocked Dual SIM Cell Phone - US Warranty - Silver,ASUS
+B079142R7Y,network,13,0.38461538461538464,0.38461538461538464,0.0,ASUS ZenFone Max Plus ZB570TL-MT67-3G32G-BL - 5.7” 1920x1080-3GB RAM - 32GB storage - LTE Unlocked Dual SIM Cell Phone - US Warranty - Silver,ASUS
+B079142R7Y,price,10,0.8,0.1,0.7,ASUS ZenFone Max Plus ZB570TL-MT67-3G32G-BL - 5.7” 1920x1080-3GB RAM - 32GB storage - LTE Unlocked Dual SIM Cell Phone - US Warranty - Silver,ASUS
+B079142R7Y,software,12,0.25,0.25,0.0,ASUS ZenFone Max Plus ZB570TL-MT67-3G32G-BL - 5.7” 1920x1080-3GB RAM - 32GB storage - LTE Unlocked Dual SIM Cell Phone - US Warranty - Silver,ASUS
+B079142R7Y,sound,12,0.16666666666666666,0.5833333333333334,-0.417,ASUS ZenFone Max Plus ZB570TL-MT67-3G32G-BL - 5.7” 1920x1080-3GB RAM - 32GB storage - LTE Unlocked Dual SIM Cell Phone - US Warranty - Silver,ASUS
+B0799ZMY6D,battery,35,0.37142857142857144,0.3142857142857143,0.057,"Google Pixel 2 XL 128 GB, Black (Renewed)",Google
+B0799ZMY6D,camera,13,0.15384615384615385,0.38461538461538464,-0.231,"Google Pixel 2 XL 128 GB, Black (Renewed)",Google
+B0799ZMY6D,customer_service,13,0.15384615384615385,0.5384615384615384,-0.385,"Google Pixel 2 XL 128 GB, Black (Renewed)",Google
+B0799ZMY6D,price,10,0.8,0.2,0.6,"Google Pixel 2 XL 128 GB, Black (Renewed)",Google
+B0799ZMY6D,screen,22,0.4090909090909091,0.5909090909090909,-0.182,"Google Pixel 2 XL 128 GB, Black (Renewed)",Google
+B079C1K282,battery,40,0.475,0.275,0.2,"Google Pixel 2 XL 64 GB, Black (Renewed)",Google
+B079C1K282,camera,15,0.8,0.13333333333333333,0.667,"Google Pixel 2 XL 64 GB, Black (Renewed)",Google
+B079C1K282,customer_service,20,0.35,0.35,0.0,"Google Pixel 2 XL 64 GB, Black (Renewed)",Google
+B079C1K282,delivery,10,0.4,0.5,-0.1,"Google Pixel 2 XL 64 GB, Black (Renewed)",Google
+B079C1K282,network,15,0.06666666666666667,0.4666666666666667,-0.4,"Google Pixel 2 XL 64 GB, Black (Renewed)",Google
+B079C1K282,price,14,0.6428571428571429,0.2857142857142857,0.357,"Google Pixel 2 XL 64 GB, Black (Renewed)",Google
+B079C1K282,screen,19,0.21052631578947367,0.5789473684210527,-0.368,"Google Pixel 2 XL 64 GB, Black (Renewed)",Google
+B079C1K282,sound,18,0.2222222222222222,0.7222222222222222,-0.5,"Google Pixel 2 XL 64 GB, Black (Renewed)",Google
+B07B82VTX5,battery,17,0.6470588235294118,0.17647058823529413,0.471,"Sony Xperia XZ2 Unlocked Smarphone - Dual SIM - 5.7"" Screen - 64GB - Liquid Silver (US Warranty)",Sony
+B07B82VTX5,camera,23,0.30434782608695654,0.17391304347826086,0.13,"Sony Xperia XZ2 Unlocked Smarphone - Dual SIM - 5.7"" Screen - 64GB - Liquid Silver (US Warranty)",Sony
+B07B82VTX5,customer_service,14,0.07142857142857142,0.6428571428571429,-0.571,"Sony Xperia XZ2 Unlocked Smarphone - Dual SIM - 5.7"" Screen - 64GB - Liquid Silver (US Warranty)",Sony
+B07B82VTX5,design,15,0.8,0.06666666666666667,0.733,"Sony Xperia XZ2 Unlocked Smarphone - Dual SIM - 5.7"" Screen - 64GB - Liquid Silver (US Warranty)",Sony
+B07B82VTX5,network,17,0.058823529411764705,0.6470588235294118,-0.588,"Sony Xperia XZ2 Unlocked Smarphone - Dual SIM - 5.7"" Screen - 64GB - Liquid Silver (US Warranty)",Sony
+B07B82VTX5,screen,26,0.4230769230769231,0.15384615384615385,0.269,"Sony Xperia XZ2 Unlocked Smarphone - Dual SIM - 5.7"" Screen - 64GB - Liquid Silver (US Warranty)",Sony
+B07B82VTX5,software,13,0.15384615384615385,0.46153846153846156,-0.308,"Sony Xperia XZ2 Unlocked Smarphone - Dual SIM - 5.7"" Screen - 64GB - Liquid Silver (US Warranty)",Sony
+B07B82VTX5,sound,15,0.6,0.26666666666666666,0.333,"Sony Xperia XZ2 Unlocked Smarphone - Dual SIM - 5.7"" Screen - 64GB - Liquid Silver (US Warranty)",Sony
+B07B82VTX5,usability,12,0.75,0.16666666666666666,0.583,"Sony Xperia XZ2 Unlocked Smarphone - Dual SIM - 5.7"" Screen - 64GB - Liquid Silver (US Warranty)",Sony
+B07BFCZYRM,battery,20,0.4,0.45,-0.05,Samsung Galaxy S9 Plus Verizon + GSM Unlocked 64GB Midnight Black (Renewed),Samsung
+B07BFCZYRM,camera,12,0.6666666666666666,0.25,0.417,Samsung Galaxy S9 Plus Verizon + GSM Unlocked 64GB Midnight Black (Renewed),Samsung
+B07BFCZYRM,customer_service,13,0.46153846153846156,0.23076923076923078,0.231,Samsung Galaxy S9 Plus Verizon + GSM Unlocked 64GB Midnight Black (Renewed),Samsung
+B07BFCZYRM,delivery,13,0.5384615384615384,0.38461538461538464,0.154,Samsung Galaxy S9 Plus Verizon + GSM Unlocked 64GB Midnight Black (Renewed),Samsung
+B07BFCZYRM,network,38,0.3157894736842105,0.39473684210526316,-0.079,Samsung Galaxy S9 Plus Verizon + GSM Unlocked 64GB Midnight Black (Renewed),Samsung
+B07BFCZYRM,price,14,0.7142857142857143,0.21428571428571427,0.5,Samsung Galaxy S9 Plus Verizon + GSM Unlocked 64GB Midnight Black (Renewed),Samsung
+B07BFCZYRM,screen,12,0.4166666666666667,0.5833333333333334,-0.167,Samsung Galaxy S9 Plus Verizon + GSM Unlocked 64GB Midnight Black (Renewed),Samsung
+B07C6FCC8G,battery,106,0.6037735849056604,0.20754716981132076,0.396,"Huawei Mate 10 Pro Unlocked Phone, 6"" 6GB/128GB, AI Processor, Dual Leica Camera, Water Resistant IP67, GSM Only - Mocha Brown (US Warranty)",HUAWEI
+B07C6FCC8G,camera,96,0.625,0.14583333333333334,0.479,"Huawei Mate 10 Pro Unlocked Phone, 6"" 6GB/128GB, AI Processor, Dual Leica Camera, Water Resistant IP67, GSM Only - Mocha Brown (US Warranty)",HUAWEI
+B07C6FCC8G,customer_service,37,0.05405405405405406,0.8108108108108109,-0.757,"Huawei Mate 10 Pro Unlocked Phone, 6"" 6GB/128GB, AI Processor, Dual Leica Camera, Water Resistant IP67, GSM Only - Mocha Brown (US Warranty)",HUAWEI
+B07C6FCC8G,design,40,0.675,0.275,0.4,"Huawei Mate 10 Pro Unlocked Phone, 6"" 6GB/128GB, AI Processor, Dual Leica Camera, Water Resistant IP67, GSM Only - Mocha Brown (US Warranty)",HUAWEI
+B07C6FCC8G,network,34,0.4117647058823529,0.38235294117647056,0.029,"Huawei Mate 10 Pro Unlocked Phone, 6"" 6GB/128GB, AI Processor, Dual Leica Camera, Water Resistant IP67, GSM Only - Mocha Brown (US Warranty)",HUAWEI
+B07C6FCC8G,performance,32,0.75,0.125,0.625,"Huawei Mate 10 Pro Unlocked Phone, 6"" 6GB/128GB, AI Processor, Dual Leica Camera, Water Resistant IP67, GSM Only - Mocha Brown (US Warranty)",HUAWEI
+B07C6FCC8G,price,53,0.7358490566037735,0.20754716981132076,0.528,"Huawei Mate 10 Pro Unlocked Phone, 6"" 6GB/128GB, AI Processor, Dual Leica Camera, Water Resistant IP67, GSM Only - Mocha Brown (US Warranty)",HUAWEI
+B07C6FCC8G,screen,60,0.5166666666666667,0.35,0.167,"Huawei Mate 10 Pro Unlocked Phone, 6"" 6GB/128GB, AI Processor, Dual Leica Camera, Water Resistant IP67, GSM Only - Mocha Brown (US Warranty)",HUAWEI
+B07C6FCC8G,software,82,0.17073170731707318,0.4146341463414634,-0.244,"Huawei Mate 10 Pro Unlocked Phone, 6"" 6GB/128GB, AI Processor, Dual Leica Camera, Water Resistant IP67, GSM Only - Mocha Brown (US Warranty)",HUAWEI
+B07C6FCC8G,sound,22,0.45454545454545453,0.5,-0.045,"Huawei Mate 10 Pro Unlocked Phone, 6"" 6GB/128GB, AI Processor, Dual Leica Camera, Water Resistant IP67, GSM Only - Mocha Brown (US Warranty)",HUAWEI
+B07C6FCC8G,storage,13,0.5384615384615384,0.15384615384615385,0.385,"Huawei Mate 10 Pro Unlocked Phone, 6"" 6GB/128GB, AI Processor, Dual Leica Camera, Water Resistant IP67, GSM Only - Mocha Brown (US Warranty)",HUAWEI
+B07C6FCC8G,usability,33,0.6363636363636364,0.18181818181818182,0.455,"Huawei Mate 10 Pro Unlocked Phone, 6"" 6GB/128GB, AI Processor, Dual Leica Camera, Water Resistant IP67, GSM Only - Mocha Brown (US Warranty)",HUAWEI
+B07CHW5KMY,battery,15,0.26666666666666666,0.4,-0.133,"Motorola Moto G6 (32GB, 3GB RAM) Dual SIM 5.7"" 4G LTE (GSM Only) Factory Unlocked Smartphone International Model XT1925-2 (Deep Indigo)",Motorola
+B07CHW5KMY,camera,14,0.5,0.35714285714285715,0.143,"Motorola Moto G6 (32GB, 3GB RAM) Dual SIM 5.7"" 4G LTE (GSM Only) Factory Unlocked Smartphone International Model XT1925-2 (Deep Indigo)",Motorola
+B07CHW5KMY,customer_service,16,0.1875,0.5,-0.312,"Motorola Moto G6 (32GB, 3GB RAM) Dual SIM 5.7"" 4G LTE (GSM Only) Factory Unlocked Smartphone International Model XT1925-2 (Deep Indigo)",Motorola
+B07CHW5KMY,network,18,0.1111111111111111,0.2777777777777778,-0.167,"Motorola Moto G6 (32GB, 3GB RAM) Dual SIM 5.7"" 4G LTE (GSM Only) Factory Unlocked Smartphone International Model XT1925-2 (Deep Indigo)",Motorola
+B07CHW5KMY,price,10,1.0,0.0,1.0,"Motorola Moto G6 (32GB, 3GB RAM) Dual SIM 5.7"" 4G LTE (GSM Only) Factory Unlocked Smartphone International Model XT1925-2 (Deep Indigo)",Motorola
+B07CHW5KMY,software,17,0.11764705882352941,0.35294117647058826,-0.235,"Motorola Moto G6 (32GB, 3GB RAM) Dual SIM 5.7"" 4G LTE (GSM Only) Factory Unlocked Smartphone International Model XT1925-2 (Deep Indigo)",Motorola
+B07CHWMYHP,battery,14,0.6428571428571429,0.21428571428571427,0.429,"Motorola Moto G6 Plus - 64GB - 5.9"" FHD+, Dual SIM 4G LTE GSM Factory Unlocked Smartphone International Model XT1926-7 (Deep Indigo)",Motorola
+B07CHWMYHP,camera,41,0.4634146341463415,0.36585365853658536,0.098,"Motorola Moto G6 Plus - 64GB - 5.9"" FHD+, Dual SIM 4G LTE GSM Factory Unlocked Smartphone International Model XT1926-7 (Deep Indigo)",Motorola
+B07CHWMYHP,customer_service,14,0.21428571428571427,0.5,-0.286,"Motorola Moto G6 Plus - 64GB - 5.9"" FHD+, Dual SIM 4G LTE GSM Factory Unlocked Smartphone International Model XT1926-7 (Deep Indigo)",Motorola
+B07CHWMYHP,design,18,0.7777777777777778,0.2222222222222222,0.556,"Motorola Moto G6 Plus - 64GB - 5.9"" FHD+, Dual SIM 4G LTE GSM Factory Unlocked Smartphone International Model XT1926-7 (Deep Indigo)",Motorola
+B07CHWMYHP,network,19,0.21052631578947367,0.47368421052631576,-0.263,"Motorola Moto G6 Plus - 64GB - 5.9"" FHD+, Dual SIM 4G LTE GSM Factory Unlocked Smartphone International Model XT1926-7 (Deep Indigo)",Motorola
+B07CHWMYHP,performance,11,0.5454545454545454,0.2727272727272727,0.273,"Motorola Moto G6 Plus - 64GB - 5.9"" FHD+, Dual SIM 4G LTE GSM Factory Unlocked Smartphone International Model XT1926-7 (Deep Indigo)",Motorola
+B07CHWMYHP,price,17,1.0,0.0,1.0,"Motorola Moto G6 Plus - 64GB - 5.9"" FHD+, Dual SIM 4G LTE GSM Factory Unlocked Smartphone International Model XT1926-7 (Deep Indigo)",Motorola
+B07CHWMYHP,screen,29,0.3793103448275862,0.3793103448275862,0.0,"Motorola Moto G6 Plus - 64GB - 5.9"" FHD+, Dual SIM 4G LTE GSM Factory Unlocked Smartphone International Model XT1926-7 (Deep Indigo)",Motorola
+B07CHWMYHP,software,15,0.13333333333333333,0.6666666666666666,-0.533,"Motorola Moto G6 Plus - 64GB - 5.9"" FHD+, Dual SIM 4G LTE GSM Factory Unlocked Smartphone International Model XT1926-7 (Deep Indigo)",Motorola
+B07CHWMYHP,sound,37,0.35135135135135137,0.5135135135135135,-0.162,"Motorola Moto G6 Plus - 64GB - 5.9"" FHD+, Dual SIM 4G LTE GSM Factory Unlocked Smartphone International Model XT1926-7 (Deep Indigo)",Motorola
+B07CLT3BDN,battery,16,0.5625,0.125,0.438,ASUS ZenFone 5Z (ZS620KL-S845-6G64G) - 6.2” FHD+ 2160x1080 display - 6GB RAM - 64GB storage - LTE Unlocked Dual SIM Cell Phone - US Warranty - Midnight Blue,ASUS
+B07CLT3BDN,camera,13,0.6923076923076923,0.15384615384615385,0.538,ASUS ZenFone 5Z (ZS620KL-S845-6G64G) - 6.2” FHD+ 2160x1080 display - 6GB RAM - 64GB storage - LTE Unlocked Dual SIM Cell Phone - US Warranty - Midnight Blue,ASUS
+B07CLT3BDN,design,10,1.0,0.0,1.0,ASUS ZenFone 5Z (ZS620KL-S845-6G64G) - 6.2” FHD+ 2160x1080 display - 6GB RAM - 64GB storage - LTE Unlocked Dual SIM Cell Phone - US Warranty - Midnight Blue,ASUS
+B07CLT3BDN,network,19,0.2631578947368421,0.5263157894736842,-0.263,ASUS ZenFone 5Z (ZS620KL-S845-6G64G) - 6.2” FHD+ 2160x1080 display - 6GB RAM - 64GB storage - LTE Unlocked Dual SIM Cell Phone - US Warranty - Midnight Blue,ASUS
+B07CLT3BDN,price,10,0.6,0.4,0.2,ASUS ZenFone 5Z (ZS620KL-S845-6G64G) - 6.2” FHD+ 2160x1080 display - 6GB RAM - 64GB storage - LTE Unlocked Dual SIM Cell Phone - US Warranty - Midnight Blue,ASUS
+B07CLT3BDN,screen,18,0.6666666666666666,0.05555555555555555,0.611,ASUS ZenFone 5Z (ZS620KL-S845-6G64G) - 6.2” FHD+ 2160x1080 display - 6GB RAM - 64GB storage - LTE Unlocked Dual SIM Cell Phone - US Warranty - Midnight Blue,ASUS
+B07CMBB6PH,battery,28,0.5357142857142857,0.2857142857142857,0.25,"HUAWEI P20 Lite (32GB + 4GB RAM) 5.84"" FHD+ Display, 4G LTE Dual SIM GSM Factory Unlocked Smartphone ANE-LX3 - International Model - No Warranty (Sakura Pink)",HUAWEI
+B07CMBB6PH,camera,41,0.7317073170731707,0.1951219512195122,0.537,"HUAWEI P20 Lite (32GB + 4GB RAM) 5.84"" FHD+ Display, 4G LTE Dual SIM GSM Factory Unlocked Smartphone ANE-LX3 - International Model - No Warranty (Sakura Pink)",HUAWEI
+B07CMBB6PH,customer_service,11,0.2727272727272727,0.45454545454545453,-0.182,"HUAWEI P20 Lite (32GB + 4GB RAM) 5.84"" FHD+ Display, 4G LTE Dual SIM GSM Factory Unlocked Smartphone ANE-LX3 - International Model - No Warranty (Sakura Pink)",HUAWEI
+B07CMBB6PH,design,24,0.875,0.125,0.75,"HUAWEI P20 Lite (32GB + 4GB RAM) 5.84"" FHD+ Display, 4G LTE Dual SIM GSM Factory Unlocked Smartphone ANE-LX3 - International Model - No Warranty (Sakura Pink)",HUAWEI
+B07CMBB6PH,network,32,0.25,0.5,-0.25,"HUAWEI P20 Lite (32GB + 4GB RAM) 5.84"" FHD+ Display, 4G LTE Dual SIM GSM Factory Unlocked Smartphone ANE-LX3 - International Model - No Warranty (Sakura Pink)",HUAWEI
+B07CMBB6PH,performance,18,0.5555555555555556,0.4444444444444444,0.111,"HUAWEI P20 Lite (32GB + 4GB RAM) 5.84"" FHD+ Display, 4G LTE Dual SIM GSM Factory Unlocked Smartphone ANE-LX3 - International Model - No Warranty (Sakura Pink)",HUAWEI
+B07CMBB6PH,price,35,0.8,0.11428571428571428,0.686,"HUAWEI P20 Lite (32GB + 4GB RAM) 5.84"" FHD+ Display, 4G LTE Dual SIM GSM Factory Unlocked Smartphone ANE-LX3 - International Model - No Warranty (Sakura Pink)",HUAWEI
+B07CMBB6PH,screen,18,0.6666666666666666,0.3333333333333333,0.333,"HUAWEI P20 Lite (32GB + 4GB RAM) 5.84"" FHD+ Display, 4G LTE Dual SIM GSM Factory Unlocked Smartphone ANE-LX3 - International Model - No Warranty (Sakura Pink)",HUAWEI
+B07CMBB6PH,software,17,0.29411764705882354,0.29411764705882354,0.0,"HUAWEI P20 Lite (32GB + 4GB RAM) 5.84"" FHD+ Display, 4G LTE Dual SIM GSM Factory Unlocked Smartphone ANE-LX3 - International Model - No Warranty (Sakura Pink)",HUAWEI
+B07CMBB6PH,usability,10,0.6,0.3,0.3,"HUAWEI P20 Lite (32GB + 4GB RAM) 5.84"" FHD+ Display, 4G LTE Dual SIM GSM Factory Unlocked Smartphone ANE-LX3 - International Model - No Warranty (Sakura Pink)",HUAWEI
+B07D6TQP6F,battery,28,0.6071428571428571,0.32142857142857145,0.286,"Apple iPhone X, 256GB, Silver - For AT&T (Renewed)",Apple
+B07D6TQP6F,delivery,17,0.5882352941176471,0.29411764705882354,0.294,"Apple iPhone X, 256GB, Silver - For AT&T (Renewed)",Apple
+B07D6TQP6F,price,12,0.75,0.16666666666666666,0.583,"Apple iPhone X, 256GB, Silver - For AT&T (Renewed)",Apple
+B07D6TQP6F,screen,13,0.15384615384615385,0.6153846153846154,-0.462,"Apple iPhone X, 256GB, Silver - For AT&T (Renewed)",Apple
+B07DF9R73K,battery,22,0.5,0.13636363636363635,0.364,"Sony Xperia XZ2 Premium Unlocked Smartphone - Dual SIM - 5.8"" 4K HDR Screen - 64GB - Chrome Black (US Warranty)",Sony
+B07DF9R73K,camera,44,0.4318181818181818,0.11363636363636363,0.318,"Sony Xperia XZ2 Premium Unlocked Smartphone - Dual SIM - 5.8"" 4K HDR Screen - 64GB - Chrome Black (US Warranty)",Sony
+B07DF9R73K,design,22,0.7727272727272727,0.22727272727272727,0.545,"Sony Xperia XZ2 Premium Unlocked Smartphone - Dual SIM - 5.8"" 4K HDR Screen - 64GB - Chrome Black (US Warranty)",Sony
+B07DF9R73K,network,16,0.1875,0.375,-0.188,"Sony Xperia XZ2 Premium Unlocked Smartphone - Dual SIM - 5.8"" 4K HDR Screen - 64GB - Chrome Black (US Warranty)",Sony
+B07DF9R73K,performance,16,0.9375,0.0,0.938,"Sony Xperia XZ2 Premium Unlocked Smartphone - Dual SIM - 5.8"" 4K HDR Screen - 64GB - Chrome Black (US Warranty)",Sony
+B07DF9R73K,price,13,0.38461538461538464,0.46153846153846156,-0.077,"Sony Xperia XZ2 Premium Unlocked Smartphone - Dual SIM - 5.8"" 4K HDR Screen - 64GB - Chrome Black (US Warranty)",Sony
+B07DF9R73K,screen,34,0.5588235294117647,0.14705882352941177,0.412,"Sony Xperia XZ2 Premium Unlocked Smartphone - Dual SIM - 5.8"" 4K HDR Screen - 64GB - Chrome Black (US Warranty)",Sony
+B07DF9R73K,sound,10,0.4,0.2,0.2,"Sony Xperia XZ2 Premium Unlocked Smartphone - Dual SIM - 5.8"" 4K HDR Screen - 64GB - Chrome Black (US Warranty)",Sony
+B07FM9913M,battery,49,0.42857142857142855,0.3469387755102041,0.082,"Unlocked GOLD Xiaomi Mi A2, 4GB 64GB, Dual SIM standby, Global Version, 5.5 inch Smartphone Android One, Dual Rear 12.0MP Camera Snapdragon 625",Xiaomi
+B07FM9913M,camera,33,0.696969696969697,0.12121212121212122,0.576,"Unlocked GOLD Xiaomi Mi A2, 4GB 64GB, Dual SIM standby, Global Version, 5.5 inch Smartphone Android One, Dual Rear 12.0MP Camera Snapdragon 625",Xiaomi
+B07FM9913M,customer_service,13,0.15384615384615385,0.5384615384615384,-0.385,"Unlocked GOLD Xiaomi Mi A2, 4GB 64GB, Dual SIM standby, Global Version, 5.5 inch Smartphone Android One, Dual Rear 12.0MP Camera Snapdragon 625",Xiaomi
+B07FM9913M,network,23,0.17391304347826086,0.6086956521739131,-0.435,"Unlocked GOLD Xiaomi Mi A2, 4GB 64GB, Dual SIM standby, Global Version, 5.5 inch Smartphone Android One, Dual Rear 12.0MP Camera Snapdragon 625",Xiaomi
+B07FM9913M,performance,19,0.6842105263157895,0.21052631578947367,0.474,"Unlocked GOLD Xiaomi Mi A2, 4GB 64GB, Dual SIM standby, Global Version, 5.5 inch Smartphone Android One, Dual Rear 12.0MP Camera Snapdragon 625",Xiaomi
+B07FM9913M,price,32,0.65625,0.1875,0.469,"Unlocked GOLD Xiaomi Mi A2, 4GB 64GB, Dual SIM standby, Global Version, 5.5 inch Smartphone Android One, Dual Rear 12.0MP Camera Snapdragon 625",Xiaomi
+B07FM9913M,screen,18,0.2777777777777778,0.3888888888888889,-0.111,"Unlocked GOLD Xiaomi Mi A2, 4GB 64GB, Dual SIM standby, Global Version, 5.5 inch Smartphone Android One, Dual Rear 12.0MP Camera Snapdragon 625",Xiaomi
+B07FM9913M,software,19,0.5263157894736842,0.3157894736842105,0.211,"Unlocked GOLD Xiaomi Mi A2, 4GB 64GB, Dual SIM standby, Global Version, 5.5 inch Smartphone Android One, Dual Rear 12.0MP Camera Snapdragon 625",Xiaomi
+B07FM9913M,sound,12,0.4166666666666667,0.4166666666666667,0.0,"Unlocked GOLD Xiaomi Mi A2, 4GB 64GB, Dual SIM standby, Global Version, 5.5 inch Smartphone Android One, Dual Rear 12.0MP Camera Snapdragon 625",Xiaomi
+B07FM9913M,storage,20,0.35,0.55,-0.2,"Unlocked GOLD Xiaomi Mi A2, 4GB 64GB, Dual SIM standby, Global Version, 5.5 inch Smartphone Android One, Dual Rear 12.0MP Camera Snapdragon 625",Xiaomi
+B07FZH9BGV,battery,69,0.42028985507246375,0.2463768115942029,0.174,"Samsung Galaxy Note 9 Factory Unlocked Phone with 6.4"" Screen and 128GB (U.S. Warranty), Ocean Blue",Samsung
+B07FZH9BGV,camera,37,0.6216216216216216,0.13513513513513514,0.486,"Samsung Galaxy Note 9 Factory Unlocked Phone with 6.4"" Screen and 128GB (U.S. Warranty), Ocean Blue",Samsung
+B07FZH9BGV,customer_service,52,0.11538461538461539,0.5961538461538461,-0.481,"Samsung Galaxy Note 9 Factory Unlocked Phone with 6.4"" Screen and 128GB (U.S. Warranty), Ocean Blue",Samsung
+B07FZH9BGV,delivery,30,0.2,0.5666666666666667,-0.367,"Samsung Galaxy Note 9 Factory Unlocked Phone with 6.4"" Screen and 128GB (U.S. Warranty), Ocean Blue",Samsung
+B07FZH9BGV,design,17,0.5294117647058824,0.4117647058823529,0.118,"Samsung Galaxy Note 9 Factory Unlocked Phone with 6.4"" Screen and 128GB (U.S. Warranty), Ocean Blue",Samsung
+B07FZH9BGV,network,88,0.22727272727272727,0.42045454545454547,-0.193,"Samsung Galaxy Note 9 Factory Unlocked Phone with 6.4"" Screen and 128GB (U.S. Warranty), Ocean Blue",Samsung
+B07FZH9BGV,performance,17,0.6470588235294118,0.23529411764705882,0.412,"Samsung Galaxy Note 9 Factory Unlocked Phone with 6.4"" Screen and 128GB (U.S. Warranty), Ocean Blue",Samsung
+B07FZH9BGV,price,35,0.34285714285714286,0.5428571428571428,-0.2,"Samsung Galaxy Note 9 Factory Unlocked Phone with 6.4"" Screen and 128GB (U.S. Warranty), Ocean Blue",Samsung
+B07FZH9BGV,screen,47,0.425531914893617,0.2978723404255319,0.128,"Samsung Galaxy Note 9 Factory Unlocked Phone with 6.4"" Screen and 128GB (U.S. Warranty), Ocean Blue",Samsung
+B07FZH9BGV,software,26,0.3076923076923077,0.5,-0.192,"Samsung Galaxy Note 9 Factory Unlocked Phone with 6.4"" Screen and 128GB (U.S. Warranty), Ocean Blue",Samsung
+B07FZH9BGV,sound,12,0.5,0.25,0.25,"Samsung Galaxy Note 9 Factory Unlocked Phone with 6.4"" Screen and 128GB (U.S. Warranty), Ocean Blue",Samsung
+B07H41NB46,battery,23,0.391304347826087,0.30434782608695654,0.087,"Xiaomi Pocophone F1 128GB Graphite Black, Dual Sim, 6GB RAM, Dual Camera, 6.18"", GSM Unlocked Global Model, No Warranty",Xiaomi
+B07H41NB46,customer_service,13,0.07692307692307693,0.6153846153846154,-0.538,"Xiaomi Pocophone F1 128GB Graphite Black, Dual Sim, 6GB RAM, Dual Camera, 6.18"", GSM Unlocked Global Model, No Warranty",Xiaomi
+B07H41NB46,network,23,0.34782608695652173,0.5217391304347826,-0.174,"Xiaomi Pocophone F1 128GB Graphite Black, Dual Sim, 6GB RAM, Dual Camera, 6.18"", GSM Unlocked Global Model, No Warranty",Xiaomi
+B07H41NB46,price,20,0.55,0.3,0.25,"Xiaomi Pocophone F1 128GB Graphite Black, Dual Sim, 6GB RAM, Dual Camera, 6.18"", GSM Unlocked Global Model, No Warranty",Xiaomi
+B07H41NB46,screen,14,0.35714285714285715,0.42857142857142855,-0.071,"Xiaomi Pocophone F1 128GB Graphite Black, Dual Sim, 6GB RAM, Dual Camera, 6.18"", GSM Unlocked Global Model, No Warranty",Xiaomi
+B07H6V8TB9,camera,37,0.32432432432432434,0.13513513513513514,0.189,"Sony Xperia XZ3 Unlocked Smartphone, 64GB - 6.0"" OLED Screen -Forest Green (US Warranty) [Phone ONLY Version]",Sony
+B07H6V8TB9,screen,23,0.6956521739130435,0.08695652173913043,0.609,"Sony Xperia XZ3 Unlocked Smartphone, 64GB - 6.0"" OLED Screen -Forest Green (US Warranty) [Phone ONLY Version]",Sony
+B07H6V8TB9,sound,10,0.6,0.3,0.3,"Sony Xperia XZ3 Unlocked Smartphone, 64GB - 6.0"" OLED Screen -Forest Green (US Warranty) [Phone ONLY Version]",Sony
+B07HD3QC65,battery,138,0.16666666666666666,0.45652173913043476,-0.29,"Nokia 7.1 - Android 9.0 Pie - 64 GB - Dual Camera - Dual SIM Unlocked Smartphone (Verizon/AT&T/T-Mobile/MetroPCS/Cricket/H2O) - 5.84"" FHD+ HDR Screen - Steel - U.S. Warranty",Nokia
+B07HD3QC65,build,19,0.47368421052631576,0.42105263157894735,0.053,"Nokia 7.1 - Android 9.0 Pie - 64 GB - Dual Camera - Dual SIM Unlocked Smartphone (Verizon/AT&T/T-Mobile/MetroPCS/Cricket/H2O) - 5.84"" FHD+ HDR Screen - Steel - U.S. Warranty",Nokia
+B07HD3QC65,camera,64,0.484375,0.25,0.234,"Nokia 7.1 - Android 9.0 Pie - 64 GB - Dual Camera - Dual SIM Unlocked Smartphone (Verizon/AT&T/T-Mobile/MetroPCS/Cricket/H2O) - 5.84"" FHD+ HDR Screen - Steel - U.S. Warranty",Nokia
+B07HD3QC65,customer_service,71,0.08450704225352113,0.6901408450704225,-0.606,"Nokia 7.1 - Android 9.0 Pie - 64 GB - Dual Camera - Dual SIM Unlocked Smartphone (Verizon/AT&T/T-Mobile/MetroPCS/Cricket/H2O) - 5.84"" FHD+ HDR Screen - Steel - U.S. Warranty",Nokia
+B07HD3QC65,delivery,13,0.6923076923076923,0.23076923076923078,0.462,"Nokia 7.1 - Android 9.0 Pie - 64 GB - Dual Camera - Dual SIM Unlocked Smartphone (Verizon/AT&T/T-Mobile/MetroPCS/Cricket/H2O) - 5.84"" FHD+ HDR Screen - Steel - U.S. Warranty",Nokia
+B07HD3QC65,design,31,0.6451612903225806,0.25806451612903225,0.387,"Nokia 7.1 - Android 9.0 Pie - 64 GB - Dual Camera - Dual SIM Unlocked Smartphone (Verizon/AT&T/T-Mobile/MetroPCS/Cricket/H2O) - 5.84"" FHD+ HDR Screen - Steel - U.S. Warranty",Nokia
+B07HD3QC65,network,41,0.14634146341463414,0.6585365853658537,-0.512,"Nokia 7.1 - Android 9.0 Pie - 64 GB - Dual Camera - Dual SIM Unlocked Smartphone (Verizon/AT&T/T-Mobile/MetroPCS/Cricket/H2O) - 5.84"" FHD+ HDR Screen - Steel - U.S. Warranty",Nokia
+B07HD3QC65,performance,36,0.6111111111111112,0.2777777777777778,0.333,"Nokia 7.1 - Android 9.0 Pie - 64 GB - Dual Camera - Dual SIM Unlocked Smartphone (Verizon/AT&T/T-Mobile/MetroPCS/Cricket/H2O) - 5.84"" FHD+ HDR Screen - Steel - U.S. Warranty",Nokia
+B07HD3QC65,price,55,0.6,0.2,0.4,"Nokia 7.1 - Android 9.0 Pie - 64 GB - Dual Camera - Dual SIM Unlocked Smartphone (Verizon/AT&T/T-Mobile/MetroPCS/Cricket/H2O) - 5.84"" FHD+ HDR Screen - Steel - U.S. Warranty",Nokia
+B07HD3QC65,screen,59,0.3389830508474576,0.4067796610169492,-0.068,"Nokia 7.1 - Android 9.0 Pie - 64 GB - Dual Camera - Dual SIM Unlocked Smartphone (Verizon/AT&T/T-Mobile/MetroPCS/Cricket/H2O) - 5.84"" FHD+ HDR Screen - Steel - U.S. Warranty",Nokia
+B07HD3QC65,software,48,0.0625,0.6041666666666666,-0.542,"Nokia 7.1 - Android 9.0 Pie - 64 GB - Dual Camera - Dual SIM Unlocked Smartphone (Verizon/AT&T/T-Mobile/MetroPCS/Cricket/H2O) - 5.84"" FHD+ HDR Screen - Steel - U.S. Warranty",Nokia
+B07HD3QC65,sound,23,0.17391304347826086,0.6956521739130435,-0.522,"Nokia 7.1 - Android 9.0 Pie - 64 GB - Dual Camera - Dual SIM Unlocked Smartphone (Verizon/AT&T/T-Mobile/MetroPCS/Cricket/H2O) - 5.84"" FHD+ HDR Screen - Steel - U.S. Warranty",Nokia
+B07HD3QC65,storage,11,0.18181818181818182,0.36363636363636365,-0.182,"Nokia 7.1 - Android 9.0 Pie - 64 GB - Dual Camera - Dual SIM Unlocked Smartphone (Verizon/AT&T/T-Mobile/MetroPCS/Cricket/H2O) - 5.84"" FHD+ HDR Screen - Steel - U.S. Warranty",Nokia
+B07HFHX6HX,battery,26,0.3076923076923077,0.46153846153846156,-0.154,Samsung Galaxy Note 8 N950U 64GB Unlocked GSM 4G LTE Android Smartphone w/Dual 12 MegaPixel Camera (Renewed) (Midnight Black),Samsung
+B07HFHX6HX,customer_service,13,0.23076923076923078,0.07692307692307693,0.154,Samsung Galaxy Note 8 N950U 64GB Unlocked GSM 4G LTE Android Smartphone w/Dual 12 MegaPixel Camera (Renewed) (Midnight Black),Samsung
+B07HFHX6HX,network,26,0.11538461538461539,0.2692307692307692,-0.154,Samsung Galaxy Note 8 N950U 64GB Unlocked GSM 4G LTE Android Smartphone w/Dual 12 MegaPixel Camera (Renewed) (Midnight Black),Samsung
+B07HFHX6HX,price,10,0.8,0.1,0.7,Samsung Galaxy Note 8 N950U 64GB Unlocked GSM 4G LTE Android Smartphone w/Dual 12 MegaPixel Camera (Renewed) (Midnight Black),Samsung
+B07HFHX6HX,screen,14,0.42857142857142855,0.42857142857142855,0.0,Samsung Galaxy Note 8 N950U 64GB Unlocked GSM 4G LTE Android Smartphone w/Dual 12 MegaPixel Camera (Renewed) (Midnight Black),Samsung
+B07HK4JNV1,battery,38,0.4473684210526316,0.3684210526315789,0.079,"Xiaomi Redmi Note 6 Pro 64GB / 4GB RAM 6.26"" Dual Camera LTE Factory Unlocked Smartphone Global Version (Black)",Xiaomi
+B07HK4JNV1,camera,25,0.6,0.08,0.52,"Xiaomi Redmi Note 6 Pro 64GB / 4GB RAM 6.26"" Dual Camera LTE Factory Unlocked Smartphone Global Version (Black)",Xiaomi
+B07HK4JNV1,customer_service,18,0.3333333333333333,0.5555555555555556,-0.222,"Xiaomi Redmi Note 6 Pro 64GB / 4GB RAM 6.26"" Dual Camera LTE Factory Unlocked Smartphone Global Version (Black)",Xiaomi
+B07HK4JNV1,design,12,0.9166666666666666,0.08333333333333333,0.833,"Xiaomi Redmi Note 6 Pro 64GB / 4GB RAM 6.26"" Dual Camera LTE Factory Unlocked Smartphone Global Version (Black)",Xiaomi
+B07HK4JNV1,network,30,0.23333333333333334,0.5,-0.267,"Xiaomi Redmi Note 6 Pro 64GB / 4GB RAM 6.26"" Dual Camera LTE Factory Unlocked Smartphone Global Version (Black)",Xiaomi
+B07HK4JNV1,performance,11,0.7272727272727273,0.2727272727272727,0.455,"Xiaomi Redmi Note 6 Pro 64GB / 4GB RAM 6.26"" Dual Camera LTE Factory Unlocked Smartphone Global Version (Black)",Xiaomi
+B07HK4JNV1,price,35,0.6857142857142857,0.17142857142857143,0.514,"Xiaomi Redmi Note 6 Pro 64GB / 4GB RAM 6.26"" Dual Camera LTE Factory Unlocked Smartphone Global Version (Black)",Xiaomi
+B07HK4JNV1,screen,31,0.5161290322580645,0.3870967741935484,0.129,"Xiaomi Redmi Note 6 Pro 64GB / 4GB RAM 6.26"" Dual Camera LTE Factory Unlocked Smartphone Global Version (Black)",Xiaomi
+B07HK4JNV1,software,19,0.10526315789473684,0.3157894736842105,-0.211,"Xiaomi Redmi Note 6 Pro 64GB / 4GB RAM 6.26"" Dual Camera LTE Factory Unlocked Smartphone Global Version (Black)",Xiaomi
+B07HQTWQVT,battery,24,0.75,0.08333333333333333,0.667,"Sony H3123 - Black/SBH-90C/SCSH10 Xperia XA2 Accessory Bundle, (Bundle Includes: 1 Xperia XA2, 1 SBH90C Bluetooth Headset, 1 Flip Phone Case), Black",Sony
+B07HQTWQVT,camera,38,0.42105263157894735,0.2894736842105263,0.132,"Sony H3123 - Black/SBH-90C/SCSH10 Xperia XA2 Accessory Bundle, (Bundle Includes: 1 Xperia XA2, 1 SBH90C Bluetooth Headset, 1 Flip Phone Case), Black",Sony
+B07HQTWQVT,customer_service,11,0.18181818181818182,0.6363636363636364,-0.455,"Sony H3123 - Black/SBH-90C/SCSH10 Xperia XA2 Accessory Bundle, (Bundle Includes: 1 Xperia XA2, 1 SBH90C Bluetooth Headset, 1 Flip Phone Case), Black",Sony
+B07HQTWQVT,design,17,0.7647058823529411,0.17647058823529413,0.588,"Sony H3123 - Black/SBH-90C/SCSH10 Xperia XA2 Accessory Bundle, (Bundle Includes: 1 Xperia XA2, 1 SBH90C Bluetooth Headset, 1 Flip Phone Case), Black",Sony
+B07HQTWQVT,performance,13,0.6153846153846154,0.3076923076923077,0.308,"Sony H3123 - Black/SBH-90C/SCSH10 Xperia XA2 Accessory Bundle, (Bundle Includes: 1 Xperia XA2, 1 SBH90C Bluetooth Headset, 1 Flip Phone Case), Black",Sony
+B07HQTWQVT,price,16,0.5,0.375,0.125,"Sony H3123 - Black/SBH-90C/SCSH10 Xperia XA2 Accessory Bundle, (Bundle Includes: 1 Xperia XA2, 1 SBH90C Bluetooth Headset, 1 Flip Phone Case), Black",Sony
+B07HQTWQVT,screen,26,0.3076923076923077,0.5769230769230769,-0.269,"Sony H3123 - Black/SBH-90C/SCSH10 Xperia XA2 Accessory Bundle, (Bundle Includes: 1 Xperia XA2, 1 SBH90C Bluetooth Headset, 1 Flip Phone Case), Black",Sony
+B07HQTWQVT,software,13,0.15384615384615385,0.3076923076923077,-0.154,"Sony H3123 - Black/SBH-90C/SCSH10 Xperia XA2 Accessory Bundle, (Bundle Includes: 1 Xperia XA2, 1 SBH90C Bluetooth Headset, 1 Flip Phone Case), Black",Sony
+B07HQTWQVT,storage,13,0.23076923076923078,0.38461538461538464,-0.154,"Sony H3123 - Black/SBH-90C/SCSH10 Xperia XA2 Accessory Bundle, (Bundle Includes: 1 Xperia XA2, 1 SBH90C Bluetooth Headset, 1 Flip Phone Case), Black",Sony
+B07HQTWQVT,usability,10,0.5,0.2,0.3,"Sony H3123 - Black/SBH-90C/SCSH10 Xperia XA2 Accessory Bundle, (Bundle Includes: 1 Xperia XA2, 1 SBH90C Bluetooth Headset, 1 Flip Phone Case), Black",Sony
+B07J4Z9647,battery,27,0.8518518518518519,0.07407407407407407,0.778,"Huawei Mate 20 Lite SNE-LX3 64GB (Factory Unlocked) 6.3"" FHD (International Version) (Black)",HUAWEI
+B07J4Z9647,camera,38,0.5,0.2894736842105263,0.211,"Huawei Mate 20 Lite SNE-LX3 64GB (Factory Unlocked) 6.3"" FHD (International Version) (Black)",HUAWEI
+B07J4Z9647,customer_service,19,0.10526315789473684,0.631578947368421,-0.526,"Huawei Mate 20 Lite SNE-LX3 64GB (Factory Unlocked) 6.3"" FHD (International Version) (Black)",HUAWEI
+B07J4Z9647,network,36,0.2777777777777778,0.4166666666666667,-0.139,"Huawei Mate 20 Lite SNE-LX3 64GB (Factory Unlocked) 6.3"" FHD (International Version) (Black)",HUAWEI
+B07J4Z9647,performance,13,0.6923076923076923,0.15384615384615385,0.538,"Huawei Mate 20 Lite SNE-LX3 64GB (Factory Unlocked) 6.3"" FHD (International Version) (Black)",HUAWEI
+B07J4Z9647,price,35,0.6,0.2571428571428571,0.343,"Huawei Mate 20 Lite SNE-LX3 64GB (Factory Unlocked) 6.3"" FHD (International Version) (Black)",HUAWEI
+B07J4Z9647,screen,21,0.6190476190476191,0.23809523809523808,0.381,"Huawei Mate 20 Lite SNE-LX3 64GB (Factory Unlocked) 6.3"" FHD (International Version) (Black)",HUAWEI
+B07J4Z9647,software,15,0.3333333333333333,0.13333333333333333,0.2,"Huawei Mate 20 Lite SNE-LX3 64GB (Factory Unlocked) 6.3"" FHD (International Version) (Black)",HUAWEI
+B07J4Z9647,sound,11,0.7272727272727273,0.18181818181818182,0.545,"Huawei Mate 20 Lite SNE-LX3 64GB (Factory Unlocked) 6.3"" FHD (International Version) (Black)",HUAWEI
+B07J4Z9647,usability,13,0.6153846153846154,0.3076923076923077,0.308,"Huawei Mate 20 Lite SNE-LX3 64GB (Factory Unlocked) 6.3"" FHD (International Version) (Black)",HUAWEI
+B07JHXX5YR,battery,23,0.4782608695652174,0.391304347826087,0.087,ROG Phone Gaming Smartphone ZS600KL-S845-8G512G - 6” FHD+ 2160x1080 90Hz Display - Qualcomm Snapdragon 845 - 8GB RAM - 512GB Storage - LTE Unlocked Dual SIM Gaming Phone - US Warranty,
+B07JHXX5YR,camera,21,0.14285714285714285,0.3333333333333333,-0.19,ROG Phone Gaming Smartphone ZS600KL-S845-8G512G - 6” FHD+ 2160x1080 90Hz Display - Qualcomm Snapdragon 845 - 8GB RAM - 512GB Storage - LTE Unlocked Dual SIM Gaming Phone - US Warranty,
+B07JHXX5YR,customer_service,30,0.1,0.7333333333333333,-0.633,ROG Phone Gaming Smartphone ZS600KL-S845-8G512G - 6” FHD+ 2160x1080 90Hz Display - Qualcomm Snapdragon 845 - 8GB RAM - 512GB Storage - LTE Unlocked Dual SIM Gaming Phone - US Warranty,
+B07JHXX5YR,design,14,0.5,0.42857142857142855,0.071,ROG Phone Gaming Smartphone ZS600KL-S845-8G512G - 6” FHD+ 2160x1080 90Hz Display - Qualcomm Snapdragon 845 - 8GB RAM - 512GB Storage - LTE Unlocked Dual SIM Gaming Phone - US Warranty,
+B07JHXX5YR,network,14,0.07142857142857142,0.42857142857142855,-0.357,ROG Phone Gaming Smartphone ZS600KL-S845-8G512G - 6” FHD+ 2160x1080 90Hz Display - Qualcomm Snapdragon 845 - 8GB RAM - 512GB Storage - LTE Unlocked Dual SIM Gaming Phone - US Warranty,
+B07JHXX5YR,performance,12,0.8333333333333334,0.16666666666666666,0.667,ROG Phone Gaming Smartphone ZS600KL-S845-8G512G - 6” FHD+ 2160x1080 90Hz Display - Qualcomm Snapdragon 845 - 8GB RAM - 512GB Storage - LTE Unlocked Dual SIM Gaming Phone - US Warranty,
+B07JHXX5YR,price,14,0.07142857142857142,0.7142857142857143,-0.643,ROG Phone Gaming Smartphone ZS600KL-S845-8G512G - 6” FHD+ 2160x1080 90Hz Display - Qualcomm Snapdragon 845 - 8GB RAM - 512GB Storage - LTE Unlocked Dual SIM Gaming Phone - US Warranty,
+B07JHXX5YR,screen,30,0.13333333333333333,0.7333333333333333,-0.6,ROG Phone Gaming Smartphone ZS600KL-S845-8G512G - 6” FHD+ 2160x1080 90Hz Display - Qualcomm Snapdragon 845 - 8GB RAM - 512GB Storage - LTE Unlocked Dual SIM Gaming Phone - US Warranty,
+B07JHXX5YR,sound,12,0.8333333333333334,0.16666666666666666,0.667,ROG Phone Gaming Smartphone ZS600KL-S845-8G512G - 6” FHD+ 2160x1080 90Hz Display - Qualcomm Snapdragon 845 - 8GB RAM - 512GB Storage - LTE Unlocked Dual SIM Gaming Phone - US Warranty,
+B07MF3JM4T,battery,14,0.5714285714285714,0.14285714285714285,0.429,"Motorola Moto One - Android One - 64 GB - 13+2 MP Dual Rear Camera - Dual SIM Unlocked Smartphone (at&T/T-Mobile/MetroPCS/Cricket/H2O) - 5.9"" HD+ Display - XT1941-3 - (International Version) (Black)",Motorola
+B07MF3JM4T,camera,12,0.5833333333333334,0.3333333333333333,0.25,"Motorola Moto One - Android One - 64 GB - 13+2 MP Dual Rear Camera - Dual SIM Unlocked Smartphone (at&T/T-Mobile/MetroPCS/Cricket/H2O) - 5.9"" HD+ Display - XT1941-3 - (International Version) (Black)",Motorola
+B07MF3JM4T,customer_service,12,0.08333333333333333,0.3333333333333333,-0.25,"Motorola Moto One - Android One - 64 GB - 13+2 MP Dual Rear Camera - Dual SIM Unlocked Smartphone (at&T/T-Mobile/MetroPCS/Cricket/H2O) - 5.9"" HD+ Display - XT1941-3 - (International Version) (Black)",Motorola
+B07MF3JM4T,network,12,0.3333333333333333,0.25,0.083,"Motorola Moto One - Android One - 64 GB - 13+2 MP Dual Rear Camera - Dual SIM Unlocked Smartphone (at&T/T-Mobile/MetroPCS/Cricket/H2O) - 5.9"" HD+ Display - XT1941-3 - (International Version) (Black)",Motorola
+B07MF3JM4T,price,11,0.7272727272727273,0.09090909090909091,0.636,"Motorola Moto One - Android One - 64 GB - 13+2 MP Dual Rear Camera - Dual SIM Unlocked Smartphone (at&T/T-Mobile/MetroPCS/Cricket/H2O) - 5.9"" HD+ Display - XT1941-3 - (International Version) (Black)",Motorola
+B07MZ2TRTC,battery,12,0.25,0.4166666666666667,-0.167,Sony Xperia 10 Plus GSM Unlocked Smartphone - Black,Sony
+B07MZ2TRTC,camera,18,0.5,0.1111111111111111,0.389,Sony Xperia 10 Plus GSM Unlocked Smartphone - Black,Sony
+B07MZ2TRTC,design,19,0.47368421052631576,0.3684210526315789,0.105,Sony Xperia 10 Plus GSM Unlocked Smartphone - Black,Sony
+B07MZ2TRTC,network,11,0.18181818181818182,0.2727272727272727,-0.091,Sony Xperia 10 Plus GSM Unlocked Smartphone - Black,Sony
+B07MZ2TRTC,screen,21,0.42857142857142855,0.19047619047619047,0.238,Sony Xperia 10 Plus GSM Unlocked Smartphone - Black,Sony
+B07MZ2TRTC,sound,10,0.6,0.3,0.3,Sony Xperia 10 Plus GSM Unlocked Smartphone - Black,Sony
+B07N11SM58,camera,87,0.22988505747126436,0.19540229885057472,0.034,"Nokia 9 PureView - Android 9.0 Pie - 128 GB - Single Sim Unlocked Smartphone (at&T/T-Mobile/Metropcs/Cricket/H2O) - 5.99"" QHD+ Screen - Qi Wireless Charging - Midnight Blue - U.S. Warranty",Nokia
+B07N11SM58,design,14,0.21428571428571427,0.21428571428571427,0.0,"Nokia 9 PureView - Android 9.0 Pie - 128 GB - Single Sim Unlocked Smartphone (at&T/T-Mobile/Metropcs/Cricket/H2O) - 5.99"" QHD+ Screen - Qi Wireless Charging - Midnight Blue - U.S. Warranty",Nokia
+B07N11SM58,screen,23,0.2608695652173913,0.13043478260869565,0.13,"Nokia 9 PureView - Android 9.0 Pie - 128 GB - Single Sim Unlocked Smartphone (at&T/T-Mobile/Metropcs/Cricket/H2O) - 5.99"" QHD+ Screen - Qi Wireless Charging - Midnight Blue - U.S. Warranty",Nokia
+B07N11SM58,software,21,0.3333333333333333,0.38095238095238093,-0.048,"Nokia 9 PureView - Android 9.0 Pie - 128 GB - Single Sim Unlocked Smartphone (at&T/T-Mobile/Metropcs/Cricket/H2O) - 5.99"" QHD+ Screen - Qi Wireless Charging - Midnight Blue - U.S. Warranty",Nokia
+B07N11SM58,sound,12,0.08333333333333333,0.6666666666666666,-0.583,"Nokia 9 PureView - Android 9.0 Pie - 128 GB - Single Sim Unlocked Smartphone (at&T/T-Mobile/Metropcs/Cricket/H2O) - 5.99"" QHD+ Screen - Qi Wireless Charging - Midnight Blue - U.S. Warranty",Nokia
+B07N11SM58,usability,10,0.2,0.7,-0.5,"Nokia 9 PureView - Android 9.0 Pie - 128 GB - Single Sim Unlocked Smartphone (at&T/T-Mobile/Metropcs/Cricket/H2O) - 5.99"" QHD+ Screen - Qi Wireless Charging - Midnight Blue - U.S. Warranty",Nokia
+B07N4M412B,battery,22,0.5909090909090909,0.22727272727272727,0.364,Samsung Galaxy S10 Factory Unlocked Phone with 128GB - Prism Black,Samsung
+B07N4M412B,camera,28,0.6071428571428571,0.21428571428571427,0.393,Samsung Galaxy S10 Factory Unlocked Phone with 128GB - Prism Black,Samsung
+B07N4M412B,customer_service,23,0.043478260869565216,0.6521739130434783,-0.609,Samsung Galaxy S10 Factory Unlocked Phone with 128GB - Prism Black,Samsung
+B07N4M412B,delivery,14,0.14285714285714285,0.6428571428571429,-0.5,Samsung Galaxy S10 Factory Unlocked Phone with 128GB - Prism Black,Samsung
+B07N4M412B,design,16,0.6875,0.3125,0.375,Samsung Galaxy S10 Factory Unlocked Phone with 128GB - Prism Black,Samsung
+B07N4M412B,network,22,0.45454545454545453,0.5,-0.045,Samsung Galaxy S10 Factory Unlocked Phone with 128GB - Prism Black,Samsung
+B07N4M412B,price,20,0.4,0.55,-0.15,Samsung Galaxy S10 Factory Unlocked Phone with 128GB - Prism Black,Samsung
+B07N4M412B,screen,34,0.2647058823529412,0.47058823529411764,-0.206,Samsung Galaxy S10 Factory Unlocked Phone with 128GB - Prism Black,Samsung
+B07N4M412B,sound,10,0.6,0.3,0.3,Samsung Galaxy S10 Factory Unlocked Phone with 128GB - Prism Black,Samsung
+B07N4M412B,usability,21,0.14285714285714285,0.6666666666666666,-0.524,Samsung Galaxy S10 Factory Unlocked Phone with 128GB - Prism Black,Samsung
+B07N91S9MW,battery,52,0.5192307692307693,0.3269230769230769,0.192,"Moto G7 – Unlocked – 64 GB – Ceramic Black (US Warranty) - Verizon, AT&T, T-Mobile, Sprint, Boost, Cricket, & Metro",Motorola
+B07N91S9MW,camera,31,0.41935483870967744,0.3870967741935484,0.032,"Moto G7 – Unlocked – 64 GB – Ceramic Black (US Warranty) - Verizon, AT&T, T-Mobile, Sprint, Boost, Cricket, & Metro",Motorola
+B07N91S9MW,customer_service,11,0.09090909090909091,0.6363636363636364,-0.545,"Moto G7 – Unlocked – 64 GB – Ceramic Black (US Warranty) - Verizon, AT&T, T-Mobile, Sprint, Boost, Cricket, & Metro",Motorola
+B07N91S9MW,design,13,0.38461538461538464,0.5384615384615384,-0.154,"Moto G7 – Unlocked – 64 GB – Ceramic Black (US Warranty) - Verizon, AT&T, T-Mobile, Sprint, Boost, Cricket, & Metro",Motorola
+B07N91S9MW,network,30,0.23333333333333334,0.4,-0.167,"Moto G7 – Unlocked – 64 GB – Ceramic Black (US Warranty) - Verizon, AT&T, T-Mobile, Sprint, Boost, Cricket, & Metro",Motorola
+B07N91S9MW,performance,12,0.6666666666666666,0.25,0.417,"Moto G7 – Unlocked – 64 GB – Ceramic Black (US Warranty) - Verizon, AT&T, T-Mobile, Sprint, Boost, Cricket, & Metro",Motorola
+B07N91S9MW,price,30,0.6666666666666666,0.2,0.467,"Moto G7 – Unlocked – 64 GB – Ceramic Black (US Warranty) - Verizon, AT&T, T-Mobile, Sprint, Boost, Cricket, & Metro",Motorola
+B07N91S9MW,screen,37,0.3783783783783784,0.5135135135135135,-0.135,"Moto G7 – Unlocked – 64 GB – Ceramic Black (US Warranty) - Verizon, AT&T, T-Mobile, Sprint, Boost, Cricket, & Metro",Motorola
+B07N91S9MW,software,16,0.1875,0.5,-0.312,"Moto G7 – Unlocked – 64 GB – Ceramic Black (US Warranty) - Verizon, AT&T, T-Mobile, Sprint, Boost, Cricket, & Metro",Motorola
+B07N91S9MW,sound,17,0.23529411764705882,0.7058823529411765,-0.471,"Moto G7 – Unlocked – 64 GB – Ceramic Black (US Warranty) - Verizon, AT&T, T-Mobile, Sprint, Boost, Cricket, & Metro",Motorola
+B07NPRQYP1,battery,53,0.6226415094339622,0.1509433962264151,0.472,Moto G7 Power - Unlocked - 64 GB - Marine Blue (No Warranty) - International Model (GSM Only),Motorola
+B07NPRQYP1,camera,33,0.42424242424242425,0.2727272727272727,0.152,Moto G7 Power - Unlocked - 64 GB - Marine Blue (No Warranty) - International Model (GSM Only),Motorola
+B07NPRQYP1,customer_service,15,0.0,0.8,-0.8,Moto G7 Power - Unlocked - 64 GB - Marine Blue (No Warranty) - International Model (GSM Only),Motorola
+B07NPRQYP1,network,77,0.16883116883116883,0.5844155844155844,-0.416,Moto G7 Power - Unlocked - 64 GB - Marine Blue (No Warranty) - International Model (GSM Only),Motorola
+B07NPRQYP1,performance,11,0.6363636363636364,0.2727272727272727,0.364,Moto G7 Power - Unlocked - 64 GB - Marine Blue (No Warranty) - International Model (GSM Only),Motorola
+B07NPRQYP1,price,26,0.6153846153846154,0.23076923076923078,0.385,Moto G7 Power - Unlocked - 64 GB - Marine Blue (No Warranty) - International Model (GSM Only),Motorola
+B07NPRQYP1,screen,16,0.6875,0.1875,0.5,Moto G7 Power - Unlocked - 64 GB - Marine Blue (No Warranty) - International Model (GSM Only),Motorola
+B07PB77Z4J,battery,12,0.5,0.08333333333333333,0.417,"Samsung Galaxy S10e Factory Unlocked Phone with 128GB (U.S. Warranty), Prism Blue (Renewed)",Samsung
+B07PB77Z4J,customer_service,13,0.07692307692307693,0.46153846153846156,-0.385,"Samsung Galaxy S10e Factory Unlocked Phone with 128GB (U.S. Warranty), Prism Blue (Renewed)",Samsung
+B07PB77Z4J,network,23,0.13043478260869565,0.4782608695652174,-0.348,"Samsung Galaxy S10e Factory Unlocked Phone with 128GB (U.S. Warranty), Prism Blue (Renewed)",Samsung
+B07PB77Z4J,price,14,0.7142857142857143,0.21428571428571427,0.5,"Samsung Galaxy S10e Factory Unlocked Phone with 128GB (U.S. Warranty), Prism Blue (Renewed)",Samsung
+B07PB77Z4J,screen,14,0.14285714285714285,0.5714285714285714,-0.429,"Samsung Galaxy S10e Factory Unlocked Phone with 128GB (U.S. Warranty), Prism Blue (Renewed)",Samsung
+B07PHQ7FBP,battery,31,0.25806451612903225,0.25806451612903225,0.0,"Sony Xperia 1 Unlocked Smartphone 6.5"" 4K HDR OLED CinemaWide Display, 128GB - Black - (US Warranty)",Sony
+B07PHQ7FBP,camera,80,0.3375,0.2,0.138,"Sony Xperia 1 Unlocked Smartphone 6.5"" 4K HDR OLED CinemaWide Display, 128GB - Black - (US Warranty)",Sony
+B07PHQ7FBP,design,36,0.6388888888888888,0.1388888888888889,0.5,"Sony Xperia 1 Unlocked Smartphone 6.5"" 4K HDR OLED CinemaWide Display, 128GB - Black - (US Warranty)",Sony
+B07PHQ7FBP,network,25,0.08,0.56,-0.48,"Sony Xperia 1 Unlocked Smartphone 6.5"" 4K HDR OLED CinemaWide Display, 128GB - Black - (US Warranty)",Sony
+B07PHQ7FBP,price,11,0.18181818181818182,0.6363636363636364,-0.455,"Sony Xperia 1 Unlocked Smartphone 6.5"" 4K HDR OLED CinemaWide Display, 128GB - Black - (US Warranty)",Sony
+B07PHQ7FBP,screen,77,0.4025974025974026,0.2987012987012987,0.104,"Sony Xperia 1 Unlocked Smartphone 6.5"" 4K HDR OLED CinemaWide Display, 128GB - Black - (US Warranty)",Sony
+B07PHQ7FBP,software,21,0.2857142857142857,0.42857142857142855,-0.143,"Sony Xperia 1 Unlocked Smartphone 6.5"" 4K HDR OLED CinemaWide Display, 128GB - Black - (US Warranty)",Sony
+B07PHQ7FBP,sound,37,0.35135135135135137,0.4864864864864865,-0.135,"Sony Xperia 1 Unlocked Smartphone 6.5"" 4K HDR OLED CinemaWide Display, 128GB - Black - (US Warranty)",Sony
+B07PHQ7FBP,usability,23,0.34782608695652173,0.6086956521739131,-0.261,"Sony Xperia 1 Unlocked Smartphone 6.5"" 4K HDR OLED CinemaWide Display, 128GB - Black - (US Warranty)",Sony
+B07PV7LN4X,battery,16,0.625,0.0625,0.562,Samsung Galaxy A30 Dual SIM 32GB (SM-A305G/DS) Unlocked Phone GSM International Version - Blue,Samsung
+B07PV7LN4X,camera,11,0.2727272727272727,0.5454545454545454,-0.273,Samsung Galaxy A30 Dual SIM 32GB (SM-A305G/DS) Unlocked Phone GSM International Version - Blue,Samsung
+B07PV7LN4X,customer_service,10,0.3,0.4,-0.1,Samsung Galaxy A30 Dual SIM 32GB (SM-A305G/DS) Unlocked Phone GSM International Version - Blue,Samsung
+B07PV7LN4X,network,18,0.3333333333333333,0.3333333333333333,0.0,Samsung Galaxy A30 Dual SIM 32GB (SM-A305G/DS) Unlocked Phone GSM International Version - Blue,Samsung
+B07PV7LN4X,performance,10,0.7,0.3,0.4,Samsung Galaxy A30 Dual SIM 32GB (SM-A305G/DS) Unlocked Phone GSM International Version - Blue,Samsung
+B07PV7LN4X,price,20,0.9,0.1,0.8,Samsung Galaxy A30 Dual SIM 32GB (SM-A305G/DS) Unlocked Phone GSM International Version - Blue,Samsung
+B07PV7LN4X,screen,12,0.8333333333333334,0.16666666666666666,0.667,Samsung Galaxy A30 Dual SIM 32GB (SM-A305G/DS) Unlocked Phone GSM International Version - Blue,Samsung
+B07PY52GVP,battery,38,0.47368421052631576,0.2631578947368421,0.211,"Xiaomi Redmi Note 7, 64GB/4GB RAM, 6.30'' FHD+, Snapdragon 660, Black - Unlocked Global Version",Xiaomi
+B07PY52GVP,camera,38,0.6842105263157895,0.18421052631578946,0.5,"Xiaomi Redmi Note 7, 64GB/4GB RAM, 6.30'' FHD+, Snapdragon 660, Black - Unlocked Global Version",Xiaomi
+B07PY52GVP,customer_service,13,0.38461538461538464,0.46153846153846156,-0.077,"Xiaomi Redmi Note 7, 64GB/4GB RAM, 6.30'' FHD+, Snapdragon 660, Black - Unlocked Global Version",Xiaomi
+B07PY52GVP,delivery,10,0.6,0.4,0.2,"Xiaomi Redmi Note 7, 64GB/4GB RAM, 6.30'' FHD+, Snapdragon 660, Black - Unlocked Global Version",Xiaomi
+B07PY52GVP,design,10,0.7,0.3,0.4,"Xiaomi Redmi Note 7, 64GB/4GB RAM, 6.30'' FHD+, Snapdragon 660, Black - Unlocked Global Version",Xiaomi
+B07PY52GVP,network,20,0.4,0.45,-0.05,"Xiaomi Redmi Note 7, 64GB/4GB RAM, 6.30'' FHD+, Snapdragon 660, Black - Unlocked Global Version",Xiaomi
+B07PY52GVP,performance,18,0.7222222222222222,0.2777777777777778,0.444,"Xiaomi Redmi Note 7, 64GB/4GB RAM, 6.30'' FHD+, Snapdragon 660, Black - Unlocked Global Version",Xiaomi
+B07PY52GVP,price,52,0.7692307692307693,0.1346153846153846,0.635,"Xiaomi Redmi Note 7, 64GB/4GB RAM, 6.30'' FHD+, Snapdragon 660, Black - Unlocked Global Version",Xiaomi
+B07PY52GVP,screen,21,0.42857142857142855,0.38095238095238093,0.048,"Xiaomi Redmi Note 7, 64GB/4GB RAM, 6.30'' FHD+, Snapdragon 660, Black - Unlocked Global Version",Xiaomi
+B07PY52GVP,software,18,0.2777777777777778,0.5,-0.222,"Xiaomi Redmi Note 7, 64GB/4GB RAM, 6.30'' FHD+, Snapdragon 660, Black - Unlocked Global Version",Xiaomi
+B07PY52GVP,usability,10,0.9,0.1,0.8,"Xiaomi Redmi Note 7, 64GB/4GB RAM, 6.30'' FHD+, Snapdragon 660, Black - Unlocked Global Version",Xiaomi
+B07Q26V49K,battery,27,0.6296296296296297,0.25925925925925924,0.37,"Xiaomi Redmi Note 7, 64GB/4GB RAM, 6.30'' FHD+, Snapdragon 660, Blue - Unlocked Global Version, No Warranty",Xiaomi
+B07Q26V49K,camera,28,0.6785714285714286,0.21428571428571427,0.464,"Xiaomi Redmi Note 7, 64GB/4GB RAM, 6.30'' FHD+, Snapdragon 660, Blue - Unlocked Global Version, No Warranty",Xiaomi
+B07Q26V49K,customer_service,14,0.14285714285714285,0.5,-0.357,"Xiaomi Redmi Note 7, 64GB/4GB RAM, 6.30'' FHD+, Snapdragon 660, Blue - Unlocked Global Version, No Warranty",Xiaomi
+B07Q26V49K,network,29,0.41379310344827586,0.20689655172413793,0.207,"Xiaomi Redmi Note 7, 64GB/4GB RAM, 6.30'' FHD+, Snapdragon 660, Blue - Unlocked Global Version, No Warranty",Xiaomi
+B07Q26V49K,performance,11,0.7272727272727273,0.09090909090909091,0.636,"Xiaomi Redmi Note 7, 64GB/4GB RAM, 6.30'' FHD+, Snapdragon 660, Blue - Unlocked Global Version, No Warranty",Xiaomi
+B07Q26V49K,price,30,0.7,0.2,0.5,"Xiaomi Redmi Note 7, 64GB/4GB RAM, 6.30'' FHD+, Snapdragon 660, Blue - Unlocked Global Version, No Warranty",Xiaomi
+B07Q26V49K,screen,23,0.5217391304347826,0.391304347826087,0.13,"Xiaomi Redmi Note 7, 64GB/4GB RAM, 6.30'' FHD+, Snapdragon 660, Blue - Unlocked Global Version, No Warranty",Xiaomi
+B07Q26V49K,sound,14,0.5,0.5,0.0,"Xiaomi Redmi Note 7, 64GB/4GB RAM, 6.30'' FHD+, Snapdragon 660, Blue - Unlocked Global Version, No Warranty",Xiaomi
+B07Q6ZZ4S1,battery,12,0.5,0.4166666666666667,0.083,"Xiaomi Redmi Note 7 128GB + 4GB RAM 6.3"" FHD+ LTE Factory Unlocked 48MP GSM Smartphone (Global Version, No Warranty) (Neptune Blue)",Xiaomi
+B07Q6ZZ4S1,camera,26,0.38461538461538464,0.38461538461538464,0.0,"Xiaomi Redmi Note 7 128GB + 4GB RAM 6.3"" FHD+ LTE Factory Unlocked 48MP GSM Smartphone (Global Version, No Warranty) (Neptune Blue)",Xiaomi
+B07Q6ZZ4S1,network,18,0.3333333333333333,0.5555555555555556,-0.222,"Xiaomi Redmi Note 7 128GB + 4GB RAM 6.3"" FHD+ LTE Factory Unlocked 48MP GSM Smartphone (Global Version, No Warranty) (Neptune Blue)",Xiaomi
+B07Q6ZZ4S1,price,18,0.6666666666666666,0.16666666666666666,0.5,"Xiaomi Redmi Note 7 128GB + 4GB RAM 6.3"" FHD+ LTE Factory Unlocked 48MP GSM Smartphone (Global Version, No Warranty) (Neptune Blue)",Xiaomi
+B07Q84DPZH,battery,14,0.5714285714285714,0.14285714285714285,0.429,"Samsung Galaxy A10 32GB (A105M) 6.2"" HD+ Infinity-V 4G LTE Factory Unlocked GSM Smartphone - Black",Samsung
+B07Q84DPZH,camera,11,0.45454545454545453,0.36363636363636365,0.091,"Samsung Galaxy A10 32GB (A105M) 6.2"" HD+ Infinity-V 4G LTE Factory Unlocked GSM Smartphone - Black",Samsung
+B07Q84DPZH,customer_service,18,0.1111111111111111,0.7222222222222222,-0.611,"Samsung Galaxy A10 32GB (A105M) 6.2"" HD+ Infinity-V 4G LTE Factory Unlocked GSM Smartphone - Black",Samsung
+B07Q84DPZH,delivery,11,0.36363636363636365,0.36363636363636365,0.0,"Samsung Galaxy A10 32GB (A105M) 6.2"" HD+ Infinity-V 4G LTE Factory Unlocked GSM Smartphone - Black",Samsung
+B07Q84DPZH,design,10,1.0,0.0,1.0,"Samsung Galaxy A10 32GB (A105M) 6.2"" HD+ Infinity-V 4G LTE Factory Unlocked GSM Smartphone - Black",Samsung
+B07Q84DPZH,network,35,0.22857142857142856,0.45714285714285713,-0.229,"Samsung Galaxy A10 32GB (A105M) 6.2"" HD+ Infinity-V 4G LTE Factory Unlocked GSM Smartphone - Black",Samsung
+B07Q84DPZH,price,38,0.7105263157894737,0.2631578947368421,0.447,"Samsung Galaxy A10 32GB (A105M) 6.2"" HD+ Infinity-V 4G LTE Factory Unlocked GSM Smartphone - Black",Samsung
+B07Q84DPZH,screen,13,0.5384615384615384,0.46153846153846156,0.077,"Samsung Galaxy A10 32GB (A105M) 6.2"" HD+ Infinity-V 4G LTE Factory Unlocked GSM Smartphone - Black",Samsung
+B07QK32C8M,battery,17,0.5294117647058824,0.23529411764705882,0.294,"Xiaomi Redmi Note 7 128GB + 4GB RAM 6.3"" FHD+ LTE Factory Unlocked 48MP GSM Smartphone (Global Version, No Warranty) (Space Black)",Xiaomi
+B07QK32C8M,camera,20,0.55,0.2,0.35,"Xiaomi Redmi Note 7 128GB + 4GB RAM 6.3"" FHD+ LTE Factory Unlocked 48MP GSM Smartphone (Global Version, No Warranty) (Space Black)",Xiaomi
+B07QK32C8M,network,19,0.3684210526315789,0.2631578947368421,0.105,"Xiaomi Redmi Note 7 128GB + 4GB RAM 6.3"" FHD+ LTE Factory Unlocked 48MP GSM Smartphone (Global Version, No Warranty) (Space Black)",Xiaomi
+B07QK32C8M,price,17,0.8823529411764706,0.058823529411764705,0.824,"Xiaomi Redmi Note 7 128GB + 4GB RAM 6.3"" FHD+ LTE Factory Unlocked 48MP GSM Smartphone (Global Version, No Warranty) (Space Black)",Xiaomi
+B07QQYHSR5,battery,22,0.6818181818181818,0.2727272727272727,0.409,Samsung Galaxy A50 A505G 64GB Duos GSM Unlocked Phone w/Triple 25MP Camera - Blue,Samsung
+B07QQYHSR5,camera,33,0.6060606060606061,0.21212121212121213,0.394,Samsung Galaxy A50 A505G 64GB Duos GSM Unlocked Phone w/Triple 25MP Camera - Blue,Samsung
+B07QQYHSR5,customer_service,19,0.21052631578947367,0.5789473684210527,-0.368,Samsung Galaxy A50 A505G 64GB Duos GSM Unlocked Phone w/Triple 25MP Camera - Blue,Samsung
+B07QQYHSR5,delivery,10,0.5,0.3,0.2,Samsung Galaxy A50 A505G 64GB Duos GSM Unlocked Phone w/Triple 25MP Camera - Blue,Samsung
+B07QQYHSR5,design,14,0.9285714285714286,0.07142857142857142,0.857,Samsung Galaxy A50 A505G 64GB Duos GSM Unlocked Phone w/Triple 25MP Camera - Blue,Samsung
+B07QQYHSR5,network,34,0.23529411764705882,0.29411764705882354,-0.059,Samsung Galaxy A50 A505G 64GB Duos GSM Unlocked Phone w/Triple 25MP Camera - Blue,Samsung
+B07QQYHSR5,performance,12,0.5,0.3333333333333333,0.167,Samsung Galaxy A50 A505G 64GB Duos GSM Unlocked Phone w/Triple 25MP Camera - Blue,Samsung
+B07QQYHSR5,price,47,0.7021276595744681,0.0851063829787234,0.617,Samsung Galaxy A50 A505G 64GB Duos GSM Unlocked Phone w/Triple 25MP Camera - Blue,Samsung
+B07QQYHSR5,screen,28,0.4642857142857143,0.32142857142857145,0.143,Samsung Galaxy A50 A505G 64GB Duos GSM Unlocked Phone w/Triple 25MP Camera - Blue,Samsung
+B07QQYHSR5,software,10,0.1,0.6,-0.5,Samsung Galaxy A50 A505G 64GB Duos GSM Unlocked Phone w/Triple 25MP Camera - Blue,Samsung
+B07QQYHSR5,storage,14,0.42857142857142855,0.21428571428571427,0.214,Samsung Galaxy A50 A505G 64GB Duos GSM Unlocked Phone w/Triple 25MP Camera - Blue,Samsung
+B07QQYHSR5,usability,36,0.2777777777777778,0.6111111111111112,-0.333,Samsung Galaxy A50 A505G 64GB Duos GSM Unlocked Phone w/Triple 25MP Camera - Blue,Samsung
+B07RWFC6NY,battery,46,0.4782608695652174,0.2391304347826087,0.239,"Samsung Galaxy A70 128GB/6GB SM-A705M/DS 6.7"" HD+ Infinity-U 4G/LTE Factory Unlocked Smartphone (International Version , No Warranty) (Blue)",Samsung
+B07RWFC6NY,camera,32,0.375,0.4375,-0.062,"Samsung Galaxy A70 128GB/6GB SM-A705M/DS 6.7"" HD+ Infinity-U 4G/LTE Factory Unlocked Smartphone (International Version , No Warranty) (Blue)",Samsung
+B07RWFC6NY,network,32,0.375,0.28125,0.094,"Samsung Galaxy A70 128GB/6GB SM-A705M/DS 6.7"" HD+ Infinity-U 4G/LTE Factory Unlocked Smartphone (International Version , No Warranty) (Blue)",Samsung
+B07RWFC6NY,price,32,0.8125,0.09375,0.719,"Samsung Galaxy A70 128GB/6GB SM-A705M/DS 6.7"" HD+ Infinity-U 4G/LTE Factory Unlocked Smartphone (International Version , No Warranty) (Blue)",Samsung
+B07RWFC6NY,screen,32,0.5625,0.21875,0.344,"Samsung Galaxy A70 128GB/6GB SM-A705M/DS 6.7"" HD+ Infinity-U 4G/LTE Factory Unlocked Smartphone (International Version , No Warranty) (Blue)",Samsung
+B07RWFC6NY,software,11,0.36363636363636365,0.18181818181818182,0.182,"Samsung Galaxy A70 128GB/6GB SM-A705M/DS 6.7"" HD+ Infinity-U 4G/LTE Factory Unlocked Smartphone (International Version , No Warranty) (Blue)",Samsung
+B07RWFC6NY,sound,11,0.36363636363636365,0.5454545454545454,-0.182,"Samsung Galaxy A70 128GB/6GB SM-A705M/DS 6.7"" HD+ Infinity-U 4G/LTE Factory Unlocked Smartphone (International Version , No Warranty) (Blue)",Samsung
+B07RWFC6NY,storage,14,0.7142857142857143,0.07142857142857142,0.643,"Samsung Galaxy A70 128GB/6GB SM-A705M/DS 6.7"" HD+ Infinity-U 4G/LTE Factory Unlocked Smartphone (International Version , No Warranty) (Blue)",Samsung
+B07RWFC6NY,usability,23,0.30434782608695654,0.4782608695652174,-0.174,"Samsung Galaxy A70 128GB/6GB SM-A705M/DS 6.7"" HD+ Infinity-U 4G/LTE Factory Unlocked Smartphone (International Version , No Warranty) (Blue)",Samsung
+B07V5KS95Y,battery,40,0.35,0.4,-0.05,"Samsung Galaxy Note 10+ Plus Factory Unlocked Cell Phone with 512GB (U.S. Warranty), Aura Black/ Note10+",Samsung
+B07V5KS95Y,camera,53,0.5094339622641509,0.18867924528301888,0.321,"Samsung Galaxy Note 10+ Plus Factory Unlocked Cell Phone with 512GB (U.S. Warranty), Aura Black/ Note10+",Samsung
+B07V5KS95Y,customer_service,24,0.125,0.5833333333333334,-0.458,"Samsung Galaxy Note 10+ Plus Factory Unlocked Cell Phone with 512GB (U.S. Warranty), Aura Black/ Note10+",Samsung
+B07V5KS95Y,delivery,17,0.5294117647058824,0.35294117647058826,0.176,"Samsung Galaxy Note 10+ Plus Factory Unlocked Cell Phone with 512GB (U.S. Warranty), Aura Black/ Note10+",Samsung
+B07V5KS95Y,design,21,0.6666666666666666,0.19047619047619047,0.476,"Samsung Galaxy Note 10+ Plus Factory Unlocked Cell Phone with 512GB (U.S. Warranty), Aura Black/ Note10+",Samsung
+B07V5KS95Y,network,28,0.10714285714285714,0.4642857142857143,-0.357,"Samsung Galaxy Note 10+ Plus Factory Unlocked Cell Phone with 512GB (U.S. Warranty), Aura Black/ Note10+",Samsung
+B07V5KS95Y,performance,15,0.6666666666666666,0.26666666666666666,0.4,"Samsung Galaxy Note 10+ Plus Factory Unlocked Cell Phone with 512GB (U.S. Warranty), Aura Black/ Note10+",Samsung
+B07V5KS95Y,price,25,0.4,0.52,-0.12,"Samsung Galaxy Note 10+ Plus Factory Unlocked Cell Phone with 512GB (U.S. Warranty), Aura Black/ Note10+",Samsung
+B07V5KS95Y,screen,47,0.46808510638297873,0.3191489361702128,0.149,"Samsung Galaxy Note 10+ Plus Factory Unlocked Cell Phone with 512GB (U.S. Warranty), Aura Black/ Note10+",Samsung
+B07V5KS95Y,software,15,0.2,0.6,-0.4,"Samsung Galaxy Note 10+ Plus Factory Unlocked Cell Phone with 512GB (U.S. Warranty), Aura Black/ Note10+",Samsung
+B07V5KS95Y,sound,13,0.15384615384615385,0.46153846153846156,-0.308,"Samsung Galaxy Note 10+ Plus Factory Unlocked Cell Phone with 512GB (U.S. Warranty), Aura Black/ Note10+",Samsung
+B07V5KS95Y,storage,15,0.4666666666666667,0.26666666666666666,0.2,"Samsung Galaxy Note 10+ Plus Factory Unlocked Cell Phone with 512GB (U.S. Warranty), Aura Black/ Note10+",Samsung
+B07V5KS95Y,usability,18,0.2777777777777778,0.6111111111111112,-0.333,"Samsung Galaxy Note 10+ Plus Factory Unlocked Cell Phone with 512GB (U.S. Warranty), Aura Black/ Note10+",Samsung
+B07VD3JH2C,battery,12,0.5833333333333334,0.0,0.583,"Xiaomi Mi A3 64GB + 4GB RAM, Triple Camera, 4G LTE Smartphone - International Global Version (Not just Blue)",Xiaomi
+B07VD3JH2C,camera,23,0.5652173913043478,0.21739130434782608,0.348,"Xiaomi Mi A3 64GB + 4GB RAM, Triple Camera, 4G LTE Smartphone - International Global Version (Not just Blue)",Xiaomi
+B07VD3JH2C,network,17,0.17647058823529413,0.35294117647058826,-0.176,"Xiaomi Mi A3 64GB + 4GB RAM, Triple Camera, 4G LTE Smartphone - International Global Version (Not just Blue)",Xiaomi
+B07VD3JH2C,price,21,0.7142857142857143,0.09523809523809523,0.619,"Xiaomi Mi A3 64GB + 4GB RAM, Triple Camera, 4G LTE Smartphone - International Global Version (Not just Blue)",Xiaomi
+B07VD3JH2C,screen,30,0.4,0.3,0.1,"Xiaomi Mi A3 64GB + 4GB RAM, Triple Camera, 4G LTE Smartphone - International Global Version (Not just Blue)",Xiaomi
+B07VD3JH2C,software,12,0.3333333333333333,0.0,0.333,"Xiaomi Mi A3 64GB + 4GB RAM, Triple Camera, 4G LTE Smartphone - International Global Version (Not just Blue)",Xiaomi
+B07VD3JH2C,usability,12,0.5,0.4166666666666667,0.083,"Xiaomi Mi A3 64GB + 4GB RAM, Triple Camera, 4G LTE Smartphone - International Global Version (Not just Blue)",Xiaomi
+B07VZL1W7K,battery,15,0.6666666666666666,0.2,0.467,"Samsung Galaxy A50 US Version Factory Unlocked Cell Phone with 64GB Memory, 6.4"" Screen, Black, [SM-A505UZKNXAA]",Samsung
+B07VZL1W7K,camera,21,0.5238095238095238,0.19047619047619047,0.333,"Samsung Galaxy A50 US Version Factory Unlocked Cell Phone with 64GB Memory, 6.4"" Screen, Black, [SM-A505UZKNXAA]",Samsung
+B07VZL1W7K,design,10,0.7,0.2,0.5,"Samsung Galaxy A50 US Version Factory Unlocked Cell Phone with 64GB Memory, 6.4"" Screen, Black, [SM-A505UZKNXAA]",Samsung
+B07VZL1W7K,network,45,0.3111111111111111,0.4222222222222222,-0.111,"Samsung Galaxy A50 US Version Factory Unlocked Cell Phone with 64GB Memory, 6.4"" Screen, Black, [SM-A505UZKNXAA]",Samsung
+B07VZL1W7K,performance,10,0.5,0.5,0.0,"Samsung Galaxy A50 US Version Factory Unlocked Cell Phone with 64GB Memory, 6.4"" Screen, Black, [SM-A505UZKNXAA]",Samsung
+B07VZL1W7K,price,25,0.76,0.16,0.6,"Samsung Galaxy A50 US Version Factory Unlocked Cell Phone with 64GB Memory, 6.4"" Screen, Black, [SM-A505UZKNXAA]",Samsung
+B07VZL1W7K,screen,26,0.38461538461538464,0.4230769230769231,-0.038,"Samsung Galaxy A50 US Version Factory Unlocked Cell Phone with 64GB Memory, 6.4"" Screen, Black, [SM-A505UZKNXAA]",Samsung
+B07VZL1W7K,usability,18,0.3888888888888889,0.5555555555555556,-0.167,"Samsung Galaxy A50 US Version Factory Unlocked Cell Phone with 64GB Memory, 6.4"" Screen, Black, [SM-A505UZKNXAA]",Samsung
+B07VZL3L5V,battery,29,0.6206896551724138,0.20689655172413793,0.414,"Samsung Galaxy A20 US Version Factory Unlocked Cell Phone with 32GB Memory, 6.4"" Screen, [SM-A205UZKAXAA], 12 Month Samsung US Warranty, GSM & CDMA Compatible, Black",Samsung
+B07VZL3L5V,camera,32,0.5625,0.15625,0.406,"Samsung Galaxy A20 US Version Factory Unlocked Cell Phone with 32GB Memory, 6.4"" Screen, [SM-A205UZKAXAA], 12 Month Samsung US Warranty, GSM & CDMA Compatible, Black",Samsung
+B07VZL3L5V,delivery,15,0.5333333333333333,0.26666666666666666,0.267,"Samsung Galaxy A20 US Version Factory Unlocked Cell Phone with 32GB Memory, 6.4"" Screen, [SM-A205UZKAXAA], 12 Month Samsung US Warranty, GSM & CDMA Compatible, Black",Samsung
+B07VZL3L5V,design,28,0.8214285714285714,0.14285714285714285,0.679,"Samsung Galaxy A20 US Version Factory Unlocked Cell Phone with 32GB Memory, 6.4"" Screen, [SM-A205UZKAXAA], 12 Month Samsung US Warranty, GSM & CDMA Compatible, Black",Samsung
+B07VZL3L5V,network,39,0.3333333333333333,0.23076923076923078,0.103,"Samsung Galaxy A20 US Version Factory Unlocked Cell Phone with 32GB Memory, 6.4"" Screen, [SM-A205UZKAXAA], 12 Month Samsung US Warranty, GSM & CDMA Compatible, Black",Samsung
+B07VZL3L5V,performance,12,0.6666666666666666,0.25,0.417,"Samsung Galaxy A20 US Version Factory Unlocked Cell Phone with 32GB Memory, 6.4"" Screen, [SM-A205UZKAXAA], 12 Month Samsung US Warranty, GSM & CDMA Compatible, Black",Samsung
+B07VZL3L5V,price,45,0.6666666666666666,0.2,0.467,"Samsung Galaxy A20 US Version Factory Unlocked Cell Phone with 32GB Memory, 6.4"" Screen, [SM-A205UZKAXAA], 12 Month Samsung US Warranty, GSM & CDMA Compatible, Black",Samsung
+B07VZL3L5V,screen,43,0.5813953488372093,0.3488372093023256,0.233,"Samsung Galaxy A20 US Version Factory Unlocked Cell Phone with 32GB Memory, 6.4"" Screen, [SM-A205UZKAXAA], 12 Month Samsung US Warranty, GSM & CDMA Compatible, Black",Samsung
+B07VZL3L5V,usability,14,0.5,0.42857142857142855,0.071,"Samsung Galaxy A20 US Version Factory Unlocked Cell Phone with 32GB Memory, 6.4"" Screen, [SM-A205UZKAXAA], 12 Month Samsung US Warranty, GSM & CDMA Compatible, Black",Samsung
+B07WSJYDXX,battery,106,0.49056603773584906,0.27358490566037735,0.217,Motorola G6 – 32 GB – Unlocked (AT&T/Sprint/T-Mobile/Verizon) – Deep Indigo - (U.S. Warranty) - PAAE0011US,Motorola
+B07WSJYDXX,camera,70,0.4142857142857143,0.35714285714285715,0.057,Motorola G6 – 32 GB – Unlocked (AT&T/Sprint/T-Mobile/Verizon) – Deep Indigo - (U.S. Warranty) - PAAE0011US,Motorola
+B07WSJYDXX,customer_service,34,0.11764705882352941,0.47058823529411764,-0.353,Motorola G6 – 32 GB – Unlocked (AT&T/Sprint/T-Mobile/Verizon) – Deep Indigo - (U.S. Warranty) - PAAE0011US,Motorola
+B07WSJYDXX,delivery,10,0.5,0.2,0.3,Motorola G6 – 32 GB – Unlocked (AT&T/Sprint/T-Mobile/Verizon) – Deep Indigo - (U.S. Warranty) - PAAE0011US,Motorola
+B07WSJYDXX,design,20,0.6,0.4,0.2,Motorola G6 – 32 GB – Unlocked (AT&T/Sprint/T-Mobile/Verizon) – Deep Indigo - (U.S. Warranty) - PAAE0011US,Motorola
+B07WSJYDXX,network,73,0.2191780821917808,0.3150684931506849,-0.096,Motorola G6 – 32 GB – Unlocked (AT&T/Sprint/T-Mobile/Verizon) – Deep Indigo - (U.S. Warranty) - PAAE0011US,Motorola
+B07WSJYDXX,performance,18,0.6111111111111112,0.2222222222222222,0.389,Motorola G6 – 32 GB – Unlocked (AT&T/Sprint/T-Mobile/Verizon) – Deep Indigo - (U.S. Warranty) - PAAE0011US,Motorola
+B07WSJYDXX,price,78,0.7307692307692307,0.1794871794871795,0.551,Motorola G6 – 32 GB – Unlocked (AT&T/Sprint/T-Mobile/Verizon) – Deep Indigo - (U.S. Warranty) - PAAE0011US,Motorola
+B07WSJYDXX,screen,46,0.2608695652173913,0.5869565217391305,-0.326,Motorola G6 – 32 GB – Unlocked (AT&T/Sprint/T-Mobile/Verizon) – Deep Indigo - (U.S. Warranty) - PAAE0011US,Motorola
+B07WSJYDXX,software,30,0.26666666666666666,0.3,-0.033,Motorola G6 – 32 GB – Unlocked (AT&T/Sprint/T-Mobile/Verizon) – Deep Indigo - (U.S. Warranty) - PAAE0011US,Motorola
+B07WSJYDXX,sound,30,0.4,0.5333333333333333,-0.133,Motorola G6 – 32 GB – Unlocked (AT&T/Sprint/T-Mobile/Verizon) – Deep Indigo - (U.S. Warranty) - PAAE0011US,Motorola
+B07WSJYDXX,storage,18,0.3888888888888889,0.1111111111111111,0.278,Motorola G6 – 32 GB – Unlocked (AT&T/Sprint/T-Mobile/Verizon) – Deep Indigo - (U.S. Warranty) - PAAE0011US,Motorola
+B07WSJYDXX,usability,22,0.5,0.4090909090909091,0.091,Motorola G6 – 32 GB – Unlocked (AT&T/Sprint/T-Mobile/Verizon) – Deep Indigo - (U.S. Warranty) - PAAE0011US,Motorola
+B07YMNLXL3,battery,47,0.3191489361702128,0.46808510638297873,-0.149,Google Pixel 4 - Just Black - 64GB - Unlocked,Google
+B07YMNLXL3,camera,47,0.46808510638297873,0.19148936170212766,0.277,Google Pixel 4 - Just Black - 64GB - Unlocked,Google
+B07YMNLXL3,customer_service,12,0.08333333333333333,0.4166666666666667,-0.333,Google Pixel 4 - Just Black - 64GB - Unlocked,Google
+B07YMNLXL3,price,21,0.38095238095238093,0.47619047619047616,-0.095,Google Pixel 4 - Just Black - 64GB - Unlocked,Google
+B07YMNLXL3,screen,36,0.4444444444444444,0.2777777777777778,0.167,Google Pixel 4 - Just Black - 64GB - Unlocked,Google
+B07YMNLXL3,software,13,0.6153846153846154,0.23076923076923078,0.385,Google Pixel 4 - Just Black - 64GB - Unlocked,Google
+B07YMNLXL3,sound,10,0.4,0.3,0.1,Google Pixel 4 - Just Black - 64GB - Unlocked,Google
+B07YMNLXL3,usability,32,0.46875,0.4375,0.031,Google Pixel 4 - Just Black - 64GB - Unlocked,Google
+B081H6STQQ,battery,14,0.21428571428571427,0.14285714285714285,0.071,Sony Xperia 1 Unlocked Smartphone and WH1000XM3 Wireless Noise Cancelling Heaphones,Sony
+B081H6STQQ,camera,49,0.5510204081632653,0.14285714285714285,0.408,Sony Xperia 1 Unlocked Smartphone and WH1000XM3 Wireless Noise Cancelling Heaphones,Sony
+B081H6STQQ,design,25,0.72,0.0,0.72,Sony Xperia 1 Unlocked Smartphone and WH1000XM3 Wireless Noise Cancelling Heaphones,Sony
+B081H6STQQ,network,15,0.06666666666666667,0.4666666666666667,-0.4,Sony Xperia 1 Unlocked Smartphone and WH1000XM3 Wireless Noise Cancelling Heaphones,Sony
+B081H6STQQ,screen,31,0.5161290322580645,0.1935483870967742,0.323,Sony Xperia 1 Unlocked Smartphone and WH1000XM3 Wireless Noise Cancelling Heaphones,Sony
+B081H6STQQ,sound,22,0.4090909090909091,0.3181818181818182,0.091,Sony Xperia 1 Unlocked Smartphone and WH1000XM3 Wireless Noise Cancelling Heaphones,Sony
