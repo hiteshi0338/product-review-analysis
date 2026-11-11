@@ -59,36 +59,6 @@ def run_search(S, query, asin, aspect, sentiment, k, min_sim, allowed_asins):
     out["_norm"] = out["sentence"].str.lower().str.replace(r"[^a-z0-9 ]", "", regex=True).str.strip()
     out = out.drop_duplicates("_norm").head(k).drop(columns="_norm")
     return out
-# def run_search(S, query, asin, aspect, sentiment, k, min_sim, allowed_asins):
-#     idx = S["idx"]
-#     mask = idx["asin"].isin(allowed_asins).values
-#     if asin:
-#         mask &= (idx["asin"] == asin).values
-#     if aspect != "Any":
-#         mask &= idx["aspect_list"].str.contains(rf"(?:^|\|){aspect}(?:\||$)").values
-#     if sentiment != "Any":
-#         mask &= idx["sentiments"].str.contains(sentiment).values
-
-#     if S["mode"] == "semantic":
-#         qv = S["model"].encode([query], normalize_embeddings=True)[0]
-#         sims = S["emb"] @ qv
-#     else:
-#         qv = S["tfidf"].transform([query])
-#         sims = (S["X"] @ qv.T).toarray().ravel()
-
-#     sims = np.where(mask, sims, -1)
-#     order = np.argsort(-sims)[: k * 4]
-#     cand = [i for i in order if sims[i] >= min_sim]
-#     out = idx.loc[cand].copy()
-#     out["similarity"] = sims[cand]
-#     out["_norm"] = out["sentence"].str.lower().str.replace(r"[^a-z0-9 ]", "", regex=True).str.strip()
-#     out = out.drop_duplicates("_norm").head(k).drop(columns="_norm")
-#     return out
-
-#     # top = [i for i in np.argsort(-sims)[:k] if sims[i] >= min_sim]
-#     # out = idx.loc[top].copy()
-#     # out["similarity"] = sims[top]
-#     # return out
 
 scores, overall, issues, ex_issue, ex = load()
 TH = "theme" if "theme" in issues.columns else "theme_label"
@@ -128,9 +98,8 @@ with st.sidebar:
     st.caption("Aspect scores with few mentions are noisy; check the 'mentions' column.")
 
 tab1, tab2, tab3, tab4 = st.tabs(["Product insights", "Compare products", "All products", "Search reviews"])
-# tab1, tab2, tab3 = st.tabs(["Product insights", "Compare products", "All products"])
 
-# ---------- Tab 1 ----------
+
 with tab1:
     d = scores[scores["asin"] == asin]
     name = d["product"].iloc[0]
@@ -166,7 +135,6 @@ with tab1:
     for s in e[e["sentiment"] == "negative"]["sentence"]:
         right.write(f"- {s}")
 
-# ---------- Tab 2 ----------
 with tab2:
     st.write("Compare two products aspect by aspect.")
     ca, cb = st.columns(2)
@@ -192,7 +160,6 @@ with tab2:
         ).properties(height=40 * len(common) + 60))
         st.altair_chart(chart, use_container_width=True)
 
-# ---------- Tab 3 ----------
 with tab3:
     st.subheader("All products")
     st.altair_chart(score_chart(overall), use_container_width=True)
@@ -207,7 +174,6 @@ with tab3:
     for s in ex_issue[(ex_issue["aspect"] == asp2) & (ex_issue[TH_EX] == th)]["sentence"].head(5):
         st.write(f"- {s}")
 
-# ---------- Tab 4 ----------
 with tab4:
     st.subheader("Search reviews by meaning")
     S = load_search()
