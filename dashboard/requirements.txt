@@ -3,4 +3,4 @@ pandas
 numpy
 altair
 scikit-learn
-sentence-transformers
+# sentence-transformers
