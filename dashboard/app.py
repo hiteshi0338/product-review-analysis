@@ -3,22 +3,28 @@ import altair as alt
 import streamlit as st
 import numpy as np
 
+from pathlib import Path
+DATA = Path(__file__).parent / "data"
+
 st.set_page_config(page_title="Product Review Intelligence", layout="wide")
 
 
 @st.cache_data
 def load():
-    scores = pd.read_csv("data/product_aspect_scores.csv")
-    overall = pd.read_csv("data/overall_aspect_summary.csv")
-    issues = pd.read_csv("data/product_issues.csv")
-    ex_issue = pd.read_csv("data/issue_examples.csv")
-    ex = pd.read_csv("data/examples_by_product.csv")
+    scores = pd.read_csv(DATA / "product_aspect_scores.csv")
+    overall = pd.read_csv(DATA / "overall_aspect_summary.csv")
+    issues = pd.read_csv(DATA / "product_issues.csv")
+    ex_issue = pd.read_csv(DATA / "issue_examples.csv")
+    ex = pd.read_csv(DATA / "examples_by_product.csv")
+
     return scores, overall, issues, ex_issue, ex
 
 @st.cache_resource
 def load_search():
-    idx = pd.read_csv("data/search_index.csv")
-    emb = np.load("data/search_emb.npy").astype("float32")
+
+    idx = pd.read_csv(DATA / "search_index.csv")
+    emb = np.load(DATA / "search_emb.npy").astype("float32")
+   
     S = {"idx": idx, "emb": emb, "mode": "keyword", "model": None}
     try:
         from sentence_transformers import SentenceTransformer
